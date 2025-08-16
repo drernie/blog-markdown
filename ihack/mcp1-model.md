@@ -8,140 +8,146 @@ Host ↔ Client ↔ Server (JSON-RPC 2.0)
 
 - **Host:** LLM application (ChatGPT, Claude, etc.)
 - **Client:** Connector/adapter that bridges Host and Server
-- **Server:** Provides capabilities (tools, resources, prompts)
+- **Server:** Provides capabilities and can initiate requests back to client
 
-## Capability Declaration (Static)
+## Bidirectional Capability Model
 
-Server announces what it can do at connection time:
+### Server Capabilities (Server → Client)
 
-*(Example schema for illustration; actual protocol definitions contain more detail.)*
+- **Resources:** Contextual data for users or AI models
+- **Prompts:** Templated messages and workflows
+- **Tools:** Functions for AI models to execute
+
+### Client Capabilities (Server ← Client)
+
+- **Sampling:** Server can request LLM interactions/generation
+- **Roots:** Server can inquire about URI/filesystem boundaries  
+- **Elicitation:** Server can request additional user information
+
+### Capability Negotiation
+
+Both server and client declare capabilities at connection time:
 
 ```json
 {
   "capabilities": {
-    "tools": {
-      "listChanged": true
-    },
-    "resources": {
-      "subscribe": true,
-      "listChanged": true
-    },
-    "prompts": {
-      "listChanged": true
-    }
+    "tools": {"listChanged": true},
+    "resources": {"subscribe": true, "listChanged": true},
+    "prompts": {"listChanged": true},
+    "sampling": {},
+    "roots": {"listChanged": true},
+    "elicitation": {}
   }
 }
 ```
 
 ## Core Interaction Patterns
 
-### 1. Tool Execution
+### Server Capabilities (Client → Server)
+
+#### Tool Execution
 
 ```json
-// Client requests tool list
+// List and call tools
 {"method": "tools/list"}
-
-// Server responds with available tools
-{
-  "tools": [
-    {
-      "name": "calculator", 
-      "description": "Perform arithmetic calculations",
-      "inputSchema": {"type": "object", "properties": {"expression": {"type": "string"}}}
-    }
-  ]
-}
-
-// Client calls tool
 {"method": "tools/call", "params": {"name": "calculator", "arguments": {"expression": "2+2"}}}
-
-// Server executes and responds
-{"result": {"content": [{"type": "text", "text": "4"}]}}
 ```
 
-### 2. Resource Access
+#### Resource Access  
 
 ```json
-// Client lists resources
+// List and read resources
 {"method": "resources/list"}
-
-// Server provides resource list
-{
-  "resources": [
-    {"uri": "file://data.csv", "name": "Sales Data", "mimeType": "text/csv"}
-  ]
-}
-
-// Client reads resource
 {"method": "resources/read", "params": {"uri": "file://data.csv"}}
-
-// Server returns content
-{"contents": [{"uri": "file://data.csv", "mimeType": "text/csv", "text": "name,sales\nAlice,100\n..."}]}
 ```
 
-### 3. Prompt Templates
+#### Prompt Templates
 
 ```json
-// Client lists prompts
+// List and get prompts
 {"method": "prompts/list"}
-
-// Server provides prompt templates
-{
-  "prompts": [
-    {
-      "name": "analyze_data",
-      "description": "Analyze dataset with specific focus",
-      "arguments": [{"name": "focus", "description": "Analysis focus", "required": true}]
-    }
-  ]
-}
-
-// Client gets prompt
 {"method": "prompts/get", "params": {"name": "analyze_data", "arguments": {"focus": "trends"}}}
-
-// Server returns filled template
-{"messages": [{"role": "user", "content": {"type": "text", "text": "Analyze this dataset focusing on trends..."}}]}
 ```
 
-## Key Characteristics
+### Client Capabilities (Server → Client)
 
-### Stateful Connections
+#### Sampling (Server-initiated LLM requests)
+
+```json
+// Server requests LLM generation
+{"method": "sampling/createMessage", "params": {
+  "messages": [{"role": "user", "content": {"type": "text", "text": "Analyze this data"}}],
+  "maxTokens": 100
+}}
+```
+
+#### Roots (Filesystem boundary inquiries)
+
+```json
+// Server asks about accessible paths
+{"method": "roots/list"}
+```
+
+#### Elicitation (Request user information)
+
+```json
+// Server requests additional context from user
+{"method": "elicitation/request", "params": {
+  "message": "What is your analysis goal?",
+  "inputType": "text"
+}}
+```
+
+## Protocol Features
+
+### Base Protocol Utilities
+
+- **Configuration:** Connection setup and management
+- **Progress tracking:** Monitor long-running operations  
+- **Cancellation:** Abort operations in progress
+- **Error reporting:** Standardized error handling
+- **Logging:** Debug and audit capabilities
+
+### Key Characteristics
+
+#### Bidirectional Communication
+
+- Server → Client: sampling, roots, elicitation requests
+- Client → Server: tools, resources, prompts access
+- Both directions use JSON-RPC 2.0
+
+#### Stateful Connections
 
 - Persistent connection between client and server
-- Capability negotiation happens once at start
-- Tools/resources can change, triggering notifications
+- Capability negotiation at connection establishment
+- Change notifications (listChanged events)
 
-### Request/Response Model
+#### Security Model
 
-- Client initiates all interactions
-- Server responds to requests
-- No server-initiated conversations
+- Explicit user consent for data access
+- User control over shared data and actions  
+- Careful tool execution management
+- Limited server visibility into prompts
 
-### Passive Tools
+## Current Limitations
 
-- Tools wait to be called with specific parameters
-- No clarification or context requests
-- Execute function, return result
+1. **Limited conversational flow** - Server can ask questions but tools cannot
+2. **Context isolation** - Each interaction is independent
+3. **Static capability model** - No dynamic negotiation during operation
+4. **External orchestration required** - Complex workflows need external coordination
+5. **No policy propagation** - Governance rules don't travel with requests
 
-### Orchestration Outside Protocol
+## Strengths
 
-- MCP handles tool connectivity
-- LangChain/etc. handles when/why to call tools
-- Memory management separate from protocol
-- Routing logic external to MCP
+- **Already bidirectional** - Foundation for conversational interactions exists
+- **Secure by design** - Strong consent and control model
+- **Vendor neutral** - Works across AI platforms
+- **Extensible** - JSON-RPC enables future enhancements
+- **Incremental adoption** - Can be layered into existing systems
 
-## Limitations
+## Sources
 
-1. **No conversational capability** - Tools can't ask questions
-2. **Context isolation** - Each tool call is independent
-3. **Static capabilities** - No dynamic discovery or negotiation
-4. **External orchestration required** - MCP is just the "pipe"
-5. **No policy awareness** - Governance handled separately
+Based on Model Context Protocol Specification 2025-06-18:
 
-## What Works Well
-
-- **Simple and focused** - Clear separation of concerns
-- **Incrementally adoptable** - Designed for gradual rollout across platforms  
-- **Vendor neutral** - Works across different AI platforms
-- **Secure** - Explicit user control and consent model
-- **Extensible** - JSON-RPC allows for future enhancements
+- Core specification: <https://modelcontextprotocol.io/specification/2025-06-18>
+- Protocol overview: <https://modelcontextprotocol.io/specification>
