@@ -75,3 +75,89 @@ The current terms reflect MCP 1.0's actual capabilities and limitations:
 - All communication flows through it
 - Acts as coordinator between host and servers
 - Single point of control
+
+## Terminology Evolution Strategy
+
+Looking at the gap analysis, the core issue is that MCP 1.0's Client/Server asymmetry prevents the peer-to-peer conversations needed for Models, Agents, and autonomous capabilities.
+
+### The Asymmetry Problem
+
+**Current MCP 1.0 architecture:**
+
+```tree
+Host (LLM app)
+├── MCP Client (protocol wrapper)
+└── app logic
+
+MCP Server (protocol wrapper)  
+├── Tools
+├── Resources  
+└── Prompts
+```
+
+**Problem:** Client and Server are asymmetric - only Clients can initiate sampling, only Servers provide capabilities. This breaks down when we need:
+
+- Models (other LLMs) that both provide and consume capabilities
+- Agents that autonomously initiate conversations
+- Tools that delegate to other tools
+
+### Proposed Solution: Symmetric Shims
+
+**MCP 2.0 architecture with peer Shims:**
+
+```tree
+Host (LLM app)
+├── MCP Shim (symmetric protocol wrapper)
+└── app logic
+
+MCP Shim (symmetric protocol wrapper)
+├── Model capabilities
+├── Agent capabilities  
+└── Tool capabilities
+
+MCP Shim (symmetric protocol wrapper)
+├── Different capabilities
+└── Different behaviors
+```
+
+### Shim Capabilities Model
+
+Each **MCP Shim** can both:
+
+- **Provide capabilities** (tools, resources, prompts, models, agents)
+- **Consume capabilities** (sampling, elicitation, discovery, delegation)
+
+**Symmetric communication patterns:**
+
+```tree
+Shim ↔ Shim (peer conversation)
+Shim ↔ Shim (capability delegation)  
+Shim ↔ Shim (collaborative problem-solving)
+```
+
+### Terminology Evolution
+
+| MCP 1.0 Term | MCP 2.0 Evolution | Rationale |
+|--------------|------------------|-----------|
+| Client | Shim | Symmetric protocol wrapper, can initiate and respond |
+| Server | Shim | Symmetric protocol wrapper, can initiate and respond |
+| Host | Host *(unchanged)* | Still the LLM application, but now uses symmetric Shim |
+| Tool/Resource/Prompt | Capability | Unified term for anything a Shim can provide |
+| Sampling/Elicitation | Conversation | Generalized peer-to-peer interaction |
+
+### Key Benefits
+
+**Eliminates artificial constraints:**
+
+- Any Shim can initiate sampling (Gap 1: Server-Initiated Sampling)
+- Any Shim can discover other Shims (Gap 2: Autonomous Agent Discovery)  
+- Shims can maintain shared context (Gap 3: Shared Workflow Context)
+- Shims can negotiate capabilities dynamically (Gap 4: Runtime Capability Negotiation)
+- Policy metadata flows between peer Shims (Gap 5: Policy-Aware Context Propagation)
+
+**Enables natural scaling:**
+
+- Add Models as peer Shims that can both consume and provide LLM capabilities
+- Add Agents as peer Shims that autonomously initiate conversations
+- Add Memory systems as peer Shims that maintain persistent context
+- All communicate through the same symmetric protocol
