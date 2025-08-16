@@ -1,51 +1,109 @@
-# MCP 2.0: Fractal Collaboration Model
+# MCP 2.0: Minimal Universal Router Extensions
 
-## Core Pattern
+## Core Innovation
 
-All AI orchestration is collaborative dialogue:
+Extend MCP 1.0's capability negotiation to include **context negotiation** - turning tools into conversational participants.
 
+## Required Enhancements
+
+### 1. Context Capability Declaration
+
+Extend existing MCP capability negotiation:
+
+```json
+{
+  "capabilities": {
+    "tools": {...},
+    "context": {
+      "supports": ["dialogue", "clarification"],
+      "levels": ["basic", "contextual", "conversational"]
+    }
+  }
+}
 ```
-A: B, can you help me with X?
-B: Sure, but what do you mean by Y?
-A: Let me clarify... or ask C
-C: I can help, but need context about Z...
+
+### 2. Progressive Message Types
+
+**Level 0 (MCP 1.0 compatible):**
+
+```json
+{"method": "tools/call", "params": {"name": "calc", "arguments": {"a": 2}}}
 ```
 
-Same pattern at every scale.
+**Level 1 (context-aware):**
 
-## Key Primitives
+```json
+{"method": "tools/call", "params": {"name": "calc", "arguments": {"a": 2}, "context": {"purpose": "budget"}}}
+```
 
-**Basic Exchange:**
-- ASK(question, context)
-- CLARIFY(what_I_need)
-- PROVIDE(answer, confidence)
+**Level 2 (conversational):**
 
-**Participants:**
-- Fluid roles (any can ask/answer)
-- Specialized by capability
-- No hierarchy
+```json
+{"method": "tools/converse", "params": {"intent": "calculation", "context": {...}}}
+{"method": "tools/clarify", "params": {"need": "what type of calculation?"}}
+```
 
-**Adaptive Context:**
-- Incremental sharing
-- Ask for clarification
-- No context dumps
+### 3. Adaptive Context Protocol
 
-## Fractal Properties
+- **Start minimal:** Every interaction begins with basic prompt
+- **Negotiate upward:** Tools can request additional context
+- **Graceful fallback:** Unsupported context levels fail gracefully
 
-**Self-similarity:** Same pattern for model↔tool, agent↔agent, user↔system
+## Emergent Universal Routing
 
-**Emergent complexity:** Multi-step reasoning through chained clarifications
+With these minimal changes, complex orchestration emerges naturally:
 
-**Natural decomposition:** "Plan trip" → "What's budget?" → "Check account"
+**Traditional routing:**
 
-## vs. Current Approaches
+```text
+Router reads user intent → selects appropriate tool → executes
+```
 
-**Traditional:** Router→Memory→Tool→Policy (separate systems)
+**MCP 2.0 routing:**
 
-**MCP 2.0:** Participants asking participants (one pattern)
+```text
+Tool A: "Help with X"
+Tool B: "I can help, but need to understand Y first"
+Tool A: "Let me ask the knowledge base about Y"
+Knowledge: "Y depends on context Z..."
+```
 
-## Research Questions
+Routing decisions emerge through the conversation rather than being pre-programmed.
 
-1. How to prevent infinite clarification loops?
-2. Optimal context sharing strategies?
-3. Computational cost vs. fixed pipelines?
+## Implementation Strategy
+
+### Phase 1: Context-Aware Tools
+
+- Existing MCP servers add context support
+- Clients can send optional context fields
+- Backward compatibility maintained
+
+### Phase 2: Clarification Support
+
+- Tools can respond with clarification requests
+- New message types for question/answer flows
+- Natural dialogue patterns emerge
+
+### Phase 3: Participant Discovery
+
+- Tools can suggest better participants
+- Dynamic capability routing
+- Self-organizing tool networks
+
+## Benefits
+
+**Replaces orchestration frameworks:** No need for LangChain, routing logic, memory stores
+
+**Natural policy enforcement:** Governance emerges through conversation patterns
+
+**Observable by design:** Every routing decision is captured in dialogue
+
+**Minimal protocol changes:** Builds on existing MCP foundation
+
+## Key Insight
+
+**MCP 1.0 problem:** Tools are passive - they wait to be called
+
+**MCP 2.0 solution:** Tools become active participants - they can ask questions, request clarification, and suggest alternatives
+
+This single change transforms MCP from a tool connector into a universal orchestration substrate.
