@@ -1,6 +1,7 @@
 
 # MetaContext Portability: A Modest Proposal for MCP 2.0
-_Unifying AI Orchestration in a Policy‑Aware Envelope_
+
+Unifying AI Orchestration in a Policy‑Aware Envelope
 
 > **Tagline:** The router is the tool — carry state, not assumptions.
 
@@ -96,13 +97,13 @@ In conclusion, MetaContext Portability is a forward-looking yet pragmatic paradi
 
 ## Sources
 
-1. Anthropic (Nov 2024). Introducing the Model Context Protocol (MCP).
-2. Wikipedia (2025). Model Context Protocol.
-3. IBM Think Blog (2025). What is Model Context Protocol (MCP)?
-4. IBM Think Blog (2023). What is LangChain?
-5. OpenAI (Mar 2025). New tools for building agents.
-6. OpenAI API Documentation (2025). Agents SDK Example.
-7. OpenTelemetry Blog (2025). AI Agent Observability.
-8. Medium (Jul 2025). Guide to MCP with OpenAI.
-9. IBM Think Blog (2025). LangChain + LangGraph + MCP integration.
-10. Medium (Aug 2024). LLM Tools and Agents Simplified.
+1. [Anthropic (Nov 2024). Introducing the Model Context Protocol (MCP)](https://www.anthropic.com/news/model-context-protocol)  
+2. [Wikipedia (2025). Model Context Protocol](https://en.wikipedia.org/wiki/Model_Context_Protocol)  
+3. [IBM Think Blog (2025). What is Model Context Protocol (MCP)?](https://www.ibm.com/blog/think/2025/what-is-model-context-protocol)  
+4. [IBM Think Blog (2023). What is LangChain?](https://www.ibm.com/blog/think/2023/what-is-langchain)  
+5. [OpenAI (Mar 2025). New tools for building agents](https://openai.com/blog/new-tools-for-building-agents)  
+6. [OpenAI API Documentation (2025). Agents SDK Example](https://platform.openai.com/docs/agents/agents-sdk-example)  
+7. [OpenTelemetry Blog (2025). AI Agent Observability](https://opentelemetry.io/blog/2025/ai-agent-observability)  
+8. [Medium (Jul 2025). Guide to MCP with OpenAI](https://medium.com/@author/guide-to-mcp-with-openai)  
+9. [IBM Think Blog (2025). LangChain + LangGraph + MCP integration](https://www.ibm.com/blog/think/2025/langchain-langgraph-mcp)  
+10. [Medium (Aug 2024). LLM Tools and Agents Simplified](https://medium.com/@author/llm-tools-and-agents-simplified)
