@@ -86,21 +86,21 @@ MCP Server (protocol wrapper)
 - Discovered dynamically through conversation, not declared statically
 - Can evolve and adapt based on context
 
-#### Shims (Protocol Proxies)
+#### Adapters
 
-**Universal adapters** that:
+**Thin protocol layers** that:
 
 - Wrap Actors to make them MCP-compatible
-- Handle all MCP protocol complexity (negotiation, discovery, conversation flow)
+- Handle MCP protocol mechanics (message formatting, connection management)
 - Translate between Actor's native interface and MCP conversations
 - Enable symmetric communication - any Actor can talk to any other Actor
 
 ### Proposed Architecture
 
 ```tree
-Actor (Human) ←→ Shim ←→ MCP Protocol ←→ Shim ←→ Actor (LLM)
-Actor (Tool) ←→ Shim ←→ MCP Protocol ←→ Shim ←→ Actor (Database)  
-Actor (Agent) ←→ Shim ←→ MCP Protocol ←→ Shim ←→ Actor (Model)
+Actor (Human) ←→ Adapter ←→ MCP Protocol ←→ Adapter ←→ Actor (LLM)
+Actor (Tool) ←→ Adapter ←→ MCP Protocol ←→ Adapter ←→ Actor (Database)  
+Actor (Agent) ←→ Adapter ←→ MCP Protocol ←→ Adapter ←→ Actor (Model)
 ```
 
 ### Communication Model
@@ -125,35 +125,23 @@ Actor B: "Let me connect you with a financial data source"
 
 | MCP 1.0 Term | MCP 2.0 Evolution | Role |
 |--------------|------------------|------|
-| Client | Shim | Symmetric protocol adapter |
-| Server | Shim | Symmetric protocol adapter |
-| Host | Actor | External system wrapped by Shim |
+| Client | Adapter | Symmetric protocol adapter |
+| Server | Adapter | Symmetric protocol adapter |
+| Host | Actor | External system wrapped by Adapter |
 | Tool/Resource/Prompt | Capability | What an Actor can provide |
 | Model/Agent | Actor | New external systems, same treatment |
 | Sampling/Elicitation | Conversation | Peer-to-peer interaction pattern |
 
 ## 4. Open Questions
 
-### Implementation Questions
+### Does This Terminology Address All User Stories?
 
-1. **Shim Standardization**: How do we define standard interfaces for Shims to wrap different types of Actors?
+1. **Adapter-Enabled Sampling**: Can the Actor/Adapter model enable any Actor to request help from LLM Actors without asymmetric Client/Server constraints?
 
-2. **Capability Negotiation**: What protocol mechanisms enable dynamic capability discovery and negotiation?
+2. **Autonomous Agent Discovery**: Can Actors discover and negotiate with other Actors through their Adapters without human mediation?
 
-3. **Context Management**: How do Shims maintain and share conversation context across multi-Actor workflows?
+3. **Shared Workflow Context**: Can conversations between Actors maintain persistent context across multi-step collaborative workflows?
 
-### Architectural Questions
+4. **Runtime Capability Negotiation**: Can Actors dynamically discover what other Actors can provide through natural conversation rather than static declarations?
 
-1. **Backwards Compatibility**: Can MCP 2.0 Shims interoperate with existing MCP 1.0 Clients/Servers?
-
-2. **Discovery Mechanisms**: How do Actors/Shims find each other in a distributed network?
-
-3. **Security Model**: How do we maintain security and consent when any Actor can talk to any other Actor?
-
-### Conceptual Questions
-
-1. **Actor Boundaries**: What constitutes a single "Actor" vs multiple Actors? (e.g., is a database with multiple tables one Actor or many?)
-
-2. **Capability Granularity**: At what level should capabilities be exposed? (fine-grained functions vs higher-level services?)
-
-3. **Conversation Semantics**: What are the core conversation primitives that all Shims need to support?
+5. **Policy-Aware Context Propagation**: Can governance metadata and audit requirements flow naturally through Actor conversations via their Adapters?
