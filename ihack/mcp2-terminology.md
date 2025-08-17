@@ -1,88 +1,26 @@
-# MCP Terminology Analysis
+# MCP Terminology Evolution
 
-## Understanding MCP 1.0 Current Reality
+## 1. MCP 1.0 Terminology
 
-Before proposing changes, we need to precisely understand what each term means in MCP 1.0 today.
-
-### Complete MCP 1.0 Vocabulary
-
-**Core Entities:**
+### Core Entities
 
 - **Host** - LLM application (ChatGPT, Claude, etc.)
 - **Client** - JSON-RPC connector between host and server
 - **Server** - Process that provides capabilities
 
-**Capability Types:**
+### Capability Types
 
 - **Tool** - Executable function with schema
 - **Resource** - Data source (file, URI, database)
 - **Prompt** - Message template with parameters
 
-**Protocol Artifacts:**
-
-- **Capabilities** - Feature set negotiated at connection
-- **Message** - JSON-RPC request/response structure
-- **Method** - Specific operation (tools/call, resources/read, etc.)
-- **Parameters** - Arguments passed with method calls
-- **Result** - Response data from method execution
-
-**Communication Flows:**
+### Communication Patterns
 
 - **Sampling** - Client capability for LLM generation requests
 - **Roots** - Client capability for filesystem boundary queries
 - **Elicitation** - Client capability for user input requests
 
-**Session Management:**
-
-- **Connection** - Persistent stateful link between client and server
-- **Subscription** - Notification mechanism for capability changes
-- **Initialization** - Capability negotiation handshake
-
-### MCP 1.0 Communication Patterns
-
-**Current flow patterns:**
-
-- Host → Client → Server (for tools/resources/prompts)
-- Server → Client (for sampling/roots/elicitation)
-- Client → Host (for user interaction)
-
-**What's NOT possible in MCP 1.0:**
-
-- Server → Server direct communication
-- Tool → Tool coordination  
-- Server-initiated sampling to other servers
-- Cross-server context sharing
-- Dynamic server discovery
-
-### Terminology Constraints
-
-The current terms reflect MCP 1.0's actual capabilities and limitations:
-
-**"Server"** accurately describes the current reality:
-
-- Provides services when requested
-- Waits for client requests
-- Cannot initiate peer connections
-
-**"Tool"** accurately describes current behavior:
-
-- Executes specific functions
-- Has no context awareness
-- Cannot ask clarifying questions
-
-**"Client"** accurately describes the mediation role:
-
-- All communication flows through it
-- Acts as coordinator between host and servers
-- Single point of control
-
-## Terminology Evolution Strategy
-
-Looking at the gap analysis, the core issue is that MCP 1.0's Client/Server asymmetry prevents the peer-to-peer conversations needed for Models, Agents, and autonomous capabilities.
-
-### The Asymmetry Problem
-
-**Current MCP 1.0 architecture:**
+### Current Architecture
 
 ```tree
 Host (LLM app)
@@ -95,69 +33,127 @@ MCP Server (protocol wrapper)
 └── Prompts
 ```
 
-**Problem:** Client and Server are asymmetric - only Clients can initiate sampling, only Servers provide capabilities. This breaks down when we need:
+## 2. Limitations of MCP 1.0 Terminology
 
-- Models (other LLMs) that both provide and consume capabilities
+### Asymmetric Communication
+
+**Problem:** Client and Server are asymmetric roles:
+
+- Only Clients can initiate tool requests
+- Only Servers can provide tools/resources/prompts
+- No Server-to-Server communication possible
+
+**Impact:** This prevents peer collaboration between:
+
+- Models (other LLMs) that need to both provide and consume capabilities
 - Agents that autonomously initiate conversations
 - Tools that delegate to other tools
 
-### Proposed Solution: Symmetric Shims
+### Artificial Capability Boundaries
 
-**MCP 2.0 architecture with peer Shims:**
+**Problem:** Static distinctions between Tool/Resource/Prompt create artificial categories:
+
+- Forces premature abstraction of what capabilities can do
+- Prevents natural evolution of capabilities
+- Makes it harder to add new capability types (Models, Agents, Memory)
+
+### Static Protocol Operations
+
+**Problem:** Fixed operations (tools/call, resources/read, sampling/createMessage):
+
+- Each interaction is isolated and purpose-specific
+- No way to ask clarifying questions or negotiate requirements
+- No shared context across related operations
+
+## 3. MCP 2.0 Proposal
+
+### Core Concepts
+
+#### Actors
+
+**External systems** (human, AI, tool, database, etc.) that:
+
+- Have some capability they can provide to others
+- May need capabilities from other actors
+- Don't know anything about MCP protocol details
+- Examples: LLM applications, autonomous agents, calculation tools, databases, humans
+
+#### Capabilities
+
+**What an Actor can provide** to other Actors:
+
+- Unified term replacing Tool/Resource/Prompt/Model distinctions
+- Discovered dynamically through conversation, not declared statically
+- Can evolve and adapt based on context
+
+#### Shims (Protocol Proxies)
+
+**Universal adapters** that:
+
+- Wrap Actors to make them MCP-compatible
+- Handle all MCP protocol complexity (negotiation, discovery, conversation flow)
+- Translate between Actor's native interface and MCP conversations
+- Enable symmetric communication - any Actor can talk to any other Actor
+
+### Proposed Architecture
 
 ```tree
-Host (LLM app)
-├── MCP Shim (symmetric protocol wrapper)
-└── app logic
-
-MCP Shim (symmetric protocol wrapper)
-├── Model capabilities
-├── Agent capabilities  
-└── Tool capabilities
-
-MCP Shim (symmetric protocol wrapper)
-├── Different capabilities
-└── Different behaviors
+Actor (Human) ←→ Shim ←→ MCP Protocol ←→ Shim ←→ Actor (LLM)
+Actor (Tool) ←→ Shim ←→ MCP Protocol ←→ Shim ←→ Actor (Database)  
+Actor (Agent) ←→ Shim ←→ MCP Protocol ←→ Shim ←→ Actor (Model)
 ```
 
-### Shim Capabilities Model
+### Communication Model
 
-Each **MCP Shim** can both:
+**Symmetric Conversations:** All interactions become peer-to-peer conversations:
 
-- **Provide capabilities** (tools, resources, prompts, models, agents)
-- **Consume capabilities** (sampling, elicitation, discovery, delegation)
+- Any Actor can initiate requests to any other Actor
+- Any Actor can ask clarifying questions
+- Any Actor can suggest alternative approaches
+- Context flows naturally through conversation threads
 
-**Symmetric communication patterns:**
+**Dynamic Capability Discovery:** Instead of static schemas:
 
-```tree
-Shim ↔ Shim (peer conversation)
-Shim ↔ Shim (capability delegation)  
-Shim ↔ Shim (collaborative problem-solving)
+```text
+Actor A: "I need help calculating mortgage payments"
+Actor B: "I can help with calculations. What data do you have?"
+Actor A: "I have income but need current rates"  
+Actor B: "Let me connect you with a financial data source"
 ```
 
-### Terminology Evolution
+### Terminology Mapping
 
-| MCP 1.0 Term | MCP 2.0 Evolution | Rationale |
-|--------------|------------------|-----------|
-| Client | Shim | Symmetric protocol wrapper, can initiate and respond |
-| Server | Shim | Symmetric protocol wrapper, can initiate and respond |
-| Host | Host *(unchanged)* | Still the LLM application, but now uses symmetric Shim |
-| Tool/Resource/Prompt | Capability | Unified term for anything a Shim can provide |
-| Sampling/Elicitation | Conversation | Generalized peer-to-peer interaction |
+| MCP 1.0 Term | MCP 2.0 Evolution | Role |
+|--------------|------------------|------|
+| Client | Shim | Symmetric protocol adapter |
+| Server | Shim | Symmetric protocol adapter |
+| Host | Actor | External system wrapped by Shim |
+| Tool/Resource/Prompt | Capability | What an Actor can provide |
+| Model/Agent | Actor | New external systems, same treatment |
+| Sampling/Elicitation | Conversation | Peer-to-peer interaction pattern |
 
-### Key Benefits
+## 4. Open Questions
 
-**Eliminates artificial constraints:**
+### Implementation Questions
 
-- Any Shim can initiate sampling (Gap 1: Server-Initiated Sampling)
-- Any Shim can discover other Shims (Gap 2: Autonomous Agent Discovery)  
-- Shims can maintain shared context (Gap 3: Shared Workflow Context)
-- Shims can negotiate capabilities dynamically (Gap 4: Runtime Capability Negotiation)
-- Policy metadata flows between peer Shims (Gap 5: Policy-Aware Context Propagation)
+1. **Shim Standardization**: How do we define standard interfaces for Shims to wrap different types of Actors?
 
-**Enables natural scaling:**
+2. **Capability Negotiation**: What protocol mechanisms enable dynamic capability discovery and negotiation?
 
-- Add Models as peer Shims that can both consume and provide LLM capabilities
-- Add Agents as peer Shims that autonomously initiate conversations
-- Add Memory systems as peer Shims that maintain persistent context
-- All communicate through the same symmetric protocol
+3. **Context Management**: How do Shims maintain and share conversation context across multi-Actor workflows?
+
+### Architectural Questions
+
+1. **Backwards Compatibility**: Can MCP 2.0 Shims interoperate with existing MCP 1.0 Clients/Servers?
+
+2. **Discovery Mechanisms**: How do Actors/Shims find each other in a distributed network?
+
+3. **Security Model**: How do we maintain security and consent when any Actor can talk to any other Actor?
+
+### Conceptual Questions
+
+1. **Actor Boundaries**: What constitutes a single "Actor" vs multiple Actors? (e.g., is a database with multiple tables one Actor or many?)
+
+2. **Capability Granularity**: At what level should capabilities be exposed? (fine-grained functions vs higher-level services?)
+
+3. **Conversation Semantics**: What are the core conversation primitives that all Shims need to support?
