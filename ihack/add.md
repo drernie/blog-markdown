@@ -1,14 +1,14 @@
 # ADD the Beat: Accountability-Driven Development in an AI World
 
-> As [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck), introduce ADD (play up the pun) alongside the BPM (Branch / spec/test Phases / prefactoring Meta-pattern) trinity as a successor to [Extreme Programming (XP)](https://en.wikipedia.org/wiki/Extreme_Programming).
+> As [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck), introduce ADD (play up the pun) alongside the BPM (Branch / spec/test Phases / prefactoring Meta-pattern) trinity as a successor to [Extreme Programming (XP)]().
 
 ---
 
-## 1. Why Another “[Test-Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)”?
+## 1. Why Another “xDD”?
 
-Over the years I’ve had the privilege of watching—and occasionally helping—software development practices evolve. **[Test-Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)**, **[Extreme Programming (XP)](https://en.wikipedia.org/wiki/Extreme_Programming)**, and later **[Behavior-Driven Development (BDD)](https://en.wikipedia.org/wiki/Behavior-driven_development)** all arose from one recurring need: how do we *trust* the software we are building, and the process by which we build it?
+Over the years I’ve had the privilege of watching—and occasionally helping—software development practices evolve. **Test-Driven Development ([TDD](https://en.wikipedia.org/wiki/Test-driven_development))**, **Extreme Programming ([XP](https://en.wikipedia.org/wiki/Extreme_Programming))**, and later **Behavior-Driven Development ([BDD](https://en.wikipedia.org/wiki/Behavior-driven_development))** all arose from one recurring need: how do we *trust* we are building the right software, yet accelerate the process for building it?
 
-Now, with AI stepping into the role of pair programmer, we face a new challenge. It’s not just about trusting the *software* anymore—it’s about trusting the *assistant* who’s helping us write it.
+Now, with AI stepping into the role of [pair programmer](https://github.com/features/copilot), we face a new challenge. It’s not just about trusting the *software* anymore—it’s about trusting the *assistant* who’s helping us write it.
 
 AI can generate code faster than any human I’ve met. But it often lacks what we might call *EQ for engineering*: it doesn’t know when to stop, it forgets promises, it drifts from context. That’s not malice—it’s the nature of the tool. The burden falls back on us to create a structure where AI’s speed doesn’t outrun our ability to review.
 
@@ -32,7 +32,7 @@ Think of BPM as the tempo that keeps AI and human in sync.
 
 In ADD, the **branch** is the smallest unit of accountability. Every piece of AI-generated work—whether a spec, a test, or an implementation—lives in its own branch and comes to you as a [pull request](https://docs.github.com/en/pull-requests).
 
-Why? Because [pull requests](https://docs.github.com/en/pull-requests) are where accountability meets visibility. If a branch contains one clear idea, a human reviewer can say “yes” or “no” without ambiguity. The AI gets maximum freedom *inside* the branch, but cannot blur boundaries across them.
+Why? Because pull requests are where accountability meets visibility. If a branch contains one clear idea, a human reviewer can say “yes” or “no” without ambiguity. The AI gets maximum freedom *inside* the branch, but cannot blur boundaries across them.
 
 One branch, one judgment.
 
@@ -51,21 +51,23 @@ Each phase is isolated in its own branch. Each phase yields its own PR. The rhyt
 
 ---
 
-## 5. Meta-pattern: Readiness Before Change
+## 5. Meta-pattern: Prefactoring (Test → Refactor → Implement)
 
 Before tackling a feature head-on, ADD asks the AI (and the team) to prepare the ground in a recurring pattern:
 
-1. **Beef up the testing infrastructure.**  
-2. **Pre-factor the code.**  
-3. **Only then implement the feature.**
+1. **Test** — Expand and strengthen the safety net so every future change has a clear signal of correctness.  
+2. **Refactor** — Simplify and restructure the code to make space for the new without compounding old complexity.  
+3. **Implement** — Deliver the feature once the ground is solid, trading heroics for smooth, predictable changes.
+
+*Sibling to TDD:* where TDD teaches **Red → Green → Refactor** (fail → pass → clean) at the micro-cycle, **Prefactoring** operates at the feature level with **Test → Refactor → Implement** (fortify → simplify → deliver) so the work lands cleanly and stays maintainable.
 
 This meta-pattern keeps us from piling new bricks on shaky foundations. AI is free to sprint, but we insist it warms up the track first.
 
 ---
 
-## 6. Contrast with [Extreme Programming (XP)](https://en.wikipedia.org/wiki/Extreme_Programming), [Test-Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development), and [Behavior-Driven Development (BDD)](https://en.wikipedia.org/wiki/Behavior-driven_development)
+## 6. Contrast with Extreme Programming (XP), Test-Driven Development (TDD), and Behavior-Driven Development (BDD)
 
-I don’t see ADD as a rival to [Extreme Programming (XP)](https://en.wikipedia.org/wiki/Extreme_Programming), [Test-Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development), or [Behavior-Driven Development (BDD)](https://en.wikipedia.org/wiki/Behavior-driven_development). It’s a descendant. [Extreme Programming (XP)](https://en.wikipedia.org/wiki/Extreme_Programming) emphasized feedback loops and human communication. [Test-Driven Development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development) said “write the test first, then code until it passes.” [Behavior-Driven Development (BDD)](https://en.wikipedia.org/wiki/Behavior-driven_development) said “let’s make tests readable by non-programmers.”
+I don't see ADD as a rival to Extreme Programming (XP), Test-Driven Development (TDD), or Behavior-Driven Development (BDD). It's a descendant. Extreme Programming (XP) emphasized feedback loops and human communication. Test-Driven Development (TDD) said "write the test first, then code until it passes." Behavior-Driven Development (BDD) said "let's make tests readable by non-programmers."
 
 ADD says: *in the age of AI, accountability is the bottleneck.* Branches, phases, and meta-patterns create a framework where AI can contribute without eroding trust.
 
@@ -76,13 +78,3 @@ ADD says: *in the age of AI, accountability is the bottleneck.* Branches, phases
 ADD is new. I expect it will change shape in the hands of real teams. But the heart of it—the **BPM trinity** of Branch, Phase, and Meta-pattern—offers a way to let AI do what it does best, while keeping humans in the role we still play best: deciding what to trust.
 
 ADD the beat. Keep the rhythm. Let’s see where it takes us.
-
----
-
-### References
-
-- Kent Beck, *[Extreme Programming Explained](https://en.wikipedia.org/wiki/Extreme_Programming)*  
-- Kent Beck, *[Test-Driven Development: By Example](https://en.wikipedia.org/wiki/Test-driven_development)*  
-- [Behavior-Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)  
-- [Pull Requests](https://docs.github.com/en/pull-requests) as units of accountability  
-- On AI Pair Programming: [GitHub Copilot](https://github.com/features/copilot)
