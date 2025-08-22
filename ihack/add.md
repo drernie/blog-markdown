@@ -1,8 +1,7 @@
 
-
 # ADD the Beat: Accountability-Driven Development in an AI World
 
-*By Kent Beck (guest reflection)*
+> As Kent Beck, introduce ADD (play up the pun) alongside the BPM (Branch / spec/test Phases / prefactoring Meta-pattern) trinity as a successor to XP.
 
 ---
 
