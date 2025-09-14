@@ -1,6 +1,6 @@
 # Higher Self Café: The Prerotic Threshold
 
-**Setting:** The Higher Self Café, a timeless coffeehouse perched above the ordinary bustle of life. Twilight drapes the sky beyond the floor-to-ceiling windows, a gentle purple hue that holds the promise of dawn without yet yielding to it. At a cozy corner table, four figures from across time and tradition sip their drinks amid the café's soft murmur: James Joyce, eyes alight with poetic mischief; Plato, dignified and curious; Gregory of Nyssa, serene in monastic robes; and Abhinavagupta, smiling with a quiet, mystical joy. A faint music plays – a melody that seems to hover just before its crescendo, as if even the air is waiting in suspended anticipation.
+**Setting:** The Higher Self Café, a timeless coffeehouse perched above the ordinary bustle of life. Twilight drapes the sky beyond the floor-to-ceiling windows, a gentle purple hue that holds the promise of dawn without yet yielding to it. At a cozy corner table, four figures from across time and tradition sip their drinks amid the café's soft murmur: [James Joyce](https://en.wikipedia.org/wiki/James_Joyce), eyes alight with poetic mischief; [Plato](https://en.wikipedia.org/wiki/Plato), dignified and curious; [Gregory of Nyssa](https://en.wikipedia.org/wiki/Gregory_of_Nyssa), serene in monastic robes; and [Abhinavagupta](https://en.wikipedia.org/wiki/Abhinavagupta), smiling with a quiet, mystical joy. A faint music plays – a melody that seems to hover just before its crescendo, as if even the air is waiting in suspended anticipation.
 
 ---
 
