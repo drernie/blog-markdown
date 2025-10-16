@@ -110,7 +110,7 @@
 
 The Baker’s Wife starts crying. The baby starts crying. Red looks back and forth between them, unsure what to do. She starts to panic.
 
-Red. Waaah!
+**RED**: Waaah!
 
 This snaps the Baker’s Wife out of her misery. She grabs a sticky bun then stuffs it in Red’s mouth. She dries her tears on the apron, picks up the baby, and sits down on a rocking chair making soothing noises.
 
@@ -120,8 +120,11 @@ For a moment, all is quiet. Then she begins to speak in a soft voice.
 
 **RAPUNZEL**: Did he... hit you?
 
-**WIFE**: [*laughing*] No, nothing like that. But... well, I hadn’t been getting very much sleep, because of the baby. I just asked him to watch the baby for an hour so I could take a nap. He agreed, and I had just gotten back to sleep when he woke me because the baby was crying. I was angry and said: ---
-Wife: Why do you have to be so useless?
+**WIFE**: [*laughing*] No, nothing like that. But... well, I hadn’t been getting very much sleep, because of the baby. I just asked him to watch the baby for an hour so I could take a nap. He agreed, and I had just gotten back to sleep when he woke me because the baby was crying. I was angry and said:
+
+---
+
+**WIFE**:  Why do you have to be so useless?
 
 **BAKER**: Me? At least I didn’t run away like my father did.
 
@@ -131,13 +134,15 @@ Wife: Why do you have to be so useless?
 
 **WIFE**: Fine!
 
-**BAKER**: Fine!---
+**BAKER**: Fine!
 
-Red: And he just left? But where?
+---
+
+**RED**:  And he just left? But where?
 
 **WIFE**: I.. I don’t know...
 
-She starts to cry again, but then the baby does too. She gets ahold of herself and calms the child.
+*She starts to cry again, but then the baby does too. She gets ahold of herself and calms the child*.
 
 **WIFE**: The baby was crying so I had to get up and change his diaper. By the time I finished, and got the baby back to sleep my husband was long gone. I was so tired I just sat and cried. When I stopped, well, you were here.
 
@@ -151,7 +156,7 @@ She starts to cry again, but then the baby does too. She gets ahold of herself a
 
 **RAPUNZEL**: Of course. She’s lived in the woods her whole life. She even knows how to survive off the path. I’m sure she can help. C’mon, let’s go!
 
-Red grabs the Baker’s Wife by the hand and pulls her and the baby after her as they exit.
+*Red grabs the Baker’s Wife by the hand and pulls her and the baby after her as they exit*.
 
 ### Scene 4: Still In The Woods
 
@@ -548,7 +553,7 @@ The Baker’s Wife sits down stiffly, a little distance away.
 
 Cinderella starts.
 
-C. That... means much less than you might think. [*her voice breaking *]
+C. That... means much less than you might think. [*her voice breaking*]
 
 She suddenly collapses into violent sobs. The Baker’s Wife is shocked at first , but then shifts the baby around and gathers Cinderella into her bosom, and comforts her while she weeps.
 
@@ -1234,7 +1239,7 @@ Witch: [*taking a deep breath*] As you know, it is not easy to kill a witch. But
 
 She turns to walk away, but stops after a few steps. She pivots to face the tree]
 
-Witch: [*bowing low. Stands up. Chokes out: *] I... I’m so, so so sorry. [*then turns and dashes away*]
+Witch: [*bowing low. Stands up. Chokes out:*] I... I’m so, so so sorry. [*then turns and dashes away*]
 
 #### Scene 21: The Giant’s Grave
 
