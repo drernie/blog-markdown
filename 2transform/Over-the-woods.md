@@ -78,13 +78,13 @@
 
 *Rapunzel stares in shock, then faints*.
 
- **STEWARD**: [*offstage*] Rapunzel! Time for your afternoon tea with the King.
+**STEWARD**: [*offstage*] Rapunzel! Time for your afternoon tea with the King.
 
 *The Baker looks around for agonizing seconds, then hauls Rapunzel onto his shoulder and dives back into the woods*.
 
 *Moments later, Cinderella walks onstage. She glances at the bench, and notices a tuft of long blonde hair. She picks it up and gazes thoughtfully into the woods*.
 
- **STEWARD**: [*offstage*] Rapunzel! Cinderella! Time for your afternoon tea with the King.
+**STEWARD**: [*offstage*] Rapunzel! Cinderella! Time for your afternoon tea with the King.
 
 *Cinderella glances for a second time at the woods, then sighs, pockets the hair, and heads back into the castle*.
 
@@ -168,19 +168,19 @@ Rapunzel: [*still in shock*] I... have a brother. The Witch... wasn’t my mothe
 
 **RAPUNZEL**: [*hysterical*] Okay? Okay!? I was traded away for greens, locked in a tower, banished to a desert island, and now trapped in a castle with a man I hardly even know, with a sister-in-law who is little Miss Perfect. Why wouldn’t I be okay?
 
-The Baker stares at her tirade in shock.
-Rapunzel starts back, afraid he is going to run off.
-Instead, he steps forward.... and gives her a hug.
+*The Baker stares at her tirade in shock*.
+*Rapunzel starts back, afraid he is going to run off*.
+*Instead, he steps forward.... and gives her a hug*.
 
 **BAKER**: I... am so sorry. For everything. I didn’t realize you had it so much worse than me.
 
-Rapunzel freezes... then sinks into his arms and cries.
+*Rapunzel freezes... then sinks into his arms and cries*.
 
 **BAKER**: There, there. Let it all out. Take your time.
 
-Steward: [*offstage*] She came this way, I’m sure of it. Look, there’s a long blonde hair.
+**STEWARD**: [*offstage*] She came this way, I’m sure of it. Look, there’s a long blonde hair.
 
-**BAKER**: Whoops, no time left . We have to hide.
+**BAKER**: Whoops, no time left. We have to hide.
 
 **RAPUNZEL**: But where?
 
@@ -190,11 +190,11 @@ Steward: [*offstage*] She came this way, I’m sure of it. Look, there’s a lon
 
 **BAKER**: You’ve never... nobody told... forget about it. Hurry. Here, let me help you up....
 
-Exit, Stage Left
+[*Exit, Stage Left*]
 
 ### Scene 5: Giants In The Sky
 
-Rapunzel and the Baker creep in slowly from Stage Left. Loud cries sound in the distance.
+*Rapunzel and the Baker creep in slowly from Stage Left. Loud cries sound in the distance*.
 
 **RAPUNZEL**: What is that? [*peering*]
 
@@ -202,7 +202,7 @@ Rapunzel and the Baker creep in slowly from Stage Left. Loud cries sound in the 
 
 **RAPUNZEL**: No... a giantess. She’s... she’s crying. [*starts to walk towards her*]
 
-The Baker grabs her by the hand.
+*The Baker grabs her by the hand*.
 
 **BAKER**: No! Stop!
 
@@ -220,8 +220,8 @@ The Baker grabs her by the hand.
 
 **RAPUNZEL**: Safe! Safe?! I’m sick and tired of people trying to keep me safe! [*shouting*]
 
-Suddenly the loud cries cease.
-The Baker looks around frantically.
+*Suddenly the loud cries cease*.
+*The Baker looks around frantically*.
 
 **RAPUNZEL**: [*normal voice*] What are you looking for?
 
@@ -237,12 +237,12 @@ The Baker looks around frantically.
 
 **RAPUNZEL**: [*slaps him*] That’s what they all say.
 
-She turns and runs away.
-The Giantess spies her.
+*She turns and runs away*.
+*The Giantess spies her*.
 
-Giantess: Fee, Fie, Foe, Furl. I smell the blood of an English... girl?
+**GIANTESS**: Fee, Fie, Foe, Furl. I smell the blood of an English... girl?
 
-Loud footsteps ensue
+*Loud footsteps ensue*.
 
 **RAPUNZEL**: Aiieee! [*runs Left*]
 
@@ -250,11 +250,11 @@ Loud footsteps ensue
 
 ### Scene 6: Back Down Below
 
-Wife: Are you sure this is the way to your grandmothers house?
+**WIFE**: Are you sure this is the way to your grandmothers house?
 
-Red: Of course I’m sure. I fact, there she is now. Hello Grannie!
+**RED**: Of course I’m sure. I fact, there she is now. Hello Grannie!
 
-Grannie: Hello, Red! Ready to skin another wolf? [*leering*]
+**GRANNIE**: Hello, Red! Ready to skin another wolf? [*leering*]
 
 **RAPUNZEL**: Not today, Grannie. You remember the nice Hunter...
 
@@ -262,37 +262,37 @@ Grannie: Hello, Red! Ready to skin another wolf? [*leering*]
 
 **RAPUNZEL**: ...Baker who saved us from the wolf?
 
-G. Yes, of course. So nice to let us have the skin. [*cackling*]
+**GRANNIE**: Yes, of course. So nice to let us have the skin. [*cackling*]
 
 **RAPUNZEL**: Well, this is his wife. He ran off into the woods, and she wants our help finding him?
 
-G. But why did he run away in the first place?
+**GRANNIE**: But why did he run away in the first place?
 
 **RAPUNZEL**: [*loud whisper*] They had an argument!
 
-Grannie bolts upright, and dashes between Red and the Baker’s Wife.
+*Grannie bolts upright, and dashes between Red and the Baker’s Wife*.
 
-G. Red! Run for your life!
+**GRANNIE**: Red! Run for your life!
 
 **RAPUNZEL**: Huh? What are you scared of?
 
-G. Marriage, child. More dangerous than wolves, bears, and snakes all combined. I fear neither devil nor beast, but even I have better sense than to get caught between a man and wife when they are feuding.
+**GRANNIE**: Marriage, child. More dangerous than wolves, bears, and snakes all combined. I fear neither devil nor beast, but even I have better sense than to get caught between a man and wife when they are feuding.
 
 **WIFE**: We aren’t “feuding”...
 
-Wife steps toward Red, then pulls back hurriedly when Grannie yanks out a knife and waves it threateningly!
+*Wife steps toward Red, then pulls back hurriedly when Grannie yanks out a knife and waves it threateningly!*
 
-G. Keep your evil away from my granddaughter!
+**GRANNIE**: Keep your evil away from my granddaughter!
 
 **RAPUNZEL**: Grannie...
 
-Just then, the Baker rushes in. He’s about to speak to Grannie when he sees his wife and child.
+*Just then, the Baker rushes in. He’s about to speak to Grannie when he sees his wife and child.*
 
 **BAKER**: You! [*stunned*]
 
 **WIFE**: You’re safe! [*rushes into his arms*]
 
-For one tender moment, he gathers his wife and child to his chest.
+*For one tender moment, he gathers his wife and child to his chest.*
 
 **WIFE**: [*muffled*] I was so worried about you.
 
@@ -306,11 +306,11 @@ For one tender moment, he gathers his wife and child to his chest.
 
 **WIFE**: You found your sister?
 
-G. Where is this giant?
+**GRANNIE**: Where is this giant?
 
 **BAKER**: She was on top of the beanstalk. We need to ask the Royal Family to send a rescue party.
 
-G. But why would they listen to you?
+**GRANNIE**: But why would they listen to you?
 
 **BAKER**: Because my sister is married to the younger Prince Charming!
 
@@ -318,97 +318,97 @@ G. But why would they listen to you?
 
 ### Scene 6: The Castle
 
-Cinderella is sitting doing embroidery.
+*Cinderella is sitting doing embroidery.*
 
-Steward: Your highness, a... peasant claims to have urgent news for the Royal Family.
+**STEWARD**: Your highness, a... peasant claims to have urgent news for the Royal Family.
 
-Cinderella: Why doesn’t he take it to the King?
+**CINDERELLA**: Why doesn’t he take it to the King?
 
- **STEWARD**: The King... has other matters to attend to.
+**STEWARD**: The King... has other matters to attend to.
 
-C. Should we call my husband?
+**CINDERELLA**: Should we call my husband?
 
- **STEWARD**: He... is out... hunting. I’m sure he must have sent word, but you forgot.
+**STEWARD**: He... is out... hunting. I’m sure he must have sent word, but you forgot.
 
-C. Oh... very well then, send the peasant in.
+**CINDERELLA**: Oh... very well then, send the peasant in.
 
- **STEWARD**: [*coughing*] There’s actually a large group of them. And some of them are rather... rough.
+**STEWARD**: [*coughing*] There’s actually a large group of them. And some of them are rather... rough.
 
-C. [*smiling*] I can handle a little rough. Send them all in.
+**CINDERELLA**: [*smiling*] I can handle a little rough. Send them all in.
 
- **STEWARD**: If you insist. [*exits*]
+**STEWARD**: If you insist. [*exits*]
 
-C. I wonder what this could be about. I hope nothing has happened to mother’s... no, I’m just being silly.
+**CINDERELLA**: I wonder what this could be about. I hope nothing has happened to mother’s... no, I’m just being silly.
 
-The Baker, with Wife and child, Grannie and Red all enter and kneel.
+*The Baker, with Wife and child, Grannie and Red all enter and kneel.*
 
-Peasants: Your Highness
+**PEASANTS**: Your Highness
 
-C. Welcome to the castle. Please speak your mind.
+**CINDERELLA**: Welcome to the castle. Please speak your mind.
 
- **STEWARD**: And be quick about it!
+**STEWARD**: And be quick about it!
 
 **BAKER**: Milady, I bring you urgent news about your sister-in-law, Princess Rapunzel.
 
- **STEWARD**: Rapunzel!
+**STEWARD**: Rapunzel!
 
 **BAKER**: Yes. She was attacked by a giantess.
 
-C. Was she hurt?!?
+**CINDERELLA**: Was she hurt?!?
 
 **BAKER**: [*agitated*] I.. I don’t know... I...
 
-Wife: [*taking over*] There’s no time. Someone need to go rescue her.
+**WIFE**: [*taking over*] There’s no time. Someone need to go rescue her.
 
- **STEWARD**: From where? [*suspiciously*]
+**STEWARD**: From where? [*suspiciously*]
 
 **BAKER**: From the top of a beanstalk!
 
- **STEWARD**: Beanstalks? Seriously.
+**STEWARD**: Beanstalks? Seriously.
 
 **WIFE**: He speaks the truth.
 
 **BAKER**: It’s true. I was there with her.
 
- **STEWARD**: And why would she climb a beanstalk with you?
+**STEWARD**: And why would she climb a beanstalk with you?
 
 **BAKER**: Because I’m her brother!
 
- **STEWARD**: This is preposterous. Your highness, this man is clearly mad. Or part of some devilish scheme to lure us away from the castle.
+**STEWARD**: This is preposterous. Your highness, this man is clearly mad. Or part of some devilish scheme to lure us away from the castle.
 
 **WIFE**: What? Don’t you even care that a Princess is missing?
 
- **STEWARD**: Of course we care. Why, I searched the woods myself this morning. There was no sign of any beanstalk.
+**STEWARD**: Of course we care. Why, I searched the woods myself this morning. There was no sign of any beanstalk.
 
 **BAKER**: [*mutters*] You probably never looked up from licking the Prince’s boots.
 
- **STEWARD**: What did you say?
+**STEWARD**: What did you say?
 
 **WIFE**: [*hurriedly*] He said, we are sorry for taking up both your time.
 
- **STEWARD**: Is there nothing else?
+**STEWARD**: Is there nothing else?
 
 **BAKER**: Please... just one more thing. [*taking his scarf in his hands*]
 
-Cinderella glances at the Steward. He sighs.
+*Cinderella glances at the Steward. He sighs.*
 
- **STEWARD**: Very well. Be quick about it.
+**STEWARD**: Very well. Be quick about it.
 
  **BAKER**: Princess... I never had a family growing up. I only just realized I had a sister. She is... very precious to me. Please, is there anything you can do?
 
-C. [*softly*] Maybe... maybe there is. I can make no promises, but I will try my best.
+**CINDERELLA**: [*softly*] Maybe... maybe there is. I can make no promises, but I will try my best.
 
-The Baker seems about to say more, but the Steward cuts him off.
+*The Baker seems about to say more, but the Steward cuts him off*.
 
- **STEWARD**: You’ve had your say. Now leave. Shoo. Shoo!
+**STEWARD**: You’ve had your say. Now leave. Shoo. Shoo!
 
-They all exit, leaving Cinderella by herself.
-She sits there a moment, lost in thought.
-The suddenly jumps to her feet.
+*They all exit, leaving Cinderella by herself*.
+*She sits there a moment, lost in thought*.
+*Then suddenly jumps to her feet*.
 
-C. That’s it!
+**CINDERELLA**: That’s it!
 
-She runs excitedly off stage.
+*She runs excitedly off stage*.
 
 #### Scene 7; Jack’s House
 
@@ -489,19 +489,19 @@ They stop when they see her. She hurriedly composes herself.
 
 **BAKER**: Miss, you shouldn’t be here. There are giants about.
 
-C. Yes, I know [*forcing a calm*]
+**CINDERELLA**: Yes, I know [*forcing a calm*]
 
 **BAKER**: How would you know? I only just told the Princess... O my, you are the Princess.
 
 They all kneel. She smiles sadly.
 
-C. I am not a princess here... [*softly*] if I ever really was. [*normal voice*] Please, all rise!
+**CINDERELLA**: I am not a princess here... [*softly*] if I ever really was. [*normal voice*] Please, all rise!
 
 They stand. Jack rushes up to her.
 
 Jack: We are going to save Rapunzel!
 
-C. [*confused*] But you are just a boy!
+**CINDERELLA**: [*confused*] But you are just a boy!
 
 J. Not anymore. I’ve already slain one giant. [*puffs out his chest*]
 
@@ -540,7 +540,7 @@ The Baker puts his arm around Jack and leads him offstage.
 Cinderella watches them go, smiling sadly.
 She turns to see the Baker’s Wife staring after her husband with a strange expression.
 
-C. Is... everything all right?
+**CINDERELLA**: Is... everything all right?
 
 The Baker’s Wife jumps as if embarrassed.
 
@@ -553,7 +553,7 @@ The Baker’s Wife sits down stiffly, a little distance away.
 
 Cinderella starts.
 
-C. That... means much less than you might think. [*her voice breaking*]
+**CINDERELLA**: That... means much less than you might think. [*her voice breaking*]
 
 She suddenly collapses into violent sobs. The Baker’s Wife is shocked at first , but then shifts the baby around and gathers Cinderella into her bosom, and comforts her while she weeps.
 
@@ -690,7 +690,7 @@ Grandma: Poppycock!
 
 Jack: Huh?
 
-G. I said Poppycock. You men are being idiots, as usual.
+**GRANNIE**: I said Poppycock. You men are being idiots, as usual.
 
 **BAKER**: I beg your pardon!
 
@@ -702,13 +702,13 @@ Red punches him in the arm.
 
 **RAPUNZEL**: Don’t be dense. Rapunzel isn’t just a princess. She is also a mother. And the only thing more important to her than her own happiness...
 
-G. ... is that of her children. Exactly.
+**GRANNIE**: ... is that of her children. Exactly.
 
 **BAKER**: Okay, fine. But are you suggesting I take her children up there?
 
 J. That seems... dangerous.
 
-G. Idiots. Of course not. I’m just pointing out the real issue isn’t whether you are being selfish, but how to help her remember she is a mother.
+**GRANNIE**: Idiots. Of course not. I’m just pointing out the real issue isn’t whether you are being selfish, but how to help her remember she is a mother.
 
 **BAKER**: But... that’s impossible!
 
@@ -1142,33 +1142,33 @@ Cinderella: Fly ahead, my friend. Search high and low until you find my sister-i
 
 They fly away while Cinderella wanders about. Suddenly she spies the harp, and walks over to it.
 
-C. How odd? Who would leave such a valuable harp just lying around? [*picks it up*]
+**CINDERELLA**: How odd? Who would leave such a valuable harp just lying around? [*picks it up*]
 
 Harp: [*bitterly*] Leave me be!
 
-C. You talk?
+**CINDERELLA**: You talk?
 
 H. I talk? You talk to birds, and you’re surprised at a taking harp?
 
-C. Never mind that. Can you tell me where I can find the Princess Rapunzel?
+**CINDERELLA**: Never mind that. Can you tell me where I can find the Princess Rapunzel?
 
 H. [*sighing*] As far away from me as she can get. Why do you want her?
 
-C. We are trying to reunite her with her children.
+**CINDERELLA**: We are trying to reunite her with her children.
 
 H. Her... she has... my great-grandchildren!
 
-C. What?
+**CINDERELLA**: What?
 
 H. Never mind. Do you have a plan?
 
-C. Yes. Well, actually the Witch is doing most of the work.
+**CINDERELLA**: Yes. Well, actually the Witch is doing most of the work.
 
 H. No! She will just try to trap Rapunzel again.
 
 Cinderella shakes her head.
 
-C. No, it isn’t like that. She realizes she was wrong. She will do anything to save Rapunzel, no matter what it costs her.
+**CINDERELLA**: No, it isn’t like that. She realizes she was wrong. She will do anything to save Rapunzel, no matter what it costs her.
 
 The Harp plays a series of agitated notes.
 
@@ -1176,21 +1176,21 @@ H. Are... are you sure? Do you know what she intends?
 
 Cinderella shrugs.
 
-C. Not entirely. She said some sort of pact with the Land Above.
+**CINDERELLA**: Not entirely. She said some sort of pact with the Land Above.
 
 H. No!
 
-C. What do you mean, no?
+**CINDERELLA**: What do you mean, no?
 
 H. No time to explain. You... you must take me to her. [*long pause*] Please?
 
 Cinderella looks around unsure, then finally makes a decision.
 
-C. Okay, fine. But I hope you know what you’re doing. The Witch... isn’t very patient with those who disappoint her.
+**CINDERELLA**: Okay, fine. But I hope you know what you’re doing. The Witch... isn’t very patient with those who disappoint her.
 
 H. [*under her breath*] Like mother like daughter.
 
-C. What?
+**CINDERELLA**: What?
 
 H. I said, we oughter get going. Time is of the essence!
 
@@ -1400,7 +1400,7 @@ Prince: Neither are we! [*Cinderella starts. He smiles*] We can build our house 
 
 Cinderella stares at him.
 
-C. Are you... sure?
+**CINDERELLA**: Are you... sure?
 
 P. [*firmly*] More sure than I’ve ever been of anything in my life.
 
@@ -1549,7 +1549,7 @@ Wife: The way was dark. We feared the cost.
 
 R Prince: Who needs a crown?
 
-C. Or gorgeous gown?
+**CINDERELLA**: Or gorgeous gown?
 
 All: As long as love rules in a town.
 
@@ -1573,4 +1573,4 @@ Into the Woods and Over the Woods...
 
 And Happy Ever After!
 
-Cinderella: I know!
+**CINDERELLA**: I know!
