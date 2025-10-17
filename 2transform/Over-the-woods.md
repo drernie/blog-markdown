@@ -412,65 +412,65 @@ Rapunzel: [*still in shock*] I... have a brother. The Witch... wasn’t my mothe
 
 #### Scene 7; Jack’s House
 
-Jack is sitting inside happily milking Milky White.
+*Jack is sitting inside happily milking Milky White*.
 
-Jack: Isn’t it amazing how well he gives milk after being raised from the dead?
+**JACK**: Isn’t it amazing how well he gives milk after being raised from the dead?
 
-Jack’s Mother: Yes, dear, but why O why do you have to milk her inside the house? Why milk her at all when we can just buy milk?
+**JACK's MOM**: Yes, dear, but why O why do you have to milk *her* inside the house? Why milk her at all when we can just buy milk?
 
-J. But he enjoys it so much, doesn’t he?
+**JACK**: But he enjoys it so much, doesn’t he?
 
-**MYSTERIOUS STRANGER**: [*sighing*] O Jack, whatever will become of you when I’m gone?
+**JACK's MOM**: [*sighing*] O Jack, whatever will become of you when I’m gone?
 
-Commotion outside. The Peasants arrive. Jack stands up to greet them warmly.
+*Commotion outside. The Peasants arrive. Jack stands up to greet them warmly*.
 
 **BAKER**: Jack, we need your help!
 
-J. What happened?
+**JACK**: What happened?
 
-Baker’s Wife: The Princess Rapunzel has been kidnapped by a giantess at the top of a new beanstalk.
+**WIFE**: The Princess Rapunzel has been kidnapped by a giantess at the top of a new beanstalk.
 
-J. Really?
+**JACK**: Really?
 
 **BAKER**: Well... [*his wife elbows him*] yes! I am sure that is exactly what happened.
 
-J. Then we must go rescue her!
+**JACK**: Then we must go rescue her!
 
-**MYSTERIOUS STRANGER**: You’ll do nothing of the kind. You must stay here where it’s safe.
+**JACK's MOM**: You’ll do nothing of the kind. You must stay here where it’s safe.
 
-J. Mother! [*glancing at Red*] Don’t be silly. [*lowering voice*] I’m a man now.
+**JACK**: Mother! [*glancing at Red*] Don’t be silly. [*lowering voice*] I’m a man now.
 
-The Baker’s Wife and Jack’s Mother roll their eyes, but the Baker claps him on the shoulder. And Red giggles.
+*The Baker’s Wife and Jack’s Mother roll their eyes, but the Baker claps him on the shoulder. And Red giggles*.
 
 **BAKER**: Good man! Let us be off.
 
-J. Oh wait, I have an idea [*rushes into another room*]
+**JACK**: Oh wait, I have an idea [*rushes into another room*]
 
-Jack’s mom turns to the Baker’s Wife.
+*Jack’s mom turns to the Baker’s Wife*.
 
-**MYSTERIOUS STRANGER**: Please, isn’t there anything you can do to stop them ? He’s so young.
+**JACK's MOM**: Please, isn’t there anything you can do to stop them ? He’s so young.
 
 **WIFE**: Don’t worry. I promise we won’t let him out our sight. He will be fine. Who knows, he might even surprise you!
 
-**MYSTERIOUS STRANGER**: [*muttering*] That’s what I’m afraid of.
+**JACK's MOM**: [*muttering*] That’s what I’m afraid of.
 
-J. [*returning*] What’s that, mother?
+**JACK**: [*returning*] What’s that, mother?
 
-**MYSTERIOUS STRANGER**: [*flustered*] I said, be sure to keep your scarf on!
+**JACK's MOM**: [*flustered*] I said, be sure to keep your scarf on!
 
-J. What scarf?
+**JACK**: What scarf?
 
-**MYSTERIOUS STRANGER**: [*stares helplessly for a moment, then her eyes go wide*] Ah! This scarf...
+**JACK's MOM**: [*stares helplessly for a moment, then her eyes go wide*] Ah! This scarf...
 
-Rummages around in a chest and pulls out a scarf. Stops to regard it tenderly.
+*Rummages around in a chest and pulls out a scarf. Stops to regard it tenderly*.
 
-**MYSTERIOUS STRANGER**: It... it was your father’s, Jack. He used to wear it to cut wood. I guess... maybe you are old enough to wear it.
+**JACK's MOM**: It... it was your father’s, Jack. He used to wear it to cut wood. I guess... maybe you are old enough to wear it.
 
-She wraps it around him, kisses his cheek, then runs off to hide her tears.
+*She wraps it around him, kisses his cheek, then runs off to hide her tears*.
 
-**BAKER**: Good man. Let’s be off!
+**BAKER**: Good man. [*claps Jack on the back*] Let’s be off!
 
-All exit
+*All exit.*
 
 #### Scene 8: The Woods
 
@@ -481,7 +481,7 @@ Cinderella: Oh, how fun it is to be out on my own again. [*listens to birds*] Ye
 Suddenly there is a loud crunching sound.
 Cinderella starts, then hides in the bushes.
 
-[*The Princes Charmings come out and do their Agony Reprise from the original Act II, about their new loves*]
+[*The Prince Charmings come out and do their Agony Reprise from the original Act II, about their new loves*]
 
 When they leave, Cinderella comes out stunned. She looks after her prince, and seems about to to speak when the Bakers, Red and Jack rush in.
 
@@ -503,7 +503,7 @@ Jack: We are going to save Rapunzel!
 
 **CINDERELLA**: [*confused*] But you are just a boy!
 
-J. Not anymore. I’ve already slain one giant. [*puffs out his chest*]
+**JACK**: Not anymore. I’ve already slain one giant. [*puffs out his chest*]
 
 Wife: [*to Baker*] Where is that beanstalk?
 
@@ -533,7 +533,7 @@ The Baker punches him in the arm.
 
 **BAKER**: Okay, son, are you ready?
 
-J. Y... Yes, sir!
+**JACK**: Y... Yes, sir!
 
 The Baker puts his arm around Jack and leads him offstage.
 
@@ -576,7 +576,7 @@ Just when they are about to dash off, Rapunzel appears, shrieking... with laught
 Rapunzel stops laughing, and stares at the Baker, stunned.
 Jack steps out from behind him.
 
-J. Princess! We have come to rescue you.
+**JACK**: Princess! We have come to rescue you.
 
 Rapunzel goes wide-eyed, then collapses on the ground, laughing.
 
@@ -624,7 +624,7 @@ She turns and approaches the Baker, her eyes glistening. She lays a hand on his 
 
 **RAPUNZEL**: Please. Don’t you see? For once in my life, I am truly happy. Just leave me in peace.
 
-J. But... shouldn’t you be around your own kind?
+**JACK**: But... shouldn’t you be around your own kind?
 
 Just then a voice shouts from offstage:
 
@@ -696,7 +696,7 @@ Jack: Huh?
 
 Red: Oh, of course!
 
-J. Huh?
+**JACK**: Huh?
 
 Red punches him in the arm.
 
@@ -706,17 +706,17 @@ Red punches him in the arm.
 
 **BAKER**: Okay, fine. But are you suggesting I take her children up there?
 
-J. That seems... dangerous.
+**JACK**: That seems... dangerous.
 
 **GRANNIE**: Idiots. Of course not. I’m just pointing out the real issue isn’t whether you are being selfish, but how to help her remember she is a mother.
 
 **BAKER**: But... that’s impossible!
 
-J. Maybe... maybe not! I’ve just had a wonderful idea!
+**JACK**: Maybe... maybe not! I’ve just had a wonderful idea!
 
 **RAPUNZEL**: Tell us!
 
-J. I’ll do better. I’ll show you!
+**JACK**: I’ll do better. I’ll show you!
 
 He grabs Red by the hand and runs off, with the Baker scurrying after.
 Grandma stays behind, watching them, clicking her tongue.
@@ -815,18 +815,18 @@ She turns to Jack.
 
 **WITCH**: HE didn’t send you, did he?
 
-J. [*affronted*] Nobody sent me. This was my plan. [*lowers voice*] I am a man now.
+**JACK**: [*affronted*] Nobody sent me. This was my plan. [*lowers voice*] I am a man now.
 
 Red rolls her eyes.
 But the Witch is intrigued.
 
 **WITCH**: Do you... have a plan to restore my daughter to me?
 
-J. Um, no.
+**JACK**: Um, no.
 
 **WITCH**: [*angrily*] Then why did you even come here!
 
-J. [*gently*] Because you are her mother. And you love her. And she needs your help. Isn’t that reason enough?
+**JACK**: [*gently*] Because you are her mother. And you love her. And she needs your help. Isn’t that reason enough?
 
 **WITCH**: [*holding back tears*] She... doesn’t want my help. She... she hates me.
 
@@ -1494,7 +1494,7 @@ C Prince: Women on a Council? [*steely glares from Cinderella et al*] What a.. w
 
 [*Long pause*]
 
-Mysterious Stranger: Yes. Yes you can.
+**MYSTERIOUS STRANGER**: Yes. Yes you can.
 
 [*Everyone turns to him as Baker’s father enters. Except Rapunzel, who turns away. He pauses, and walks up to stand behind her.*]
 
@@ -1503,7 +1503,7 @@ Mysterious Stranger: Yes. Yes you can.
 **RAPUNZEL**: [*whirling*] I don’t care about that. How come you never came to see me? How come you only appeared to HIM! [*angrily pointing to Baker*]
 Was it because [*broken*] you... you never considered me your daughter? [*starts weeping*]
 
-M [*gathers her in his arms. She stiffens, then collapses as he strokes her hair*] Oh, my precious child. It was never about you. I was too ashamed of myself, and seeing you only reminded me of the horrible, foolish things I had done. [*looks over at Baker*] I only sought him out to manipulate him into trying to fix my mistakes [*laughing bitterly*] I was merely too weak to do the same to you.
+**MYSTERIOUS STRANGER**: [*gathers her in his arms. She stiffens, then collapses as he strokes her hair*] Oh, my precious child. It was never about you. I was too ashamed of myself, and seeing you only reminded me of the horrible, foolish things I had done. [*looks over at Baker*] I only sought him out to manipulate him into trying to fix my mistakes [*laughing bitterly*] I was merely too weak to do the same to you.
 
 [*There is a long silence. Then he straightens*]
 
