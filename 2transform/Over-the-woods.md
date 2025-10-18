@@ -688,19 +688,19 @@ Rapunzel: [*still in shock*] I... have a brother. The Witch... wasn’t my mothe
 
 **GRANNIE**: Poppycock!
 
-Jack: Huh?
+**JACK**: Huh?
 
 **GRANNIE**: I said Poppycock. You men are being idiots, as usual.
 
 **BAKER**: I beg your pardon!
 
-Red: Oh, of course!
+**RED**:  Oh, of course!
 
 **JACK**: Huh?
 
-Red punches him in the arm.
+*Red punches him in the arm*.
 
-**RAPUNZEL**: Don’t be dense. Rapunzel isn’t just a princess. She is also a mother. And the only thing more important to her than her own happiness...
+**RED**: Don’t be dense. Rapunzel isn’t just a princess. She is also a mother. And the only thing more important to her than her own happiness...
 
 **GRANNIE**: ... is that of her children. Exactly.
 
@@ -718,18 +718,18 @@ Red punches him in the arm.
 
 **JACK**: I’ll do better. I’ll show you!
 
-He grabs Red by the hand and runs off, with the Baker scurrying after.
-Grandma stays behind, watching them, clicking her tongue.
+*He grabs Red by the hand and runs off, with the Baker scurrying after*.
+*Grandma stays behind, watching them, clicking her tongue*.
 
 ### Scene 12: Cinderella’s Tree
 
-Cinderella is backstage facing the tree of her mother, holding the Baker’s baby, talking softly.
+*Cinderella is backstage facing the tree of her mother, holding the Baker’s baby, talking softly*.
 
-The Prince and the Baker’s Wife enter from stage left.
+*The Prince and the Baker’s Wife enter from stage left*.
 
-Prince: [*haughtily*] Are you sure this quest is worthy of me?
+**PRINCE**: [*haughtily*] Are you sure this quest is worthy of me?
 
-Wife: I assure you this is the most difficult and dangerous quest ever undertaken by man. In fact, I fear you will quail and run away once I show it to you.
+**WIFE**: I assure you this is the most difficult and dangerous quest ever undertaken by man. In fact, I fear you will quail and run away once I show it to you.
 
 **PRINCE**: Don’t be ridiculous. I laugh in the face of danger.
 
@@ -747,7 +747,7 @@ Wife: I assure you this is the most difficult and dangerous quest ever undertake
 
 **WIFE**: [*laughing gaily*] Of course it is!
 
-**PRINCE**: You tricked me! This is a... bait and switch.!
+**PRINCE**: You tricked me! This is a... bait and switch!
 
 **WIFE**: [*savagely*]. Exactly! Just like you tricked us. Promising us sweetness and joy, concealing the fact it was all a deception merely to feed your ego.
 
@@ -755,37 +755,37 @@ Wife: I assure you this is the most difficult and dangerous quest ever undertake
 
 **WIFE**: [*shouting*] And so are you!
 
-The Prince stumbles back, stunned by her vehemence.
-The Baker’s Wife turns away.
+*The Prince stumbles back, stunned by her vehemence*.
+*The Baker’s Wife turns away*.
 
 **WIFE**: [*mostly to herself*] When I was a little girl, I dreamed of marrying a prince. Even after my father married me off to the young baker who came to his mill, I continued to cherish fantasies of riding away with a handsome Prince on his white horse.
 
-The Prince takes a half-step towards her.
+*The Prince takes a half-step towards her*.
 
 **WIFE**: [*whirling*] You destroyed my dreams. And I thank you for it, because now I know what kind of man I really want. But you also destroyed hers, who never did you any harm. So in exchange, I have destroyed yours. From now on. Any time you seduce maiden. Any time you claim to stalk a giant. You. Will. Have. To. Remember!
 
-Walks up and pokes him in the chest.
+*She walks up and pokes him in the chest*.
 
 **WIFE**: [*whispering*] You are only doing it because you are afraid of the real thing.
 
-The Baker’s Wife stalks offstage.
+*The Baker’s Wife stalks offstage*.
 
-The Prince stands there, trembling.
-He closes his eyes.
+*The Prince stands there, trembling*.
+*He closes his eyes*.
 
 **PRINCE**: I think... I already knew.
 
-He turns and looks at Cinderella weeping.
-He stumbles toward her, pulled against his will, as if by gravity.
+*He turns and looks at Cinderella weeping*.
+*He stumbles toward her, pulled against his will, as if by gravity*.
 
-Cinderella’s sobs have subsided.
-She seems to hear him.
-She half-rises and turns.
+*Cinderella’s sobs have subsided*.
+*She seems to hear him*.
+*She half-rises and turns*.
 
-The Prince cries out, and dashes away in the opposite direction.
+*The Prince cries out, and dashes away in the opposite direction*.
 
-Cinderella stands and looks about thoughtfully, wondering if she actually saw and heard what she thought she did.
-Then a thought strikes her, and she gathers her skirts and runs off.
+*Cinderella stands and looks about thoughtfully, wondering if she actually saw and heard what she thought she did*.
+*Then a thought strikes her, and she gathers her skirts and runs off*.
 
 ### Scene 13: The Witch’s House
 
