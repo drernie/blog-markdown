@@ -1138,11 +1138,11 @@ The Witch’s facade breaks, and she is suddenly vulnerable.
 
 ### Scene 18: Back Above
 
-Cinderella enters from stage right, accompanied by birds
+*Cinderella enters from stage right, accompanied by birds*.
 
-Cinderella: Fly ahead, my friend. Search high and low until you find my sister-in-law Rapunzel.
+**CINDERELLA**: Fly ahead, my friend. Search high and low until you find my sister-in-law Rapunzel.
 
-They fly away while Cinderella wanders about. Suddenly she spies the harp, and walks over to it.
+*They fly away while Cinderella wanders about. Suddenly she spies the harp, and walks over to it*.
 
 **CINDERELLA**: How odd? Who would leave such a valuable harp just lying around? [*picks it up*]
 
@@ -1150,7 +1150,7 @@ They fly away while Cinderella wanders about. Suddenly she spies the harp, and w
 
 **CINDERELLA**: You talk?
 
-**HARP**: I talk? You talk to birds, and you’re surprised at a taking harp?
+**HARP**: *I* talk? You talk to birds, and you’re surprised by a talking harp?
 
 **CINDERELLA**: Never mind that. Can you tell me where I can find the Princess Rapunzel?
 
@@ -1200,17 +1200,17 @@ They fly away while Cinderella wanders about. Suddenly she spies the harp, and w
 
 ### Scene 19: Grandmothers House
 
-Jack and Red and sitting with Grandma and the Bakers. The Witch enters.
+*Jack and Red and sitting with Grandma and the Bakers. The Witch enters*.
 
-Jack: Did he agree?
+**JACK**: Did he agree?
 
-Grandma: Did he beg for mercy?
+**GRANNIE**: [*eagerly*] Did he beg for mercy?
 
-The Witch dabs at her eyes.
+*The Witch dabs at her eyes*.
 
-**WITCH**: He was... wonderful. But [*recovering*] yes, he agreed. He will send the Prince -- and more importantly, the steward -- to witness the deed.
+**WITCH**: He was... wonderful. But [*recovering*] yes, he agreed. He will send the Prince -- and more importantly, the Steward -- to witness the deed.
 
-**WIFE**: [takes the Baker’s hand,looks at the Witch] Are you sure this is safe?
+**WIFE**: [*takes the Baker’s hand,looks at the Witch*] Are you sure this is safe?
 
 **WITCH**: [*forcing a smile*] Of course it will be safe [*under her breath*] for you.
 
@@ -1218,13 +1218,13 @@ The Witch dabs at her eyes.
 
 **WITCH**: [*looking at Jack*] Take them all to the site of the giant’s grave. Ask your mother to gather all your neighbors at midnight. Tell them the King has an important announcement and that they must attend.
 
-Baker’s Wife: Where will you be?
+**WIFE**: Where will you be?
 
 **WITCH**: I have... some unfinished business to take care of. [*exits*]
 
 ### Scene 20: Cinderella’s Grove
 
-The Witch walks gingerly up to the tree.
+*The Witch walks gingerly up to the tree*.
 
 **WITCH**: [*quietly*] Hello, sister. [*waits for a long moment, then sighs*] I know you hate me, and you have every right to. I won’t bother to ask your forgiveness, and no apology could make up for the curse that sundered you from your husband and daughter. [*steps closer*] But... perhaps I can offer you something better.
 
@@ -1236,33 +1236,31 @@ The Witch walks gingerly up to the tree.
 
 **WITCH**: [*taking a deep breath*] As you know, it is not easy to kill a witch. But I’ve heard it said that the dryads can grow a thorn that will drain all the life and magic from a witch. [*steps back and looks the tree in the face*] If you give me one, I promise I will put it to good use. And I will never trouble you -- or anyone else -- ever again.
 
-[Long silence. Then a bird flies in and drops a thorny branch on the ground. The Witch looks at it for a few moments, hesitates, then pulls out the Baker’s scarf and uses that to pick it up.
-
-She turns to walk away, but stops after a few steps. She pivots to face the tree]
+[*Long silence. Then a bird flies in and drops a thorny branch on the ground. The Witch looks at it for a few moments, hesitates, then pulls out the Baker’s scarf and uses that to pick it up. She turns to walk away, but stops after a few steps. She pivots to face the tree*.]
 
 **WITCH**: [*bowing low. Stands up. Chokes out:*] I... I’m so, so so sorry. [*then turns and dashes away*]
 
 ### Scene 21: The Giant’s Grave
 
-It is the last midnight. All the peasants are gathered around Milky White and Jack’s Mother, muttering impatiently. Cinderella’s Prince and the Steward enter. The Steward hands the Prince a scroll.
+*It is the last midnight. All the peasants are gathered around Milky White and Jack’s Mother, muttering impatiently. Cinderella’s Prince and the Steward enter. The Steward hands the Prince a scroll*.
 
-Prince: [*reading; bored yet pompous*] “By decree of the King, and to right an ancient wrong, this land is immediately and henceforth forevermore... [*pauses in shock*] ceded to the Giants from the Land Above?! And... all inhabitants must either leave, or voluntarily submit to Giant Law!!!?!”
+**PRINCE**: [*reading; bored yet pompous*] “By decree of the King, and to right an ancient wrong, this land is immediately and henceforth forevermore... [*pauses in shock*] ceded to the Giants from the Land Above?! And... all inhabitants must either leave, or voluntarily submit to Giant Law!!!?!”
 
-The peasants erupt in bedlam. The Prince turns to the Steward
+*The peasants erupt in bedlam. The Prince turns to the Steward*.
 
-P: This is madness. Did you know about this? [*The Steward shrugs*] But this doesn’t make any sense? There aren’t any giants here. There aren’t even any beanstalks!
+**PRINCE**: This is madness. Did you know about this? [*The Steward shrugs*] But this doesn’t make any sense? There aren’t any giants here. There aren’t even any beanstalks!
 
 **WITCH**: “Not yet!”
 
 All heads turn to see the Witch entering, bearing a thorny branch.
 
-Prince: [*blustering*] You cannot be serious.
+**PRINCE**:  [*blustering*] You cannot be serious.
 
-The Witch looks at him, not just with contempt, but a tinge of sadness.
+*The Witch looks at him, not just with contempt, but a tinge of sadness*.
 
 **WITCH**: Deadly serious.
 
-She pulls out the branch and gazes up into the sky.
+*She pulls out the branch and gazes up into the sky*.
 
 **WITCH**: I am sorry, mother. You were right. Mortals and magic were never meant to mix. This land must be returned to the wild. What went wrong must be made right. [*lifts the thorn into the moonlight*] Accept my sacrifice, and restore this giant back to life, so that my daughter may return to her life. [*prepares to plunge it into her heart*]
 
