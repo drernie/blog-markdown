@@ -92,7 +92,7 @@
 
 *The Baker's Wife dabs at her eyes. She has obviously been crying. She straightens her clothes and picks up the baby as Little Red Riding Hood knocks and enters*.
 
-**RED**: I wish for a loaf of bread to take to my grannie.
+**RED**: I wish for a loaf of bread to take to my Grannie.
 
 **WIFE**: [*awkwardly*] Sure. Whatever. Help yourself.
 
@@ -416,11 +416,11 @@
 
 **JACK**: Isn't it amazing how well he gives milk after being raised from the dead?
 
-**JACK'S MOM**: Yes, dear, but why O why do you have to milk *her* inside the house? Why milk her at all when we can just buy milk?
+**JACK'S MOM**: Yes, dear, but why oh why do you have to milk *her* inside the house? Why milk her at all when we can just buy milk?
 
 **JACK**: But he enjoys it so much, doesn't he?
 
-**JACK'S MOM**: [*sighing*] O Jack, whatever will become of you when I'm gone?
+**JACK'S MOM**: [*sighing*] Oh Jack, whatever will become of you when I'm gone?
 
 *Commotion outside. The Peasants arrive. Jack stands up to greet them warmly*.
 
@@ -476,7 +476,7 @@
 
 *Cinderella walks in disguised in her old rags, taking to her bird friends*.
 
-**CINDERELLA**:  Oh, how fun it is to be out on my own again. [*listens to birds*] Yes, that was a brilliant idea to go visit my mother. Surely her spirit would know how to save Rapunzel from the giantess.
+**CINDERELLA**: Oh, how fun it is to be out on my own again. [*listens to birds*] Yes, that was a brilliant idea to go visit my mother. Surely her spirit would know how to save Rapunzel from the giantess.
 
 *Suddenly there is a loud crunching sound*.
 *Cinderella starts, then hides in the bushes*.
@@ -610,7 +610,7 @@
 *Rapunzel turns and stalks toward him*.
 *The men shrink back from her fury*.
 
-**RAPUNZEL**: Home? I've never had a home! Just a series of prisons. This is my home. The Giantess agrees with me. All humans... all men! ... are selfish, greedy, controlling bastards.
+**RAPUNZEL**: Home? I've never had a home! Just a series of prisons. This is my home. The Giantess agrees with me. All humans... all men!... are selfish, greedy, controlling bastards.
 
 *Rapunzel laughs. Her face is transformed into a mad sort of joy*.
 
@@ -741,7 +741,7 @@
 
 **PRINCE**: But... that’s my... she... why.. [*turns to look at the Baker’s Wife helplessly*]
 
-**WIFE**: [*scornfully*] Any boy can win the heart of an innocent maiden with fancy balls and charming words. It takes a real man to woo a woman whose heart has been broken by betrayal and grief. It takes risk, vulnerability, and courage beyond anything you ever imagined. It requires months and years of endless introspection and sacrifice, with no guarantee of success.
+**WIFE**: [*scornfully*] Any boy can win the heart of an innocent maiden with fancy balls and charming words. But it takes a real man to win back a woman whose heart has been broken by betrayal and grief. It takes risk, vulnerability, and courage beyond anything you ever imagined. It requires months and years of endless introspection and sacrifice, with no guarantee of success.
 
 **PRINCE**: But that’s... impossible! Unfair!
 
@@ -762,7 +762,7 @@
 
 *The Prince takes a half-step towards her*.
 
-**WIFE**: [*whirling*] You destroyed my dreams. And I thank you for it, because now I know what kind of man I really want. But you also destroyed hers, who never did you any harm. So in exchange, I have destroyed yours. From now on. Any time you seduce maiden. Any time you claim to stalk a giant. You. Will. Have. To. Remember!
+**WIFE**: [*whirling*] You destroyed my dreams. And I thank you for it, because now I know what kind of man I really want. But you also destroyed hers, who never did you any harm. So in exchange, I have destroyed yours. From now on... Any time you seduce a maiden. Any time you claim to stalk a giant. You. Will. Have. To. Remember!
 
 *She walks up and pokes him in the chest*.
 
@@ -773,7 +773,7 @@
 *The Prince stands there, trembling*.
 *He closes his eyes*.
 
-**PRINCE**: I think... I already knew.
+**PRINCE**: [*shaken*] I think... I already knew.
 
 *He turns and looks at Cinderella weeping*.
 *He stumbles toward her, pulled against his will, as if by gravity*.
@@ -1290,11 +1290,11 @@
 
 [*She pulls out the beans*]
 
-**WITCH**: These beans, when watered by my blood, will raise the giant back to life. The giantess can come live with him here, and Rapunzel will join them. And... [*voice breaking*] my grandchildren will join her. It [*looking sadly at the harp*] it is all the magic I have left.
+**WITCH**: These beans, when watered by my blood, will raise the giant back to life. The giantess can come live with him here, and Rapunzel will join them. And... [*voice breaking*] my grandchildren will join her. [*looking sadly at the harp*] It is all the magic I have left.
 
-**HARP**: No! [*violently. Everyone jumps, shocked. She continues quietly.*]. You have me. I... I can raise the giant. Please... please don’t kill your self.
+**HARP**: No! [*violently. Everyone jumps, shocked. She continues quietly.*]. You have me. I... I can raise the giant. Please... please don’t kill yourself.
 
-**WITCH**: No! I’d rather die than live with again as your captive. [*raises the thorn*]
+**WITCH**: No! I’d rather die than live with you again as your captive. [*raises the thorn*]
 
 [*The harp laughs bitterly.*]
 
