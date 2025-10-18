@@ -883,15 +883,15 @@ The Witch’s facade breaks, and she is suddenly vulnerable.
 
 *They hurry offstage*.
 *The Witch follows slowly*.
-At the edge, she pauses.
-She turns back, and sees the Mysterious Stranger enter.
-He bows low, respectfully.
-She smiles, nods, and blows him a kiss.
-He straightens, nods, and salutes with a fist to his chest.
+*At the edge, she pauses.*  
+*She turns back, and sees the Mysterious Stranger enter.*  
+*He bows low, respectfully.*  
+*She smiles, nods, and blows him a kiss.*  
+*He straightens, nods, and salutes with a fist to his chest.*
 
 **WITCH**: You should be proud. You have an amazing son.
 
-**MYSTERIOUS STRANGER**: [*bitterly*] No thanks to me
+**MYSTERIOUS STRANGER**: [*bitterly*] No thanks to me.
 
 **WITCH**: [*harshly*] Don’t say that!
 
@@ -905,31 +905,31 @@ He straightens, nods, and salutes with a fist to his chest.
 
 ### Scene 14: Rapunzel In The Sky
 
-Rapunzel is walking along, happily singing her song.
-Suddenly she stops.
-But her song does not.
+*Rapunzel is walking along, happily singing her song.*  
+*Suddenly she stops.*  
+*But her song does not.*
 
-It continues on.
-Not merely an echo.
-But actually richer and more elaborate.
+*It continues on.*  
+*Not merely an echo.*  
+*But actually richer and more elaborate.*
 
 **RAPUNZEL**: What... where?
 
-She wanders about trying to find the source of the music and stumbles across Jack’s bag.
+*She wanders about trying to find the source of the music and stumbles across Jack’s bag*.
 
-Suddenly, the music stops.
-She picks up the bag and stares at it suspiciously.
-Finally, she screws up her courage and thrusts her arm into it, pulling out...
+*Suddenly, the music stops*.
+*She picks up the bag and stares at it suspiciously*.
+*Finally, she screws up her courage and thrusts her arm into it, pulling out*...
 
 **RAPUNZEL**: A Harp!
 
-The Harp responds by playing the enhanced version of Rapunzel’s song.
+*The Harp responds by playing the enhanced version of Rapunzel’s song*.
 
 **RAPUNZEL**: That is so beautiful! Did you just improvise that?
 
 **HARP**: No, that’s the original version.
 
-Rapunzel is so shocked she drops the harp.
+*Rapunzel is so shocked she drops the harp*.
 
 **RAPUNZEL**: You can talk?!
 
@@ -943,69 +943,69 @@ Rapunzel is so shocked she drops the harp.
 
 **HARP**: Did you say... a witch?
 
-The Harp makes a sharp keening sound, indescribably sad and heartbreaking.
+*The Harp makes a sharp keening sound, indescribably sad and heartbreaking*.
 
 **RAPUNZEL**: Are you... okay?
 
 **HARP**: I... tell me, does this witch live in a beautiful garden?
 
-**RAPUNZEL**: How would I know? She locked me in a tower my whole life. I never saw anyone but her until I was eighteen. And when I finally met someone, she got rid of him to ensure I would never have anyone to love me. She was the worst mother ever!
+**RAPUNZEL**: How would I know? She locked me in a tower my whole life. I never saw anyone but her until I was eighteen. And when I finally met someone, she got rid of him to ensure I would never have anyone to love me. She is the worst mother ever!
 
-Harp spills out a series of notes, like rain weeping.
+*Harp spills out a series of notes, like rain weeping*.
 
-**HARP**: [*quietly*] No. No, she was not.... I was.
+**HARP**: [*quietly*] No. No, she is not.... I was.
 
-And then Harp begins sobbing. Great, anguished, human cries of grief.
+*And then Harp begins sobbing. Great, anguished, human cries of grief*.
 
 ### Scene 15: The King’s Bedroom
 
-The King is lying in bed.
-Feminine giggles sound from offstage.
+*The King is lying in bed*.
+*Feminine giggles sound from offstage*.
 
 **KING**: Farewell, my dears!
 
-He leans back, looking pleased with himself.
-Suddenly the room darkens, and ominous music plays.
-He sits up, nervous.
-The Witch enters.
+*He leans back, looking pleased with himself*.
+*Suddenly the room darkens, and ominous music plays*.
+*He sits up, nervous*.
+*The Witch enters*.
 
 **WITCH**: So... this is why you broke our engagement? So you could play patty-cake with the palace maids?
 
 **KING**: You! Gothel! Here!
 
-She stalks towards him with undisguised malice.
-The King flinches, but from somewhere finds the strength to sit up straight in bed. He looks almost... regal.
+*She stalks towards him with undisguised malice*.
+*The King flinches, but from somewhere finds the strength to sit up straight in bed. He looks almost... regal*.
 
 **KING**: Yes... I suppose it is finally time I paid my debt. But before you do your worst [*looks sharply at her*] I have something must say to you.
 
-The Witch pauses, anger warring with curiosity, and the briefest hint of vulnerability. The King draws a deep breath, then lets it out.
+*The Witch pauses, anger warring with curiosity, and the briefest hint of vulnerability. The King draws a deep breath, then lets it out*.
 
 **KING**: [*whispering*] I’m sorry.
 
-The words strike the Witch like a lightnight bolt. He doesn’t notice.
+*The words strike the Witch like a lightnight bolt. He doesn’t notice*.
 
-**KING**: [*stronger, and more agitated*] I’m sorry I left you at the altar. I’m sorry I didn’t have the courage to run away with you. I’m sorry I was too ashamed to even send a message explaining how my father had forced me into a marriage I didn’t want. [Looks up] But I’m not sorry that I get to see your face one last time before I die. It is a far greater kindness than I deserve.
+**KING**: [*stronger, and more agitated*] I’m sorry I left you at the altar. I’m sorry I didn’t have the courage to run away with you. I’m sorry I was too ashamed to even send a message explaining how my father had forced me into a marriage I didn’t want. [*Looks up*] But I’m not sorry that I get to see your face one last time before I die. It is a far greater kindness than I deserve.
 
-The Witch staggers back as if punched in the gut. The King finally noticed her suffering, and something comes over him.
+*The Witch staggers back as if punched in the gut. The King finally noticed her suffering, and something comes over him*.
 
 **KING**: Gothel! Dear, sweet Gothel are you okay? [*He strives to rise, but some invisible force seems to tie him to the bed*]
 
 **WITCH**: No! Don’t call me that name anymore. That woman is dead. She died the day you abandoned me on my sixteenth birthday. My mother was right. All humans, all men are liars and scoundrels. I should have listened to her and never opened my heart to the human world.
 
-The King looks stricken. A wild sort of glee steals over his face.
+*The King looks stricken. A wild sort of glee steals over his face*.
 
 **KING**: Fine! Then kill me and be done with it. God knows I deserve it for the way I left you to suffer alone all these years. Slay me now, and end both our suffering.
 
-The Witch snatches a dagger from her belt and stands over the immobile king. The King sighs and lays back down. He pulls apart his shirt, exposing his chest to the naked blade.
+*The Witch snatches a dagger from her belt and stands over the immobile king. The King sighs and lays back down. He pulls apart his shirt, exposing his chest to the naked blade*.
 
 **KING**: [*looking up into her eyes*] Take my heart. It has always been yours. I should have given it to you long ago.
 
-The Witch stares at him, lifts the dagger high, then plunges it down... into the bedding, a hairs-breadth from the King.
-She collapses on top of him, weeping. The King murmurs her name softly as he strokes her hair comfortingly.
+*The Witch stares at him, lifts the dagger high, then plunges it down... into the bedding, a hairs-breadth from the King*.
+*She collapses on top of him, weeping. The King murmurs her name softly as he strokes her hair comfortingly*.
 
 ### Scene 16: Back In The Land Above
 
-Rapunzel is cradling the harp.
+*Rapunzel is cradling the harp*.
 
 **RAPUNZEL**: Wait, let me make sure I got this straight. You kept my moth.. the Witch locked up her whole life, like she did me?
 
@@ -1021,7 +1021,7 @@ Rapunzel is cradling the harp.
 
 **RAPUNZEL**: [*bitterly*] If you call that marriage. Maybe you were right to break your daughter’s engagement. His whole family is full of charm and deceit. She’s probably better off alone.
 
-Harp strums a plaintive melody
+*Harp strums a plaintive melody*.
 
 **RAPUNZEL**: What does that mean?
 
@@ -1045,7 +1045,7 @@ Harp strums a plaintive melody
 
 **RAPUNZEL**: Then.... I have nothing more to say to you. Goodbye. [*stomps off*]
 
-The Harp lying on the floor echoes her footsteps until she is offstage.
+*The Harp lying on the floor echoes her footsteps until she is offstage*.
 
 **HARP**: Goodbye... my precious granddaughter.
 
@@ -1053,68 +1053,68 @@ The Harp lying on the floor echoes her footsteps until she is offstage.
 
 ### Scene 17: Back in The King’s Bedroom
 
-The Witch has cried herself out, and sits up next to the King.
+*The Witch has cried herself out, and sits up next to the King*.
 
 **WITCH**: I... didn’t actually come here to kill you.
 
-The King smiles and squeezes her hand.
+*The King smiles and squeezes her hand*.
 
-King: I don’t know whether to be relieved or disappointed. Either way, I’m glad you came.
+**KING**: *I don’t know whether to be relieved or disappointed. Either way, I’m glad you came*.
 
-The Witch gives a small smile.
+*The Witch gives a small smile*.
 
 **WITCH**: Me too. I... [*looks down*] I need your help. I assumed I’d have to threaten you, Make you fear me with a fear worse than death.
 
-The King cups her chin in his hand.
+*The King cups her chin in his hand*.
 
 **KING**: No threats necessary. Ask anything you want, up to half my kingdom. If it is in my power, I will grant it.
 
-**WITCH**: [*deep breath*] Actually... that is what I wanted to ask you for.
+**WITCH**: [*deep breath*] Actually... half your kingdom is what I wanted to ask you for.
 
-The King pales, but manages to regain his composure.
+*The King pales, but manages to regain his composure*.
 
 **KING**: That... isn’t exactly what I expected. [*sees her expression darkening*] But, a promise is a promise. I will do what I can. However... [*looking down*] might I at least ask what you will do with the land... and the people?
 
-The Witch shakes her head.
+*The Witch shakes her head*.
 
 **WITCH**: It isn’t for me. It is to save my daughter... your daughter-in-law. Rapunzel.
 
-The King has a shocked look. The Witch actually laughs.
+*The King has a shocked look. The Witch actually laughs*.
 
 **WITCH**: Not that kind of daughter. I... [*blushes*] never married. She’s adopted. I [*chokes up*] thought I... could keep her to myself. [*weeps*].
 
-The King takes her hand.
+*The King takes her hand*.
 
 **KING**: What... do you need from me?
 
-The Witch flashes him a grateful look.
+*The Witch flashes him a grateful look*.
 
 **WITCH**: She is hiding in the land of giants. She has befriended a giantess. I was hoping [*takes the King’s hand*] we could grant them a parcel of land here down below. Setup a... trading post, with The Land Above. The existing humans could stay, but as tenants under Giant Law.
 
-The King stiffens.
-The Witch pulls her hand back.
-She looks at him.
+*The King stiffens*.
+*The Witch pulls her hand back*.
+*She looks at him*.
 
 **WITCH**: [*in a small voice*] Is that... too much to ask?
 
-The King pats her hand and smiles.
+*The King pats her hand and smiles*.
 
 **KING**: No, my dear. If anything, it is a most generous offer. Trade with The Land Above would make me the envy of the Seven Kingdoms. [*growing sober*] My concern is for what happens next. Humans and Giants... have never lived together in peace. And as much as it pains me to say it, the fault is usually on our side. But if a Giant kills a human, even in self-defense...
 
-The Witch gets up and stomps around the room.
+*The Witch gets up and stomps around the room*.
 
 **WITCH**: Aargh! Why do you humans have to be so difficult?
 
-The King chuckles.
+*The King chuckles*.
 
 **KING**: It is part of our charm. But... if you’ll forgive my asking [*coughs*] can’t you just [*waves his hand in a magical sort of way*]
 
-The Witch’s smile is bittersweet.
+*The Witch’s smile is bittersweet*.
 
-**WITCH**: That’s... another story. Suffice to say that disobeying my mother carried a heavy price, and paying that price cost me my magic.
+**WITCH**: *That’s... another story. Suffice to say that disobeying my mother carried a heavy price, and paying that price cost me my magic*.
 
-The King looks crestfallen.
-But he quickly hides it.
+*The King looks crestfallen*.
+*But he quickly hides it*.
 
 **KING**: That... is only to be expected. Still, we must make the best of it. What must I do?
 
@@ -1124,11 +1124,11 @@ But he quickly hides it.
 
 **WITCH**: Very well. [*looks him in the eye and curtsy’s*] Thank you, your majesty.
 
-The King stares at her, until she turns away.
+*The King stares at her, until she turns away*.
 
 **KING**: Will I... see you again?
 
-The Witch slowly walks away, eyes downcast.
+*The Witch slowly walks away, eyes downcast*.
 
 **WITCH**: I... can promise nothing. You are not the only one to whom I owe a debt. My life... is no longer my own.
 
