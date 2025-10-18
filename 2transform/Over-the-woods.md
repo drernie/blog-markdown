@@ -474,18 +474,18 @@ Rapunzel: [*still in shock*] I... have a brother. The Witch... wasn’t my mothe
 
 #### Scene 8: The Woods
 
-Cinderella walks in disguised in her old rags, taking to her bird friends.
+*Cinderella walks in disguised in her old rags, taking to her bird friends*.
 
-Cinderella: Oh, how fun it is to be out on my own again. [*listens to birds*] Yes, that was a brilliant idea to go visit my mother. Surely her spirit would know how to save Rapunzel from the giantess.
+**CINDERELLA**:  Oh, how fun it is to be out on my own again. [*listens to birds*] Yes, that was a brilliant idea to go visit my mother. Surely her spirit would know how to save Rapunzel from the giantess.
 
-Suddenly there is a loud crunching sound.
-Cinderella starts, then hides in the bushes.
+*Suddenly there is a loud crunching sound*.
+*Cinderella starts, then hides in the bushes*.
 
-[*The Prince Charmings come out and do their Agony Reprise from the original Act II, about their new loves*]
+[*The Prince Charmings come out and do their *Agony Reprise* from the original Act II, about their new loves*]
 
-When they leave, Cinderella comes out stunned. She looks after her prince, and seems about to to speak when the Bakers, Red and Jack rush in.
+*When they leave, Cinderella comes out stunned. She looks after her prince, and seems about to to speak when the Bakers, Red and Jack rush in*.
 
-They stop when they see her. She hurriedly composes herself.
+*They stop when they see her. She hurriedly composes herself*.
 
 **BAKER**: Miss, you shouldn’t be here. There are giants about.
 
@@ -493,155 +493,155 @@ They stop when they see her. She hurriedly composes herself.
 
 **BAKER**: How would you know? I only just told the Princess... O my, you are the Princess.
 
-They all kneel. She smiles sadly.
+*They all kneel. She smiles sadly*.
 
 **CINDERELLA**: I am not a princess here... [*softly*] if I ever really was. [*normal voice*] Please, all rise!
 
-They stand. Jack rushes up to her.
+*They stand. Jack rushes up to her*.
 
-Jack: We are going to save Rapunzel!
+**JACK**: We are going to save Rapunzel!
 
 **CINDERELLA**: [*confused*] But you are just a boy!
 
 **JACK**: Not anymore. I’ve already slain one giant. [*puffs out his chest*]
 
-Wife: [*to Baker*] Where is that beanstalk?
+**WIFE**: [*to Baker*] Where is that beanstalk?
 
 **BAKER**: I know it is here somewhere...
 
-Red: There it is!
+**RED**: There it is!
 
-The Baker looks at Jack. He nods.
-The Baker turns to his Wife.
+*The Baker looks at Jack. He nods*.
+*The Baker turns to his Wife*.
 
 **BAKER**: Wish me luck.
 
-His Wife adjusts his scarf. Then, on impulse, she takes off her shawl and places it on his shoulders.
+*His Wife adjusts his scarf. Then, on impulse, she takes off her shawl and places it on his shoulders*.
 
 **BAKER**: What... what is that for?
 
-W: For warmth... and good luck. [*then stands on her tiptoes to give him a quick kiss*]
+**WIFE**: For warmth... and good luck. [*then stands on her tiptoes to give him a quick kiss*]
 
-Red and Jack stand awkwardly while this happens. Jack glances briefly at Red. She glares at him and he hurriedly turns away. He stares at his shoes while she stares at him. Finally she snaps.
+*Red and Jack stand awkwardly while this happens. Jack glances briefly at Red. She glares at him and he hurriedly turns away. He stares at his shoes while she stares at him. Finally she snaps*.
 
-Red: Okay, fine. But this is only for warmth!
+**RED**: Okay, fine. But this is only for warmth!
 
-She twirls off her wolf cloak and shoves it at him, then stomps off stage without a backward glance.
+*She twirls off her wolf cloak and shoves it at him, then stomps off stage without a backward glance*.
 
-Jack watches her open-mouthed. Cinderella titters.
-The Baker punches him in the arm.
+*Jack watches her open-mouthed. Cinderella titters*.
+*The Baker punches him in the arm*.
 
 **BAKER**: Okay, son, are you ready?
 
 **JACK**: Y... Yes, sir!
 
-The Baker puts his arm around Jack and leads him offstage.
+*The Baker puts his arm around Jack and leads him offstage*.
 
-Cinderella watches them go, smiling sadly.
-She turns to see the Baker’s Wife staring after her husband with a strange expression.
+*Cinderella watches them go, smiling sadly*.
+*She turns to see the Baker’s Wife staring after her husband with a strange expression*.
 
 **CINDERELLA**: Is... everything all right?
 
-The Baker’s Wife jumps as if embarrassed.
+*The Baker’s Wife jumps as if embarrassed*.
 
 **WIFE**: Me? Oh.. nothing... it’s just.
 
-Cinderella sits on the log and pats the seat next to her.
-The Baker’s Wife sits down stiffly, a little distance away.
+*Cinderella sits on the log and pats the seat next to her*.
+*The Baker’s Wife sits down stiffly, a little distance away*.
 
 **WIFE**: I... I’m not sure I can explain. You... probably wouldn’t understand, being married to a Prince and all.
 
-Cinderella starts.
+*Cinderella starts*.
 
 **CINDERELLA**: That... means much less than you might think. [*her voice breaking*]
 
-She suddenly collapses into violent sobs. The Baker’s Wife is shocked at first , but then shifts the baby around and gathers Cinderella into her bosom, and comforts her while she weeps.
+*She suddenly collapses into violent sobs. The Baker’s Wife is shocked at first , but then shifts the baby around and gathers Cinderella into her bosom, and comforts her while she weeps*.
 
 #### Scene 9: Giantess In The Sky
 
-The Baker and Jack creep quietly back onstage.
+*The Baker and Jack creep quietly back onstage*.
 
-Suddenly they hear a series of shrieks.
+*Suddenly they hear a series of shrieks*.
 
-Jack: Was that the Princess? Is she alive?
+**JACK**: Was that the Princess? Is she alive?
 
 **BAKER**: If so, it’s not for long. We better hurry.
 
-They get ready for battle.
-The shrieks get louder, and louder.
-Just when they are about to dash off, Rapunzel appears, shrieking... with laughter.
+*They get ready for battle*.
+*The shrieks get louder, and louder*.
+*Just when they are about to dash off, Rapunzel appears, shrieking... with laughter*.
 
 **BAKER**: Rapunzel! You’re alive.
 
-Rapunzel stops laughing, and stares at the Baker, stunned.
-Jack steps out from behind him.
+*Rapunzel stops laughing, and stares at the Baker, stunned*.
+*Jack steps out from behind him*.
 
 **JACK**: Princess! We have come to rescue you.
 
-Rapunzel goes wide-eyed, then collapses on the ground, laughing.
+*Rapunzel goes wide-eyed, then collapses on the ground, laughing*.
 
 **BAKER**: She may have gone mad. Quickly, help me carry her.
 
-They hurry over, but before they can pick her up she stops laughing and hisses at them.
+*They hurry over, but before they can pick her up she stops laughing and hisses at them*.
 
-Rapunzel: Don’t touch me!
+**RAPUNZEL**: Don’t touch me!
 
 **BAKER**: Rapunzel, don’t you recognize me?
 
 **RAPUNZEL**: [*glaring*] Of course I do! You’re the brother who knew who I really was, and never sought me out to tell me. And once you found me, all you wanted to do was control me and keep me safe.
 
-The Baker hangs his head in shame.
-Rapunzel whirls on Jack.
+*The Baker hangs his head in shame*.
+*Rapunzel whirls on Jack*.
 
 **RAPUNZEL**: And you! You are the ungrateful whelp who stole from the giantess after she took pity on you, and then slew her husband. You better get out of here. If she ever sees you again...
 
-She pauses dramatically, and does a Boom-Squish with her foot.
+*She pauses dramatically, and does a Boom-Squish with her foot*.
 
-Jack flinches, and the Baker pulls him closer protectively.
+*Jack flinches, and the Baker pulls him closer protectively*.
 
 **BAKER**: Princess...
 
 **RAPUNZEL**: Don’t call me that! Don’t even call me Rapunzel. That was the name the witch gave me. Better yet, don’t call me at all. Leave and never come back.
 
-Turns to walk away.
+*Turns to walk away*.
 
 **BAKER**: Please.... sister. Come back home with us.
 
-Rapunzel turns and stalks toward him.
-The men shrink back from her fury.
+*Rapunzel turns and stalks toward him*.
+*The men shrink back from her fury*.
 
 **RAPUNZEL**: Home? I’ve never had a home! Just a series of prisons. This is my home. The Giantess agrees with me. All humans... all men! ...are selfish, greedy, controlling bastards.
 
-Rapunzel laughs. Her face is transformed into a mad sort of joy.
+*Rapunzel laughs. Her face is transformed into a mad sort of joy*.
 
 **RAPUNZEL**: Here I am free! No walls. No towers. No men. We just sit and braid each other’s hair, and eat the wild berries that grow everywhere.
 
-Walks about, as if in a reverie.
+*Walks about, as if in a reverie*.
 
 **RAPUNZEL**: And we talk! Do you know I have never had anyone to talk to? And she is such a wonderful listener. I can talk to her for hours, about anything and everything.
 
-She turns and approaches the Baker, her eyes glistening. She lays a hand on his arm. For once, her voice is actually gentle.
+*She turns and approaches the Baker, her eyes glistening. She lays a hand on his arm. For once, her voice is actually gentle*.
 
 **RAPUNZEL**: Please. Don’t you see? For once in my life, I am truly happy. Just leave me in peace.
 
 **JACK**: But... shouldn’t you be around your own kind?
 
-Just then a voice shouts from offstage:
+*Just then a voice shouts from offstage.*
 
-Giantess: Rapunzel, where are you?
+**GIANTESS**: Rapunzel, where are you?
 
-Rapunzel draws herself up.
+*Rapunzel draws herself up*.
 
 **RAPUNZEL**: She is my own kind. If you know what’s good for you, you’ll leave before she finds you.
 
-Rapunzel turns her back on them and struts off majestically.
-The Baker starts to lunge after her, but Jack grabs his arm.
-The giantess’s footsteps grow louder.
-The Baker shakes off Jack’s arm, takes one last look at the fleeing Rapunzel, then turns, grabs Jacks arm and heads back the way they came.
+*Rapunzel turns her back on them and struts off majestically*.
+*The Baker starts to lunge after her, but Jack grabs his arm*.
+*The giantess’s footsteps grow louder*.
+*The Baker shakes off Jack’s arm, takes one last look at the fleeing Rapunzel, then turns, grabs Jacks arm and heads back the way they came*.
 
-Neither notice the bag Jack had dropped, now lying abandoned on stage.
+*Neither notice the bag Jack had dropped, now lying abandoned on stage*.
 
-Ethereal music starts to play...
+*Ethereal music starts to play...*
 
 #### Scene 10: The Woods
 
