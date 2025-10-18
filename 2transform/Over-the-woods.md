@@ -901,6 +901,8 @@ He straightens, nods, and salutes with a fist to his chest.
 
 *The Mysterious Stranger watches her, until the light goes out*.
 
+## HALFTIME
+
 ### Scene 14: Rapunzel In The Sky
 
 Rapunzel is walking along, happily singing her song.
@@ -925,33 +927,33 @@ The Harp responds by playing the enhanced version of Rapunzel’s song.
 
 **RAPUNZEL**: That is so beautiful! Did you just improvise that?
 
-Harp: No, that’s the original version.
+**HARP**: No, that’s the original version.
 
 Rapunzel is so shocked she drops the harp.
 
 **RAPUNZEL**: You can talk?!
 
-H. Well, it does get tiring to sing all the time.
+**HARP**: Well, it does get tiring to sing all the time.
 
 **RAPUNZEL**: But... you’re a person? Where did you come from? How did you get here?
 
-H. I should ask you the same question! I’m sure I’ve been up here longer than you’ve been alive. For that matter, how do you know my song?
+**HARP**: I should ask you the same question! I’m sure I’ve been up here longer than you’ve been alive. For that matter, how do you know my song?
 
 **RAPUNZEL**: Your song? My mo... I mean, the witch who stole me from my parents taught it to me.
 
-H. Did you say... a witch?
+**HARP**: Did you say... a witch?
 
 The Harp makes a sharp keening sound, indescribably sad and heartbreaking.
 
 **RAPUNZEL**: Are you... okay?
 
-H. I... tell me, does this witch live in a beautiful garden?
+**HARP**: I... tell me, does this witch live in a beautiful garden?
 
 **RAPUNZEL**: How would I know? She locked me in a tower my whole life. I never saw anyone but her until I was eighteen. And when I finally met someone, she got rid of him to ensure I would never have anyone to love me. She was the worst mother ever!
 
 Harp spills out a series of notes, like rain weeping.
 
-H. [*quietly*] No. No, she was not.... I was.
+**HARP**: [*quietly*] No. No, she was not.... I was.
 
 And then Harp begins sobbing. Great, anguished, human cries of grief.
 
@@ -960,43 +962,43 @@ And then Harp begins sobbing. Great, anguished, human cries of grief.
 The King is lying in bed.
 Feminine giggles sound from offstage.
 
-King: Farewell, my dears!
+**KING**: Farewell, my dears!
 
 He leans back, looking pleased with himself.
 Suddenly the room darkens, and ominous music plays.
 He sits up, nervous.
 The Witch enters.
 
-Witch: So... this is why you broke our engagement? So you could play patty-cake with the palace maids?
+**WITCH**: So... this is why you broke our engagement? So you could play patty-cake with the palace maids?
 
-K: You! Gothel! Here!
+**KING**: You! Gothel! Here!
 
 She stalks towards him with undisguised malice.
 The King flinches, but from somewhere finds the strength to sit up straight in bed. He looks almost... regal.
 
-K. Yes... I suppose it is finally time I paid my debt. But before you do your worst [*looks sharply at her*] I have something must say to you.
+**KING**: Yes... I suppose it is finally time I paid my debt. But before you do your worst [*looks sharply at her*] I have something must say to you.
 
 The Witch pauses, anger warring with curiosity, and the briefest hint of vulnerability. The King draws a deep breath, then lets it out.
 
-K. [*whispering*] I’m sorry.
+**KING**: [*whispering*] I’m sorry.
 
 The words strike the Witch like a lightnight bolt. He doesn’t notice.
 
-K. [*stronger, and more agitated*] I’m sorry I left you at the altar. I’m sorry I didn’t have the courage to run away with you. I’m sorry I was too ashamed to even send a message explaining how my father had forced me into a marriage I didn’t want. [Looks up] But I’m not sorry that I get to see your face one last time before I die. It is a far greater kindness than I deserve.
+**KING**: [*stronger, and more agitated*] I’m sorry I left you at the altar. I’m sorry I didn’t have the courage to run away with you. I’m sorry I was too ashamed to even send a message explaining how my father had forced me into a marriage I didn’t want. [Looks up] But I’m not sorry that I get to see your face one last time before I die. It is a far greater kindness than I deserve.
 
 The Witch staggers back as if punched in the gut. The King finally noticed her suffering, and something comes over him.
 
-K. Gothel! Dear, sweet Gothel are you okay? [*He strives to rise, but some invisible force seems to tie him to the bed*]
+**KING**: Gothel! Dear, sweet Gothel are you okay? [*He strives to rise, but some invisible force seems to tie him to the bed*]
 
 **WITCH**: No! Don’t call me that name anymore. That woman is dead. She died the day you abandoned me on my sixteenth birthday. My mother was right. All humans, all men are liars and scoundrels. I should have listened to her and never opened my heart to the human world.
 
 The King looks stricken. A wild sort of glee steals over his face.
 
-K. Fine! Then kill me and be done with. God knows I deserve it for the way I left you to suffer alone all this year. Slay me now, and end both our suffering.
+**KING**: Fine! Then kill me and be done with it. God knows I deserve it for the way I left you to suffer alone all these years. Slay me now, and end both our suffering.
 
 The Witch snatches a dagger from her belt and stands over the immobile king. The King sighs and lays back down. He pulls apart his shirt, exposing his chest to the naked blade.
 
-K. [*looking up into her eyes*] Take my heart. It has always been yours. I should have given it to you long ago.
+**KING**: [*looking up into her eyes*] Take my heart. It has always been yours. I should have given it to you long ago.
 
 The Witch stares at him, lifts the dagger high, then plunges it down... into the bedding, a hairs-breadth from the King.
 She collapses on top of him, weeping. The King murmurs her name softly as he strokes her hair comfortingly.
@@ -1007,15 +1009,15 @@ Rapunzel is cradling the harp.
 
 **RAPUNZEL**: Wait, let me make sure I got this straight. You kept my moth.. the Witch locked up her whole life, like she did me?
 
-Harp: [*sniffling*] Yes.
+**HARP**: [*sniffling*] Yes.
 
 **RAPUNZEL**: And when she fell in love, you told the boy’s father the King to break it off, then convinced her the boy had been lying to her the whole time.
 
-H. [*sadly*] Yes.
+**HARP**: [*sadly*] Yes.
 
 **RAPUNZEL**: [*sharp breath*] And that Prince... is the current King? My father-in-law?
 
-H. You married the King’s son?
+**HARP**: You married the King’s son?
 
 **RAPUNZEL**: [*bitterly*] If you call that marriage. Maybe you were right to break your daughter’s engagement. His whole family is full of charm and deceit. She’s probably better off alone.
 
@@ -1023,29 +1025,29 @@ Harp strums a plaintive melody
 
 **RAPUNZEL**: What does that mean?
 
-H. It means... I’m sorry. Not only did I break her engagement, I left her in anger when she broke the pact preventing her from using magic against the kingdom. I thought I could come back after she learned her lesson, but instead I became trapped in the form of a harp. She was alone. Alone, for so long, all by herself. She must have become desperate. Desperate for a family. Someone to love. Someone to love her. Someone like...
+**HARP**: It means... I’m sorry. Not only did I break her engagement, I left her in anger when she broke the pact preventing her from using magic against the kingdom. I thought I could come back after she learned her lesson, but instead I became trapped in the form of a harp. She was alone. Alone, for so long, all by herself. She must have become desperate. Desperate for a family. Someone to love. Someone to love her. Someone like...
 
 **RAPUNZEL**: Me? [*jumping up and dumping the harp on the ground*] She stole me because you left her?
 
-H. No. Yes. Maybe. Probably. I don’t know. I am so, so sorry.
+**HARP**: No. Yes. Maybe. Probably. I don’t know. I am so, so sorry.
 
 **RAPUNZEL**: Sorry! Sorry doesn’t even begin to describe it. You’re just as evil and controlling as she is. Maybe worse.
 
-H. I know. I am sorry. This is all my fault. Please, let me make it up to you.
+**HARP**: I know. I am sorry. This is all my fault. Please, let me make it up to you.
 
 **RAPUNZEL**: Ha! Are you powerful enough to turn back time and give me my mother and my childhood back?
 
-H. [*quietly*] No.
+**HARP**: [*quietly*] No.
 
 **RAPUNZEL**: So my life is ruined. And it is all your fault. You and your daughter’s.
 
-H. Yes [*plays a lamenting tune*]
+**HARP**: Yes [*plays a lamenting tune*]
 
 **RAPUNZEL**: Then.... I have nothing more to say to you. Goodbye. [*stomps off*]
 
 The Harp lying on the floor echoes her footsteps until she is offstage.
 
-H. Goodbye... my precious granddaughter.
+**HARP**: Goodbye... my precious granddaughter.
 
 [*Plays a dirge-like version of Rapunzel’s theme*]
 
@@ -1053,7 +1055,7 @@ H. Goodbye... my precious granddaughter.
 
 The Witch has cried herself out, and sits up next to the King.
 
-Witch: I... didn’t actually come here to kill you.
+**WITCH**: I... didn’t actually come here to kill you.
 
 The King smiles and squeezes her hand.
 
@@ -1065,13 +1067,13 @@ The Witch gives a small smile.
 
 The King cups her chin in his hand.
 
-K. No threats necessary. Ask anything you want, up to half my kingdom. If it is in my power, I will grant it.
+**KING**: No threats necessary. Ask anything you want, up to half my kingdom. If it is in my power, I will grant it.
 
 **WITCH**: [*deep breath*] Actually... that is what I wanted to ask you for.
 
 The King pales, but manages to regain his composure.
 
-K. That... isn’t exactly what I expected. [*sees her expression darkening*] But, a promise is a promise. I will do what I can. However... [*looking down*] might I at least ask what you will do with the land... and the people?
+**KING**: That... isn’t exactly what I expected. [*sees her expression darkening*] But, a promise is a promise. I will do what I can. However... [*looking down*] might I at least ask what you will do with the land... and the people?
 
 The Witch shakes her head.
 
@@ -1083,7 +1085,7 @@ The King has a shocked look. The Witch actually laughs.
 
 The King takes her hand.
 
-K. What... do you need from me?
+**KING**: What... do you need from me?
 
 The Witch flashes him a grateful look.
 
@@ -1097,7 +1099,7 @@ She looks at him.
 
 The King pats her hand and smiles.
 
-K. No, my dear. If anything, it is a most generous offer. Trade with The Land Above would make me the envy of the Seven Kingdoms. [*growing sober*] My concern is for what happens next. Humans and Giants... have never lived together in peace. And as much as it pains me to say it, the fault is usually on our side. But if a Giant kills a human, even in self-defense...
+**KING**: No, my dear. If anything, it is a most generous offer. Trade with The Land Above would make me the envy of the Seven Kingdoms. [*growing sober*] My concern is for what happens next. Humans and Giants... have never lived together in peace. And as much as it pains me to say it, the fault is usually on our side. But if a Giant kills a human, even in self-defense...
 
 The Witch gets up and stomps around the room.
 
@@ -1105,7 +1107,7 @@ The Witch gets up and stomps around the room.
 
 The King chuckles.
 
-K. It is part of our charm. But... if you’ll forgive my asking [*coughs*] can’t you just [*waves his hand in a magical sort of way*]
+**KING**: It is part of our charm. But... if you’ll forgive my asking [*coughs*] can’t you just [*waves his hand in a magical sort of way*]
 
 The Witch’s smile is bittersweet.
 
@@ -1114,25 +1116,25 @@ The Witch’s smile is bittersweet.
 The King looks crestfallen.
 But he quickly hides it.
 
-K. That... is only to be expected. Still, we must make the best of it. What must I do?
+**KING**: That... is only to be expected. Still, we must make the best of it. What must I do?
 
 **WITCH**: I need you to issue a Royal Decree dedicating all the land on that side of the woods as an enclave for the giants. And I’ll need someone of stature to enforce it.
 
-K. I will send my son and his steward. My son... well, he means well, but it is safer to send the steward as well.
+**KING**: I will send my son and his steward. My son... well, he means well, but it is safer to send the steward as well.
 
 **WITCH**: Very well. [*looks him in the eye and curtsy’s*] Thank you, your majesty.
 
 The King stares at her, until she turns away.
 
-K. Will I... see you again?
+**KING**: Will I... see you again?
 
 The Witch slowly walks away, eyes downcast.
 
 **WITCH**: I... can promise nothing. You are not the only one to whom I owe a debt. My life... is no longer my own.
 
-K. Then, fare thee well, sweet Gothel. [*blows her a kiss*]
+**KING**: Then, fare thee well, sweet Gothel. [*blows her a kiss*]
 
-Exit
+*Exit*.
 
 ### Scene 18: Back Above
 
@@ -1144,57 +1146,57 @@ They fly away while Cinderella wanders about. Suddenly she spies the harp, and w
 
 **CINDERELLA**: How odd? Who would leave such a valuable harp just lying around? [*picks it up*]
 
-Harp: [*bitterly*] Leave me be!
+**HARP**: [*bitterly*] Leave me be!
 
 **CINDERELLA**: You talk?
 
-H. I talk? You talk to birds, and you’re surprised at a taking harp?
+**HARP**: I talk? You talk to birds, and you’re surprised at a taking harp?
 
 **CINDERELLA**: Never mind that. Can you tell me where I can find the Princess Rapunzel?
 
-H. [*sighing*] As far away from me as she can get. Why do you want her?
+**HARP**: [*sighing*] As far away from me as she can get. Why do you want her?
 
 **CINDERELLA**: We are trying to reunite her with her children.
 
-H. Her... she has... my great-grandchildren!
+**HARP**: Her... she has... my great-grandchildren!
 
 **CINDERELLA**: What?
 
-H. Never mind. Do you have a plan?
+**HARP**: Never mind. Do you have a plan?
 
 **CINDERELLA**: Yes. Well, actually the Witch is doing most of the work.
 
-H. No! She will just try to trap Rapunzel again.
+**HARP**: No! She will just try to trap Rapunzel again.
 
-Cinderella shakes her head.
+*Cinderella shakes her head*.
 
 **CINDERELLA**: No, it isn’t like that. She realizes she was wrong. She will do anything to save Rapunzel, no matter what it costs her.
 
-The Harp plays a series of agitated notes.
+*The Harp plays a series of agitated notes*.
 
-H. Are... are you sure? Do you know what she intends?
+**HARP**: Are... are you sure? Do you know what she intends?
 
-Cinderella shrugs.
+*Cinderella shrugs*.
 
 **CINDERELLA**: Not entirely. She said some sort of pact with the Land Above.
 
-H. No!
+**HARP**: No!
 
 **CINDERELLA**: What do you mean, no?
 
-H. No time to explain. You... you must take me to her. [*long pause*] Please?
+**HARP**: No time to explain. You... you must take me to her. [*long pause*] Please?
 
-Cinderella looks around unsure, then finally makes a decision.
+*Cinderella looks around unsure, then finally makes a decision*.
 
 **CINDERELLA**: Okay, fine. But I hope you know what you’re doing. The Witch... isn’t very patient with those who disappoint her.
 
-H. [*under her breath*] Like mother like daughter.
+**HARP**: [*under her breath*] Like mother like daughter.
 
 **CINDERELLA**: What?
 
-H. I said, we oughter get going. Time is of the essence!
+**HARP**: I said, we oughter get going. Time is of the essence!
 
-Cinderella picks her up and hurries offstage
+*Cinderella picks her up and hurries offstage*.
 
 ### Scene 19: Grandmothers House
 
@@ -1206,40 +1208,39 @@ Grandma: Did he beg for mercy?
 
 The Witch dabs at her eyes.
 
-Witch: He was... wonderful. But [*recovering*] yes, he agreed. He will send the Prince -- and more importantly, the steward -- to witness the deed.
+**WITCH**: He was... wonderful. But [*recovering*] yes, he agreed. He will send the Prince -- and more importantly, the steward -- to witness the deed.
 
-Mrs. **BAKER**: [takes the Baker’s hand,
-looks at the Witch] Are you sure this is safe?
+**WIFE**: [takes the Baker’s hand,looks at the Witch] Are you sure this is safe?
 
-Witch: [*forcing a smile*] Of course it will be safe [*under her breath*] for you.
+**WITCH**: [*forcing a smile*] Of course it will be safe [*under her breath*] for you.
 
 **BAKER**: What do you need us to do?
 
-Witch: [*looking at Jack*] Take them all to the site of the giant’s grave. Ask your mother to gather all your neighbors at midnight. Tell them the King has an important announcement and that they must attend.
+**WITCH**: [*looking at Jack*] Take them all to the site of the giant’s grave. Ask your mother to gather all your neighbors at midnight. Tell them the King has an important announcement and that they must attend.
 
 Baker’s Wife: Where will you be?
 
-Witch: I have... some unfinished business to take care of. [*exits*]
+**WITCH**: I have... some unfinished business to take care of. [*exits*]
 
 ### Scene 20: Cinderella’s Grove
 
 The Witch walks gingerly up to the tree.
 
-Witch: [*quietly*] Hello, sister. [*waits for a long moment, then sighs*] I know you hate me, and you have every right to. I won’t bother to ask your forgiveness, and no apology could make up for the curse that sundered you from your husband and daughter. [*steps closer*] But... perhaps I can offer you something better.
+**WITCH**: [*quietly*] Hello, sister. [*waits for a long moment, then sighs*] I know you hate me, and you have every right to. I won’t bother to ask your forgiveness, and no apology could make up for the curse that sundered you from your husband and daughter. [*steps closer*] But... perhaps I can offer you something better.
 
 [*the Witch walks over and places her hand on the trunk*]
 
-Witch: [*whispering*] Revenge.
+**WITCH**: [*whispering*] Revenge.
 
 [*The tree twitches as if interested. What might be a face appears briefly*]
 
-Witch: [*taking a deep breath*] As you know, it is not easy to kill a witch. But I’ve heard it said that the dryads can grow a thorn that will drain all the life and magic from a witch. [*steps back and looks the tree in the face*] If you give me one, I promise I will put it to good use. And I will never trouble you -- or anyone else -- ever again.
+**WITCH**: [*taking a deep breath*] As you know, it is not easy to kill a witch. But I’ve heard it said that the dryads can grow a thorn that will drain all the life and magic from a witch. [*steps back and looks the tree in the face*] If you give me one, I promise I will put it to good use. And I will never trouble you -- or anyone else -- ever again.
 
 [Long silence. Then a bird flies in and drops a thorny branch on the ground. The Witch looks at it for a few moments, hesitates, then pulls out the Baker’s scarf and uses that to pick it up.
 
 She turns to walk away, but stops after a few steps. She pivots to face the tree]
 
-Witch: [*bowing low. Stands up. Chokes out:*] I... I’m so, so so sorry. [*then turns and dashes away*]
+**WITCH**: [*bowing low. Stands up. Chokes out:*] I... I’m so, so so sorry. [*then turns and dashes away*]
 
 ### Scene 21: The Giant’s Grave
 
@@ -1251,7 +1252,7 @@ The peasants erupt in bedlam. The Prince turns to the Steward
 
 P: This is madness. Did you know about this? [*The Steward shrugs*] But this doesn’t make any sense? There aren’t any giants here. There aren’t even any beanstalks!
 
-Witch: “Not yet!”
+**WITCH**: “Not yet!”
 
 All heads turn to see the Witch entering, bearing a thorny branch.
 
@@ -1259,11 +1260,11 @@ Prince: [*blustering*] You cannot be serious.
 
 The Witch looks at him, not just with contempt, but a tinge of sadness.
 
-Witch: Deadly serious.
+**WITCH**: Deadly serious.
 
 She pulls out the branch and gazes up into the sky.
 
-Witch: I am sorry, mother. You were right. Mortals and magic were never meant to mix. This land must be returned to the wild. What went wrong must be made right. [*lifts the thorn into the moonlight*] Accept my sacrifice, and restore this giant back to life, so that my daughter may return to her life. [*prepares to plunge it into her heart*]
+**WITCH**: I am sorry, mother. You were right. Mortals and magic were never meant to mix. This land must be returned to the wild. What went wrong must be made right. [*lifts the thorn into the moonlight*] Accept my sacrifice, and restore this giant back to life, so that my daughter may return to her life. [*prepares to plunge it into her heart*]
 
 Cinderella: [*entering*] No!
 
@@ -1271,15 +1272,15 @@ Everyone freezes. Rapunzel’s song starts playing on the harp.
 
 Jack: My harp!
 
-Witch: [*stunned*] That... song. It’s... not quite the one I taught Rapunzel...
+**WITCH**: [*stunned*] That... song. It’s... not quite the one I taught Rapunzel...
 
 Cinderella walks slowly up to the Witch, and gravely hands her the harp. The music stops.
 
-Witch: Who... how... do you know that song?
+**WITCH**: Who... how... do you know that song?
 
 Harp: [*softly*] I wrote it... for you.
 
-Witch: [*dropping the harp, stepping back*] M.. Mo.... Mother?!
+**WITCH**: [*dropping the harp, stepping back*] M.. Mo.... Mother?!
 
 The Harp riffs on Rapunzel’s motif to create a song of sadness, regret, and longing.
 
@@ -1291,17 +1292,17 @@ Witch; What, so I can become like you? Ascend to a higher plane, a lifeless obje
 
 [*She pulls out the beans*]
 
-Witch: These beans, when watered by my blood, will raise the giant back to life. The giantess can come live with him here, and Rapunzel will join them. And... [*voice breaking*] my grandchildren will join her. It [*looking sadly at the harp*] it is all the magic I have left.
+**WITCH**: These beans, when watered by my blood, will raise the giant back to life. The giantess can come live with him here, and Rapunzel will join them. And... [*voice breaking*] my grandchildren will join her. It [*looking sadly at the harp*] it is all the magic I have left.
 
 Harp. No! [*violently. Everyone jumps, shocked. She continues quietly.*]. You have me. I... I can raise the giant. Please... please don’t kill your self.
 
-Witch: No! I’d rather die than live with again as your captive. [*raises the thorn*]
+**WITCH**: No! I’d rather die than live with again as your captive. [*raises the thorn*]
 
 [*The harp laughs bitterly.*]
 
 Harp: That won’t be a problem. Let me do this... and I promise you will never see me again.
 
-Witch: [*snarling*] And why should I believe you?
+**WITCH**: [*snarling*] And why should I believe you?
 
 Harp: [*proudly*] Because you will kill me with your own hands!
 
@@ -1348,7 +1349,7 @@ She leans forward and kissing him on the forehead. He breaks down and collapses 
 
 Harp: Quickly! The time is short. This is the last midnight. You must... unstring me.
 
-Witch: Mother... I... I...
+**WITCH**: Mother... I... I...
 
 The Harp plays a heartbreakingly beautiful arpeggio.
 
@@ -1360,17 +1361,17 @@ Harp: [*softly*] Goodbye, my love
 
 At the last second, the Witch drops the sword and falls to the ground weeping.
 
-Witch: I... I can’t. I so want to hate you. But then I realize... I became you. To love... and to let go... it never gets easier, does it?
+**WITCH**: I... I can’t. I so want to hate you. But then I realize... I became you. To love... and to let go... it never gets easier, does it?
 
 Harp: [*tenderly*] No... it does not.
 
-Witch: [*picking up the sword again*] Much easier, I think... just to die. [*raises the sword and starts jabbing it into her own breast again*]
+**WITCH**: [*picking up the sword again*] Much easier, I think... just to die. [*raises the sword and starts jabbing it into her own breast again*]
 
 Rapunzel: No!
 
 Everyone starts in shock. The Witch shrieks as the sword pierces her and she falls. Rapunzel runs in and kneels at her side. Hurriedly she takes a lock of hair from her pocket and stuffs it in the Witch’s wound.
 
-Witch: You... came back?
+**WITCH**: You... came back?
 
 Rapunzel sniffles.
 
@@ -1412,7 +1413,7 @@ R Prince: I think we all know who’s really been running the kingdom all these 
 
 Steward: [*stunned*] But... the King...
 
-Witch: [*smiling saucily*] I’m sure he will be fine with it. [*eyes glinting*] one way or another.
+**WITCH**: [*smiling saucily*] I’m sure he will be fine with it. [*eyes glinting*] one way or another.
 
 Jack: Wondeful! Does that mean everyone will live happily ever after?
 
@@ -1458,7 +1459,7 @@ One by one, they all start smiling at Baker.
 
 **BAKER**: why... why are you looking at me like that.
 
-Witch: I hereby nominate the Baker as Mayor of Giantland!
+**WITCH**: I hereby nominate the Baker as Mayor of Giantland!
 
 Everyone cheers, except Baker
 
@@ -1466,7 +1467,7 @@ Everyone cheers, except Baker
 
 Harp. We know. And we know... we are no better than you.
 
-Witch: But you... [*deep breath*] have the courage to admit it.
+**WITCH**: But you... [*deep breath*] have the courage to admit it.
 
 Wife: And transcend it.
 
@@ -1525,52 +1526,51 @@ Was it because [*broken*] you... you never considered me your daughter? [*starts
 
 **BAKER**: It’s okay... Grace. He finished his work. He is at peace.
 
-Rapunzel... relaxes. The anger and pain that had stiffened her seems to flow out of her body.
+*Rapunzel... relaxes. The anger and pain that had stiffened her seems to flow out of her body*.
 
-Harp starts to sing R’s song, but modulated, turning it into a lament. The Witch joins her in song, and walks over to pick up the harp. Which gasps in joy, but continues the song.
+*Harp starts to sing Rapunzel’s song, but modulated, turning it into a lament. The Witch joins her in song, and walks over to pick up the harp. Which gasps in joy, but continues the song*.
 
-Rapunzel looks at Baker, who smiles and nods. She takes a deep breath and starts singing with them.. and slowly walks over and stands by the witches. Not touching them, but singing her heart out in shared grief and loss.
+*Rapunzel looks at Baker, who smiles and nods. She takes a deep breath and starts singing with them... and slowly walks over and stands by the witches. Not touching them, but singing her heart out in shared grief and loss*.
 
-The villagers gather around Marshall, watching the witches in wonder. His wife leans over and whispers in his ear, under the music:
+*The villagers gather around Marshall, watching the witches in wonder*.
 
-W. I love you, Marshall.
+**WIFE**: [*leans over and whispers in his ear, under the music*] I love you, Marshall.
 
-He blushes furiously. The villagers laugh as the witch music fades. His wife motions him forward. He climbs onto a tree stump and faces them.
+*He blushes furiously. The villagers laugh as the witch music fades. His wife motions him forward. He climbs onto a tree stump and faces them*.
 
-He looks over the many faces. Friends, enemies, family. He tries to speak... but cannot.
+*He looks over the many faces. Friends, enemies, family. He tries to speak... but cannot*.
 
-Jack: [*sings softly, then stronger*] Into the Woods, you had to go, to show us all the way to grow
+**JACK**: [*sings softly, then stronger*] Into the Woods, you had to go, to show us all the way to grow
 
-Red: Into the woods, though out of breath, to save us all from life and death
+**RED**: Into the woods, though out of breath, to save us all from life and death
 
-Wife: The way was dark. We feared the cost.
+**WIFE**: The way was dark. We feared the cost.
 
 **RAPUNZEL**: But now we’ve regained what was lost
 
-R Prince: Who needs a crown?
+**RAPUNZEL's PRINCE**: Who needs a crown?
 
 **CINDERELLA**: Or gorgeous gown?
 
-All: As long as love rules in a town.
+**ALL**: As long as love rules in our town.
 
 **BAKER**: Your Marshall I’ll be.
 
-C Prince: [*to C*] I’ll honor her tree.
+**CINDERELLA's PRINCE**:  [*to Cinderella*] I’ll honor her tree.
 
-Witch: [*to Harp*] And stop avoiding family
+**WITCH**: [*to Harp*] And stop avoiding family.
 
-All: For...
+**ALL**: For...
+*Into the Woods we now will live*  
+*To own the land the King did give*  
+*Over the Woods and down below*  
+*To live the names we now can know*
 
-Into the Woods we now will live
-To own the land the King did give
-Over the Woods and down below
-To live the names we now can know
+*Into the Woods*  
+*Over the Woods*
 
-Into the Woods
-Over the Woods
+*Into the Woods and Over the Woods...*
 
-Into the Woods and Over the Woods...
-
-And Happy Ever After!
+*And Happy Ever After!*
 
 **CINDERELLA**: I know!
