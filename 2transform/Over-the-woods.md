@@ -28,7 +28,7 @@
 
 **MYSTERIOUS STRANGER**: Son! Please... stay.
 
-**BAKER**: [*whirling*]. Stay! You have to nerve to ask me to stay? After you left me! Left me to raise myself. Left me to woo and win a wife with no clue about how to be married. Left me to raise a son with no clue of what it feels like to have a father.
+**BAKER**: [*whirling*] Stay! You have the nerve to ask me to stay? After you left me! Left me to raise myself. Left me to woo and win a wife with no clue about how to be married. Left me to raise a son with no clue of what it feels like to have a father.
 
 **MYSTERIOUS STRANGER**: [*quietly*] Yes. Stay... so you can find out.
 
@@ -54,7 +54,7 @@
 
 **RAPUNZEL**: [*angrily facing him*] Don’t say that! The woods have never ended! I will never forgive her!
 
-**BAKER**: [*recognizing his sister*] **RAPUNZEL**:.. Ra... Rapunzel.
+**BAKER**: [*recognizing his sister*] Ra... Rapunzel.
 
 **RAPUNZEL**: Go ahead, laugh. Everyone laughs at my name.
 
@@ -90,35 +90,35 @@
 
 ### Scene 3: The Baker’s House
 
-*The Baker’s Wife dabs at her eyes. She has obviously been crying. She straighten her clothes and picks up the baby as Little Red Riding Hood knocks and enters*.
+*The Baker's Wife dabs at her eyes. She has obviously been crying. She straightens her clothes and picks up the baby as Little Red Riding Hood knocks and enters*.
 
-**RED**: I wish for loaf of bread to take to my grannie.
+**RED**: I wish for a loaf of bread to take to my grannie.
 
 **WIFE**: [*awkwardly*] Sure. Whatever. Help yourself.
 
-**RAPUNZEL**: [*looking are her closely*] Are you okay?
+**RED**: [*looking at her closely*] Are you okay?
 
 **WIFE**: I’m fine!
 
-**RAPUNZEL**: You don’t look fine. Have you been crying?
+**RED**: You don't look fine. Have you been crying?
 
 **WIFE**: No! [*sniffle*] Well, maybe.
 
-**RAPUNZEL**: Where... where’s the Baker?
+**RED**: Where... where's the Baker?
 
 **WIFE**: He... He’s just... He went...
 
-The Baker’s Wife starts crying. The baby starts crying. Red looks back and forth between them, unsure what to do. She starts to panic.
+*The Baker's Wife starts crying. The baby starts crying. Red looks back and forth between them, unsure what to do. She starts to panic.*
 
 **RED**: Waaah!
 
-This snaps the Baker’s Wife out of her misery. She grabs a sticky bun then stuffs it in Red’s mouth. She dries her tears on the apron, picks up the baby, and sits down on a rocking chair making soothing noises.
+*This snaps the Baker's Wife out of her misery. She grabs a sticky bun then stuffs it in Red's mouth. She dries her tears on the apron, picks up the baby, and sits down on a rocking chair making soothing noises.*
 
-For a moment, all is quiet. Then she begins to speak in a soft voice.
+*For a moment, all is quiet. Then she begins to speak in a soft voice.*
 
 **WIFE**: It’s... not his fault. It’s probably his father’s. He’s just... not good with children. And I... I guess I’m not very patient.
 
-**RAPUNZEL**: Did he... hit you?
+**RED**: Did he... hit you?
 
 **WIFE**: [*laughing*] No, nothing like that. But... well, I hadn’t been getting very much sleep, because of the baby. I just asked him to watch the baby for an hour so I could take a nap. He agreed, and I had just gotten back to sleep when he woke me because the baby was crying. I was angry and said:
 
@@ -146,15 +146,15 @@ For a moment, all is quiet. Then she begins to speak in a soft voice.
 
 **WIFE**: The baby was crying so I had to get up and change his diaper. By the time I finished, and got the baby back to sleep my husband was long gone. I was so tired I just sat and cried. When I stopped, well, you were here.
 
-**RAPUNZEL**: And you have no idea where he could have gone?
+**RED**: And you have no idea where he could have gone?
 
 **WIFE**: Well, he did take his scarf. So that could mean he’s gone into the woods.
 
-**RAPUNZEL**: Excellent! Then you can come with me to grandmother’s, and she can help us find him.
+**RED**: Excellent! Then you can come with me to grandmother's, and she can help us find him.
 
 **WIFE**: What? Really?
 
-**RAPUNZEL**: Of course. She’s lived in the woods her whole life. She even knows how to survive off the path. I’m sure she can help. C’mon, let’s go!
+**RED**: Of course. She's lived in the woods her whole life. She even knows how to survive off the path. I'm sure she can help. C'mon, let's go!
 
 *Red grabs the Baker’s Wife by the hand and pulls her and the baby after her as they exit*.
 
@@ -162,7 +162,7 @@ For a moment, all is quiet. Then she begins to speak in a soft voice.
 
 **BAKER**: ...and I only found out about it when the Witch asked us to make the potion that restored her youth, and enabled us to have a child.
 
-Rapunzel: [*still in shock*] I... have a brother. The Witch... wasn’t my mother.
+**RAPUNZEL**: [*still in shock*] I... have a brother. The Witch... wasn't my mother.
 
 **BAKER**: Rapunzel... are you okay?
 
@@ -252,29 +252,29 @@ Rapunzel: [*still in shock*] I... have a brother. The Witch... wasn’t my mothe
 
 **WIFE**: Are you sure this is the way to your grandmothers house?
 
-**RED**: Of course I’m sure. I fact, there she is now. Hello Grannie!
+**RED**: Of course I'm sure. In fact, there she is now. Hello Grannie!
 
 **GRANNIE**: Hello, Red! Ready to skin another wolf? [*leering*]
 
-**RAPUNZEL**: Not today, Grannie. You remember the nice Hunter...
+**RED**: Not today, Grannie. You remember the nice Hunter...
 
 **WIFE**: Baker!
 
-**RAPUNZEL**: ...Baker who saved us from the wolf?
+**RED**: ...Baker who saved us from the wolf?
 
 **GRANNIE**: Yes, of course. So nice to let us have the skin. [*cackling*]
 
-**RAPUNZEL**: Well, this is his wife. He ran off into the woods, and she wants our help finding him?
+**RED**: Well, this is his wife. He ran off into the woods, and she wants our help finding him.
 
 **GRANNIE**: But why did he run away in the first place?
 
-**RAPUNZEL**: [*loud whisper*] They had an argument!
+**RED**: [*loud whisper*] They had an argument!
 
 *Grannie bolts upright, and dashes between Red and the Baker’s Wife*.
 
 **GRANNIE**: Red! Run for your life!
 
-**RAPUNZEL**: Huh? What are you scared of?
+**RED**: Huh? What are you scared of?
 
 **GRANNIE**: Marriage, child. More dangerous than wolves, bears, and snakes all combined. I fear neither devil nor beast, but even I have better sense than to get caught between a man and wife when they are feuding.
 
@@ -284,7 +284,7 @@ Rapunzel: [*still in shock*] I... have a brother. The Witch... wasn’t my mothe
 
 **GRANNIE**: Keep your evil away from my granddaughter!
 
-**RAPUNZEL**: Grannie...
+**RED**: Grannie...
 
 *Just then, the Baker rushes in. He’s about to speak to Grannie when he sees his wife and child.*
 
@@ -302,7 +302,7 @@ Rapunzel: [*still in shock*] I... have a brother. The Witch... wasn’t my mothe
 
 **BAKER**: Yes... no! No, there’s a giant. A.. a giantess. And she caught my sister!
 
-**RAPUNZEL**: You have a sister?
+**RED**: You have a sister?
 
 **WIFE**: You found your sister?
 
@@ -714,7 +714,7 @@ Rapunzel: [*still in shock*] I... have a brother. The Witch... wasn’t my mothe
 
 **JACK**: Maybe... maybe not! I’ve just had a wonderful idea!
 
-**RAPUNZEL**: Tell us!
+**RED**: Tell us!
 
 **JACK**: I’ll do better. I’ll show you!
 
@@ -799,7 +799,7 @@ Rapunzel: [*still in shock*] I... have a brother. The Witch... wasn’t my mothe
 
 **JACK**: Ma’am, we have news of your daughter!
 
-The Witch’s facade breaks, and she is suddenly vulnerable.
+*The Witch's facade breaks, and she is suddenly vulnerable.*
 
 **WITCH**: Rapunzel? Where is she? Is she in danger? [*half-afraid, half eagerly*]
 
@@ -1059,7 +1059,7 @@ The Witch’s facade breaks, and she is suddenly vulnerable.
 
 *The King smiles and squeezes her hand*.
 
-**KING**: *I don’t know whether to be relieved or disappointed. Either way, I’m glad you came*.
+**KING**: I don't know whether to be relieved or disappointed. Either way, I'm glad you came.
 
 *The Witch gives a small smile*.
 
@@ -1111,7 +1111,7 @@ The Witch’s facade breaks, and she is suddenly vulnerable.
 
 *The Witch’s smile is bittersweet*.
 
-**WITCH**: *That’s... another story. Suffice to say that disobeying my mother carried a heavy price, and paying that price cost me my magic*.
+**WITCH**: That's... another story. Suffice to say that disobeying my mother carried a heavy price, and paying that price cost me my magic.
 
 *The King looks crestfallen*.
 *But he quickly hides it*.
@@ -1134,7 +1134,7 @@ The Witch’s facade breaks, and she is suddenly vulnerable.
 
 **KING**: Then, fare thee well, sweet Gothel. [*blows her a kiss*]
 
-*Exit*.
+*The Witch exits*.
 
 ### Scene 18: Back Above
 
@@ -1218,7 +1218,7 @@ The Witch’s facade breaks, and she is suddenly vulnerable.
 
 **WITCH**: [*looking at Jack*] Take them all to the site of the giant’s grave. Ask your mother to gather all your neighbors at midnight. Tell them the King has an important announcement and that they must attend.
 
-**WIFE**: Where will you be?
+**WIFE**: Where will *you* be?
 
 **WITCH**: I have... some unfinished business to take care of. [*exits*]
 
@@ -1252,7 +1252,7 @@ The Witch’s facade breaks, and she is suddenly vulnerable.
 
 **WITCH**: Not yet!
 
-All heads turn to see the Witch entering, bearing a thorny branch.
+*All heads turn to see the Witch entering, bearing a thorny branch.*
 
 **PRINCE**:  [*blustering*] You cannot be serious.
 
@@ -1332,12 +1332,12 @@ All heads turn to see the Witch entering, bearing a thorny branch.
 
 **PRINCE**: Please. My wife... she deserves someone to love her. To truly value her for who she is, not what she does for others. The way I never did. Or ever could.
 
-“No!”
+**CINDERELLA**: No!
 
-Everyone turns, and is startled to see it was Cinderella who spoke. Perhaps she is too, but she rallies quickly. She walks over and plucks the sword from his suddenly nerveless fingers, and tosses it away.
+*Everyone turns, and is startled to see it was Cinderella who spoke. Perhaps she is too, but she rallies quickly. She walks over and plucks the sword from his suddenly nerveless fingers, and tosses it away.*
 
-He stares at her with wild eyes.
-She bends down next to him and takes his hands.
+*He stares at her with wild eyes.*
+*She bends down next to him and takes his hands.*
 
 **CINDERELLA**: [*softly*] You hurt me deeply. [*he flinches away, but she doesn’t let go*] But... it wasn’t all your fault. I... [*pauses*] never considered the pressures of being a Prince. I too [*swallowing*] only worried about whether you loved me, not... what it meant... to love you. [*deep breath*]. Perhaps.... [*smiling*] we can learn together?
 
@@ -1377,9 +1377,9 @@ She bends down next to him and takes his hands.
 
 *Just then Rapunzel’s Prince enters from the other side carrying their twins*.
 
-*With a cry Rapunzel jumps up and gathers her babies to her. Her Prince stands back, shyly, unsure of his welcome. She smile, adjusts the babies, and mouths “Thank you.” He kneels before her*.
+*With a cry Rapunzel jumps up and gathers her babies to her. Her Prince stands back, shyly, unsure of his welcome. She smiles, adjusts the babies, and mouths "Thank you." He kneels before her*.
 
-**RAPUNZEL's PRINCE**:I know I was a better lover than a husband. But these last few days [*glances at the Baker*] I think I’ve finally learned what it means to be a father. I would like to... try again. If [*looking down*] you will have me.
+**RAPUNZEL's PRINCE**: I know I was a better lover than a husband. But these last few days [*glances at the Baker*] I think I've finally learned what it means to be a father. I would like to... try again. If [*looking down*] you will have me.
 
 *Rapunzel looks at him for a long moment. Then leans over and kisses him on the top of his head. He looks up, startled and grinning foolishly. She holds out a hand and helps him up. And keeps holding on as she hands him one of the babies*.
 
@@ -1413,11 +1413,11 @@ She bends down next to him and takes his hands.
 
 **WITCH**: [*smiling saucily*] I’m sure he will be fine with it. [*eyes glinting*] one way or another.
 
-**JACK**: Wondeful! Does that mean everyone will live happily ever after?
+**JACK**: Wonderful! Does that mean everyone will live happily ever after?
 
 **BAKER**: No!
 
-Everyone stares at him in shock.
+*Everyone stares at him in shock.*
 
 **BAKER**: [*embarrassed*] I mean... let’s be reasonable. This area is now outside the Kingdom, right in the middle of the woods. All you have are two Princes with no kingdom, two witches without powers, and no ruler to organize everything. How will you work together enough to survive?
 
@@ -1475,7 +1475,7 @@ Everyone stares at him in shock.
 
 *The Baker’s Wife walks over to give him a big kiss, then hugs him close*.
 
-Wife: And you don’t have to!
+**WIFE**: And you don't have to!
 
 **BAKER**: What?
 
