@@ -1,1578 +1,1574 @@
-Over The Woods ARC
-Alternate Redemptive Conclusion, as Act II of Into The Woods
+# Over The Woods ARC
 
-See also the backstory: Mother Gothel
+## Alternate Redemptive Conclusion, as Act II of Into The Woods
 
- ### Scene 1: Back In The Woods
+**See also the backstory: Mother Gothel versus the Royal Family**.
 
-The Baker enters from downstage left.
-Head down, muttering to himself, apparently deep in thought.  
+### Scene 1: Back In The Woods
 
-Mysterious Man enters from upstage right, and watches the Baker from behind a tree. 
+*The Baker enters from downstage left. Head down, muttering to himself, apparently deep in thought*.
 
-Mysterious Man: Huh!
+*Mysterious Stranger enters from upstage right, and watches the Baker from behind a tree*.
 
-Baker: [startling erect] What was that?
+**MYSTERIOUS STRANGER**: Huh!
 
-M. [leaping in front of the Baker] When first I appeared, I seem nothing serious. But now that I’m known, I’m actually specious. 
+**BAKER**: [*startling erect*] What was that?
 
-B. Father! Wait, you’re alive? And also: isn’t “specious” the same as “not serious”?
+**MYSTERIOUS STRANGER**: [*leaping in front of the Baker*] When first I appeared, I seem nothing serious. But now that I’m known, I’m actually [specious](https://www.merriam-webster.com/dictionary/specious).
 
-M. Technically, I am not alive, merely not dead.  Also -- sadly -- I am technically specious, not merely “not serious.”
+**BAKER**: Father! Wait, you’re alive? And also: isn’t “specious” the same as “not serious”?
 
-B. Meaning, you were actively deceiving me? Beyond just pretending to be dead?
+**MYSTERIOUS STRANGER**: Technically, I am not alive, merely not dead. Also -- sadly -- I am technically specious, not merely “not serious.”
 
-M. It’s... not that simple. Anyway, the important question is: why are you back in the woods? I thought you were living happily ever after with your wife and my grandson!
+**BAKER**: Meaning, you were actively deceiving me? Beyond just pretending to be dead?
 
-B. It’s... not that simple. [turns to walk away]
+**MYSTERIOUS STRANGER**: It’s... not that simple. Anyway, the important question is: why are you back in the woods? I thought you were living happily ever after with your wife and my grandson!
 
-M. Son!  Please... stay. 
+**BAKER**: It’s... not that simple. [*turns to walk away*]
 
-B. [whirling]. Stay!  You have to nerve to ask me to stay? After you left me! Left me to raise myself.  Left me to woo and win a wife with no clue about how to be married.  Left me to raise a son with no clue of what it feels like to have a father.  
+**MYSTERIOUS STRANGER**: Son! Please... stay.
 
-M. [quietly] Yes. Stay... so you can find out. 
+**BAKER**: [*whirling*] Stay! You have the nerve to ask me to stay? After you left me! Left me to raise myself. Left me to woo and win a wife with no clue about how to be married. Left me to raise a son with no clue of what it feels like to have a father.
 
-The Baker stares at his father for a long moment, then shakes his head and walks away.  
+**MYSTERIOUS STRANGER**: [*quietly*] Yes. Stay... so you can find out.
 
-M. Wait...
+*The Baker stares at his father for a long moment, then shakes his head and walks away.*
 
-The Baker doesn’t seem to hear him, and keeps walking 
+**MYSTERIOUS STRANGER**: Wait...
 
-M. [calling after him] I don’t blame you for walking out on me...
+*The Baker doesn’t seem to hear him, and keeps walking.*
 
-The Baker exits
+**MYSTERIOUS STRANGER**: [*calling after him*] I don’t blame you for walking out on me...
 
-M. [to himself] But why did you walk out on your wife and child to revisit the woods?
+*The Baker exits.*
 
- ### Scene 2: The Castle Grounds
+**MYSTERIOUS STRANGER**: [*to himself*] But why did you walk out on your wife and child to revisit the woods?
 
-Rapunzel is sitting at the edge of the garden, crying to herself.  
+### Scene 2: The Castle Grounds
 
-The Baker, lost in thought, wanders in from the forest. 
+*Rapunzel is sitting at the edge of the garden, crying to herself.*
 
-Baker: [bowing] Forgive me, your Highness. I did not realize the woods had ended.  
+*The Baker, lost in thought, wanders in from the forest*.
 
-Rapunzel: [angrily facing him] Don’t say that! The woods have never ended! I will never forgive her!
+**BAKER**: [*bowing*] Forgive me, your Highness. I did not realize the woods had ended.
 
-Baker: [recognizing his sister] R... Ra... Rapunzel. 
+**RAPUNZEL**: [*angrily facing him*] Don’t say that! The woods have never ended! I will never forgive her!
 
-R. Go ahead, laugh. Everyone laughs at my name.  
+**BAKER**: [*recognizing his sister*] Ra... Rapunzel.
 
-B. But I love that name!
+**RAPUNZEL**: Go ahead, laugh. Everyone laughs at my name.
 
-R. Spare me your empty platitudes. I get enough of them from my Prince. Sometimes even from the other one... [turns to leave]
+**BAKER**: But I love that name!
 
-B. Please, stay...
+**RAPUNZEL**: Spare me your empty platitudes. I get enough of them from my Prince. Sometimes even from the other one... [*turns to leave*]
 
-R. [whirling] Stay! All I ever did was stay. Stay in the tower. Stay on the island. Stay in the castle.  Stay! Stay! Stay!  I’m sick of staying. 
+**BAKER**: Please, stay...
 
-B. [exploding] I’m sick of it too!  Come.  Run away with me to the forest. 
+**RAPUNZEL**: [*whirling*] Stay! All I ever did was stay. Stay in the tower. Stay on the island. Stay in the castle. Stay! Stay! Stay! I’m sick of staying.
 
-R. [scornful] And why should I run away with you?
+**BAKER**: [*exploding*] I’m sick of it too! Come. Run away with me to the forest.
 
-B. [stunned] Has nobody told you?
+**RAPUNZEL**: [*scornful*] And why should I run away with you?
 
-R. [mocking] Told me what? That you are rich and powerful?
+**BAKER**: [*stunned*] Has nobody told you?
 
-B. [quietly] No. That I am your brother.  
+**RAPUNZEL**: [*mocking*] Told me what? That you are rich and powerful?
 
-Rapunzel stares in shock, then faints. 
+**BAKER**: [*quietly*] No. That I am your brother.
 
-S. [offstage] Rapunzel! Time for your afternoon tea with the King. 
+*Rapunzel stares in shock, then faints*.
 
-The Baker looks around for agonizing seconds, then hauls Rapunzel onto his shoulder and dives back into the woods. 
+**STEWARD**: [*offstage*] Rapunzel! Time for your afternoon tea with the King.
 
-Moments later, Cinderella walks onstage. She glances at the bench, and notices a tuft of long blonde hair.  She picks it up and gazes thoughtfully into the woods. 
+*The Baker looks around for agonizing seconds, then hauls Rapunzel onto his shoulder and dives back into the woods*.
 
-S. [offstage] Rapunzel! Cinderella! Time for your afternoon tea with the King. 
+*Moments later, Cinderella walks onstage. She glances at the bench, and notices a tuft of long blonde hair. She picks it up and gazes thoughtfully into the woods*.
 
-Cinderella glances for a second time at the woods, then sighs, pockets the hair, and heads back into the castle. 
+**STEWARD**: [*offstage*] Rapunzel! Cinderella! Time for your afternoon tea with the King.
 
- ### Scene 3: The Baker’s House
+*Cinderella glances for a second time at the woods, then sighs, pockets the hair, and heads back into the castle*.
 
-The Baker’s Wife dabs at her eyes. She has obviously been crying. She straighten her clothes and picks up the baby as Little Red Riding Hood knocks and enters. 
+### Scene 3: The Baker’s House
 
-Red: I wish for loaf of bread to take to my grannie.  
+*The Baker's Wife dabs at her eyes. She has obviously been crying. She straightens her clothes and picks up the baby as Little Red Riding Hood knocks and enters*.
 
-Wife:  [awkwardly] Sure. Whatever. Help yourself.  
+**RED**: I wish for a loaf of bread to take to my Grannie.
 
-R. [looking are her closely] Are you okay?
+**WIFE**: [*awkwardly*] Sure. Whatever. Help yourself.
 
-W. I’m fine!
+**RED**: [*looking at her closely*] Are you okay?
 
-R. You don’t look fine. Have you been crying?
+**WIFE**: I’m fine!
 
-W. No! [sniffle] Well, maybe. 
+**RED**: You don't look fine. Have you been crying?
 
-R. Where... where’s the Baker?
+**WIFE**: No! [*sniffle*] Well, maybe.
 
-W. He...  He’s just... He went...
+**RED**: Where... where's the Baker?
 
-The Baker’s Wife starts crying. The baby starts crying. Red looks back and forth between them, unsure what to do.  She starts to panic. 
+**WIFE**: He... He’s just... He went...
 
-Red. Waaah!
+*The Baker's Wife starts crying. The baby starts crying. Red looks back and forth between them, unsure what to do. She starts to panic.*
 
-This snaps the Baker’s Wife out of her misery. She grabs a sticky bun then stuffs it in Red’s mouth.  She dries her tears on the apron, picks up the baby, and sits down on a rocking chair making soothing noises. 
+**RED**: Waaah!
 
-For a moment, all is quiet. Then she begins to speak in a soft voice. 
+*This snaps the Baker's Wife out of her misery. She grabs a sticky bun then stuffs it in Red's mouth. She dries her tears on the apron, picks up the baby, and sits down on a rocking chair making soothing noises.*
 
-W. It’s...  not his fault.  It’s probably his father’s. He’s just... not good with children. And I... I guess I’m not very patient. 
+*For a moment, all is quiet. Then she begins to speak in a soft voice.*
 
-R. Did he... hit you?
+**WIFE**: It’s... not his fault. It’s probably his father’s. He’s just... not good with children. And I... I guess I’m not very patient.
 
-W. [laughing] No, nothing like that.  But... well, I hadn’t been getting very much sleep, because of the baby.  I just asked him to watch the baby for an hour so I could take a nap.  He agreed, and I had just gotten back to sleep when he woke me because the baby was crying. I was angry and said: ---
-Wife: Why do you have to be so useless?
+**RED**: Did he... hit you?
 
-Baker: Me? At least I didn’t run away like my father did.  
+**WIFE**: [*laughing*] No, nothing like that. But... well, I hadn’t been getting very much sleep, because of the baby. I just asked him to watch the baby for an hour so I could take a nap. He agreed, and I had just gotten back to sleep when he woke me because the baby was crying. I was angry and said:
 
-Wife: Well maybe you should, if you’re never going to help with the child.  
+---
 
-Baker:  If that’s all you think I’m good for, then maybe I should.  
+**WIFE**:  Why do you have to be so useless?
 
-Wife. Fine!
+**BAKER**: Me? At least I didn’t run away like my father did.
 
-Baker: Fine!---
-Red:  And he just left? But where?
+**WIFE**: Well maybe you should, if you’re never going to help with the child.
 
-Wife. I.. I don’t know...
+**BAKER**: If that’s all you think I’m good for, then maybe I should.
 
-She starts to cry again, but then the baby does too. She gets ahold of herself and calms the child. 
+**WIFE**: Fine!
 
-W. The baby was crying so I had to get up and change his diaper. By the time I finished, and got the baby back to sleep my husband was long gone. I was so tired I just sat and cried.  When I stopped, well, you were here. 
+**BAKER**: Fine!
 
-R. And you have no idea where he could have gone?
+---
 
-W. Well, he did take his scarf. So that could mean he’s gone into the woods. 
+**RED**:  And he just left? But where?
 
-R. Excellent! Then you can come with me to grandmother’s, and she can help us find him.  
+**WIFE**: I.. I don’t know...
 
-W. What? Really? 
+*She starts to cry again, but then the baby does too. She gets ahold of herself and calms the child*.
 
-R. Of course. She’s lived in the woods her whole life. She even knows how to survive off the path. I’m sure she can help. C’mon, let’s go!
+**WIFE**: The baby was crying so I had to get up and change his diaper. By the time I finished, and got the baby back to sleep my husband was long gone. I was so tired I just sat and cried. When I stopped, well, you were here.
 
-Red grabs the Baker’s Wife by the hand and pulls her and the baby after her as they exit. 
+**RED**: And you have no idea where he could have gone?
 
- ### Scene 4: Still In The Woods
+**WIFE**: Well, he did take his scarf. So that could mean he’s gone into the woods.
 
-Baker: ...and I only found out about it when the Witch asked us to make the potion that restored her youth, and enabled us to have a child.  
+**RED**: Excellent! Then you can come with me to grandmother's, and she can help us find him.
 
-Rapunzel: [still in shock] I... have a brother. The Witch... wasn’t my mother.  
+**WIFE**: What? Really?
 
-B. Rapunzel... are you okay?
+**RED**: Of course. She's lived in the woods her whole life. She even knows how to survive off the path. I'm sure she can help. C'mon, let's go!
 
-R. [hysterical] Okay? Okay!? I was traded away for greens, locked in a tower, banished to a desert island, and now trapped in a castle with a man I hardly even know, with a sister-in-law who is little Miss Perfect.  Why wouldn’t I be okay?
+*Red grabs the Baker’s Wife by the hand and pulls her and the baby after her as they exit*.
 
+### Scene 4: Still In The Woods
 
-The Baker stares at her tirade in shock. 
-Rapunzel starts back, afraid he is going to run off. 
-Instead, he steps forward.... and gives her a hug. 
+**BAKER**: ... and I only found out about it when the Witch asked us to make the potion that restored her youth, and enabled us to have a child.
 
-B. I... am so sorry.  For everything. I didn’t realize you had it so much worse than me. 
+**RAPUNZEL**: [*still in shock*] I... have a brother. The Witch... wasn't my mother.
 
-Rapunzel freezes... then sinks into his arms and cries.  
+**BAKER**: Rapunzel... are you okay?
 
-B. There, there. Let it all out. Take your time. 
+**RAPUNZEL**: [*hysterical*] Okay? Okay!? I was traded away for greens, locked in a tower, banished to a desert island, and now trapped in a castle with a man I hardly even know, with a sister-in-law who is little Miss Perfect. Why wouldn’t I be okay?
 
-Steward: [offstage] She came this way, I’m sure of it. Look, there’s a long blonde hair. 
+*The Baker stares at her tirade in shock*.
+*Rapunzel starts back, afraid he is going to run off*.
+*Instead, he steps forward... and gives her a hug*.
 
-B. Whoops, no time left . We have to hide. 
+**BAKER**: I... am so sorry. For everything. I didn’t realize you had it so much worse than me.
 
-R. But where?
+*Rapunzel freezes... then sinks into his arms and cries*.
 
-B. Look! Another beanstalk?
+**BAKER**: There, there. Let it all out. Take your time.
 
-R. Beanstalk? How could that help us?
+**STEWARD**: [*offstage*] She came this way, I’m sure of it. Look, there’s a long blonde hair.
 
-B. You’ve never... nobody told... forget about it. Hurry. Here, let me help you up....
+**BAKER**: Whoops, no time left. We have to hide.
 
-Exit, Stage Left
+**RAPUNZEL**: But where?
 
- ### Scene 5: Giants In The Sky
+**BAKER**: Look! Another beanstalk?
 
-Rapunzel and the Baker creep in slowly from Stage Left.  Loud cries sound in the distance. 
+**RAPUNZEL**: Beanstalk? How could that help us?
 
-R. What is that? [peering]
+**BAKER**: You've never... nobody told... forget about it. Hurry. Here, let me help you up...
 
-B. It looks like a... giant!
+*They exit stage left*.
 
-R. No... a giantess.  She’s... she’s crying.  [starts to walk towards her]
+### Scene 5: Giants In The Sky
 
-The Baker grabs her by the hand. 
+*Rapunzel and the Baker creep in slowly from Stage Left. Loud cries sound in the distance*.
 
-B. No! Stop!
+**RAPUNZEL**: What is that? [*peering*]
 
-R. Why? [puzzled]
+**BAKER**: It looks like a... giant!
 
-B. Well... giants are dangerous.  
+**RAPUNZEL**: No... a giantess. She’s... she’s crying. [*starts to walk towards her*]
 
-R. How do you know?
+*The Baker grabs her by the hand*.
 
-B. Well, everyone knows. 
+**BAKER**: No! Stop!
 
-R. What about giantesses?
+**RAPUNZEL**: Why? [*puzzled*]
 
-B. Ah... maybe? Anyway, isn’t it better to be safe?
+**BAKER**: Well... giants are dangerous.
 
-R. Safe!  Safe?!  I’m sick and tired of people trying to keep me safe! [shouting]
+**RAPUNZEL**: How do you know?
 
-Suddenly the loud cries cease.  
-The Baker looks around frantically. 
+**BAKER**: Well, everyone knows.
 
-R. [normal voice] What are you looking for?
+**RAPUNZEL**: What about giantesses?
 
-B. Shush. Don’t talk.  She might hear you. 
+**BAKER**: Ah... maybe? Anyway, isn’t it better to be safe?
 
-R. [angrily] Don’t tell me not to talk! I never get to talk. 
+**RAPUNZEL**: Safe! Safe?! I’m sick and tired of people trying to keep me safe! [*shouting*]
 
-B. [whisper] Please, you can talk all you want when we get down from here. Just please, be still.  
+*Suddenly the loud cries cease*.
+*The Baker looks around frantically*.
 
-R. [snapping] No! I will not be still. Some brother you are. You’re just like everyone else, trying to control me. 
+**RAPUNZEL**: [*normal voice*] What are you looking for?
 
-B. I’m just trying to protect you. 
+**BAKER**: Shush. Don’t talk. She might hear you.
 
-R. [slaps him] That’s what they all say. 
+**RAPUNZEL**: [*angrily*] Don’t tell me not to talk! I never get to talk.
 
-She turns and runs away.  
-The Giantess spies her. 
+**BAKER**: [*whisper*] Please, you can talk all you want when we get down from here. Just please, be still.
 
-Giantess:  Fee, Fie, Foe, Furl. I smell the blood of an English... girl?
+**RAPUNZEL**: [*snapping*] No! I will not be still. Some brother you are. You’re just like everyone else, trying to control me.
 
-Loud footsteps ensue
+**BAKER**: I’m just trying to protect you.
 
-R. Aiieee! [runs Left]
+**RAPUNZEL**: [*slaps him*] That’s what they all say.
 
-B. Aaargh!  [runs Right]
+*She turns and runs away*.
+*The Giantess spies her*.
 
- ### Scene 6: Back Down Below
+**GIANTESS**: Fee, Fie, Foe, Furl. I smell the blood of an English... girl?
 
-Wife: Are you sure this is the way to your grandmothers house?
+*Loud footsteps ensue*.
 
-Red: Of course I’m sure.  I fact, there she is now.  Hello Grannie!
+**RAPUNZEL**: Aiieee! [*runs Left*]
 
-Grannie:  Hello, Red! Ready to skin another wolf? [leering]
+**BAKER**: Aaargh! [*runs Right*]
 
-R. Not today, Grannie. You remember the nice Hunter...
+### Scene 6: Back Down Below
 
-W. Baker!
+**WIFE**: Are you sure this is the way to your grandmothers house?
 
-R. ...Baker who saved us from the wolf?
+**RED**: Of course I'm sure. In fact, there she is now. Hello Grannie!
 
-G. Yes, of course. So nice to let us have the skin. [cackling]
+**GRANNIE**: Hello, Red! Ready to skin another wolf? [*leering*]
 
-R. Well, this is his wife. He ran off into the woods, and she wants our help finding him?
+**RED**: Not today, Grannie. You remember the nice Hunter...
 
-G. But why did he run away in the first place?
+**WIFE**: Baker!
 
-R. [loud whisper] They had an argument!
+**RED**: ... Baker who saved us from the wolf?
 
-Grannie bolts upright, and dashes between Red and the Baker’s Wife. 
+**GRANNIE**: Yes, of course. So nice to let us have the skin. [*cackling*]
 
-G. Red! Run for your life!
+**RED**: Well, this is his wife. He ran off into the woods, and she wants our help finding him.
 
-R. Huh? What are you scared of?
+**GRANNIE**: But why did he run away in the first place?
 
-G. Marriage, child. More dangerous than wolves, bears, and snakes all combined. I fear neither devil nor beast, but even I have better sense than to get caught between a man and wife when they are feuding. 
+**RED**: [*loud whisper*] They had an argument!
 
-W. We aren’t “feuding”...
+*Grannie bolts upright, and dashes between Red and the Baker’s Wife*.
 
-Wife steps toward Red, then pulls back hurriedly when Grannie yanks out a knife and waves it threateningly!
+**GRANNIE**: Red! Run for your life!
 
-G. Keep your evil away from my granddaughter!
+**RED**: Huh? What are you scared of?
 
-R. Grannie...
+**GRANNIE**: Marriage, child. More dangerous than wolves, bears, and snakes all combined. I fear neither devil nor beast, but even I have better sense than to get caught between a man and wife when they are feuding.
 
-Just then, the Baker rushes in. He’s about to speak to Grannie when he sees his wife and child. 
+**WIFE**: We aren’t “feuding”...
 
-B. You! [stunned]
+*Wife steps toward Red, then pulls back hurriedly when Grannie yanks out a knife and waves it threateningly!*
 
-W. You’re safe! [rushes into his arms]
+**GRANNIE**: Keep your evil away from my granddaughter!
 
-For one tender moment, he gathers his wife and child to his chest. 
+**RED**: Grannie...
 
-W. [muffled] I was so worried about you. 
+*Just then, the Baker rushes in. He’s about to speak to Grannie when he sees his wife and child.*
 
-B. I am so sorry I scared you.  
+**BAKER**: You! [*stunned*]
 
-W. Well, [pulling back, embarrassed] everything is fine now.  
+**WIFE**: You’re safe! [*rushes into his arms*]
 
-B. Yes... no! No, there’s a giant. A.. a giantess.  And she caught my sister!
+*For one tender moment, he gathers his wife and child to his chest.*
 
-R. You have a sister?  
+**WIFE**: [*muffled*] I was so worried about you.
 
-W. You found your sister?
+**BAKER**: I am so sorry I scared you.
 
-G. Where is this giant?
+**WIFE**: Well, [*pulling back, embarrassed*] everything is fine now.
 
-B. She was on top of the beanstalk.  We need to ask the Royal Family to send a rescue party. 
+**BAKER**: Yes... no! No, there’s a giant. A.. a giantess. And she caught my sister!
 
-G. But why would they listen to you?
+**RED**: You have a sister?
 
-B. Because my sister is married to the younger Prince Charming!
+**WIFE**: You found your sister?
 
-W.  Yes! Let’s go see the Princes... I mean, rescue your sister!
+**GRANNIE**: Where is this giant?
 
- ### Scene 6: The Castle
+**BAKER**: She was on top of the beanstalk. We need to ask the Royal Family to send a rescue party.
 
-Cinderella is sitting doing embroidery. 
+**GRANNIE**: But why would they listen to you?
 
-Steward: Your highness, a... peasant claims to have urgent news for the Royal Family. 
+**BAKER**: Because my sister is married to the younger Prince Charming!
 
-Cinderella: Why doesn’t he take it to the King?
+**WIFE**: Yes! Let's go see the Princes... I mean, rescue your sister!
 
-S. The King... has other matters to attend to. 
+### Scene 7: The Castle
 
-C. Should we call my husband?
+*Cinderella is sitting doing embroidery.*
 
-S.  He... is out... hunting. I’m sure he must have sent word, but you forgot.  
+**STEWARD**: Your highness, a... peasant claims to have urgent news for the Royal Family.
 
-C. Oh... very well then, send the peasant in. 
+**CINDERELLA**: Why doesn’t he take it to the King?
 
-S. [coughing] There’s actually a large group of them. And some of them are rather... rough. 
+**STEWARD**: The King... has other matters to attend to.
 
-C. [smiling] I can handle a little rough. Send them all in. 
+**CINDERELLA**: Should we call my husband?
 
-S. If you insist. [exits]
+**STEWARD**: He... is out... hunting. I’m sure he must have sent word, but you forgot.
 
-C. I wonder what this could be about. I hope nothing has happened to mother’s... no, I’m just being silly. 
+**CINDERELLA**: Oh... very well then, send the peasant in.
 
-The Baker, with Wife and child, Grannie and Red all enter and kneel. 
+**STEWARD**: [*coughing*] There’s actually a large group of them. And some of them are rather... rough.
 
-Peasants: Your Highness 
+**CINDERELLA**: [*smiling*] I can handle a little rough. Send them all in.
 
-C. Welcome to the castle. Please speak your mind. 
+**STEWARD**: If you insist. [*exits*]
 
-S. And be quick about it!
+**CINDERELLA**: I wonder what this could be about. I hope nothing has happened to mother’s... no, I’m just being silly.
 
-Baker: Milady, I bring you urgent news about your sister-in-law, Princess Rapunzel. 
+*The Baker, with Wife and child, Grannie and Red all enter and kneel.*
 
-S. Rapunzel!
+**PEASANTS**: Your Highness
 
-B. Yes. She was attacked by a giantess. 
+**CINDERELLA**: Welcome to the castle. Please speak your mind.
 
-C. Was she hurt?!?
+**STEWARD**: And be quick about it!
 
-B. [agitated] I.. I don’t know... I...
+**BAKER**: Milady, I bring you urgent news about your sister-in-law, Princess Rapunzel.
 
-Wife: [taking over] There’s no time.  Someone need to go rescue her. 
+**STEWARD**: Rapunzel!
 
-S. From where? [suspiciously] 
+**BAKER**: Yes. She was attacked by a giantess.
 
-B. From the top of a beanstalk!
+**CINDERELLA**: Was she hurt?!?
 
-S. Beanstalks? Seriously. 
+**BAKER**: [*agitated*] I.. I don’t know... I...
 
-W. He speaks the truth. 
+**WIFE**: [*taking over*] There’s no time. Someone need to go rescue her.
 
-B. It’s true. I was there with her. 
+**STEWARD**: From where? [*suspiciously*]
 
-S. And why would she climb a beanstalk with you?
+**BAKER**: From the top of a beanstalk!
 
-B. Because I’m her brother!
+**STEWARD**: Beanstalks? Seriously.
 
-S. This is preposterous. Your highness, this man is clearly mad. Or part of some devilish scheme to lure us away from the castle. 
+**WIFE**: He speaks the truth.
 
-W. What? Don’t you even care that a Princess is missing?
+**BAKER**: It’s true. I was there with her.
 
-S. Of course we care. Why, I searched the woods myself this morning.  There was no sign of any beanstalk. 
+**STEWARD**: And why would she climb a beanstalk with you?
 
-B. [mutters] You probably never looked up from licking the Prince’s boots.
+**BAKER**: Because I’m her brother!
 
-S. What did you say?
+**STEWARD**: This is preposterous. Your highness, this man is clearly mad. Or part of some devilish scheme to lure us away from the castle.
 
-W. [hurriedly] He said, we are sorry for taking up both your time. 
+**WIFE**: What? Don’t you even care that a Princess is missing?
 
-S. Is there nothing else?
+**STEWARD**: Of course we care. Why, I searched the woods myself this morning. There was no sign of any beanstalk.
 
-B. Please... just one more thing. [taking his scarf in his hands]
+**BAKER**: [*mutters*] You probably never looked up from licking the Prince’s boots.
 
-Cinderella glances at the Steward. He sighs. 
+**STEWARD**: What did you say?
 
-S. Very well. Be quick about it.
+**WIFE**: [*hurriedly*] He said, we are sorry for taking up both your time.
 
- B. Princess... I never had a family growing up. I only just realized I had a sister. She is...  very precious to me. Please, is there anything you can do?
+**STEWARD**: Is there nothing else?
 
-C. Maybe... maybe there is. I can make no promises, but I will try my best.  
+**BAKER**: Please... just one more thing. [*taking his scarf in his hands*]
 
-The Baker seems about to say more, but the Steward cuts him off. 
+*Cinderella glances at the Steward. He sighs.*
 
-S. You’ve had your say.  Now leave. Shoo. Shoo!
+**STEWARD**: Very well. Be quick about it.
 
-They all exit, leaving Cinderella by herself. 
-She sits there a moment, lost in thought.
-The suddenly jumps to her feet. 
- 
-C. That’s it!  
+ **BAKER**: Princess... I never had a family growing up. I only just realized I had a sister. She is... very precious to me. Please, is there anything you can do?
 
-She runs excitedly off stage. 
+**CINDERELLA**: [*softly*] Maybe... maybe there is. I can make no promises, but I will try my best.
 
-  #### Scene 7; Jack’s House
+*The Baker seems about to say more, but the Steward cuts him off*.
 
-Jack is sitting inside happily milking Milky White. 
+**STEWARD**: You’ve had your say. Now leave. Shoo. Shoo!
 
-Jack: Isn’t it amazing how well he gives milk after being raised from the dead?
+*They all exit, leaving Cinderella by herself*.
+*She sits there a moment, lost in thought*.
+*Then suddenly jumps to her feet*.
 
-Jack’s Mother:  Yes, dear, but why O why do you have to milk her inside the house?  Why milk her at all when we can just buy milk?
+**CINDERELLA**: That’s it!
 
-J. But he enjoys it so much, doesn’t he?
+*She runs excitedly off stage*.
 
-M. [sighing] O Jack, whatever will become of you when I’m gone?
+### Scene 8: Jack's House
 
-Commotion outside.  The Peasants arrive. Jack stands up to greet them warmly. 
+*Jack is sitting inside happily milking Milky White*.
 
-Baker:  Jack, we need your help!
+**JACK**: Isn't it amazing how well he gives milk after being raised from the dead?
 
-J. What happened?
+**JACK'S MOM**: Yes, dear, but why oh why do you have to milk *her* inside the house? Why milk her at all when we can just buy milk?
 
-Baker’s Wife: The Princess Rapunzel has been kidnapped by a giantess at the top of a new beanstalk. 
+**JACK**: But he enjoys it so much, doesn't he?
 
-J. Really?
+**JACK'S MOM**: [*sighing*] Oh Jack, whatever will become of you when I'm gone?
 
-B. Well... [his wife elbows him] yes! I am sure that is exactly what happened. 
+*Commotion outside. The Peasants arrive. Jack stands up to greet them warmly*.
 
-J. Then we must go rescue her!
+**BAKER**: Jack, we need your help!
 
-M. You’ll do nothing of the kind. You must stay here where it’s safe. 
+**JACK**: What happened?
 
-J. Mother! [glancing at Red] Don’t be silly. [lowering voice] I’m a man now. 
+**WIFE**: The Princess Rapunzel has been kidnapped by a giantess at the top of a new beanstalk.
 
-The Baker’s Wife and Jack’s Mother roll their eyes, but the Baker claps him on the shoulder. And Red giggles. 
+**JACK**: Really?
 
-B. Good man! Let us be off. 
+**BAKER**: Well... [*his wife elbows him*] yes! I am sure that is exactly what happened.
 
-J. Oh wait, I have an idea [rushes into another room]
+**JACK**: Then we must go rescue her!
 
-Jack’s mom turns to the Baker’s Wife. 
+**JACK's MOM**: You’ll do nothing of the kind. You must stay here where it’s safe.
 
-M. Please, isn’t there anything you can do to stop them ? He’s so young.  
+**JACK**: Mother! [*glancing at Red*] Don’t be silly. [*lowering voice*] I’m a man now.
 
-W. Don’t worry. I promise we won’t let him out our sight. He will be fine. Who knows, he might even surprise you!
+*The Baker’s Wife and Jack’s Mother roll their eyes, but the Baker claps him on the shoulder. And Red giggles*.
 
-M. [muttering] That’s what I’m afraid of. 
+**BAKER**: Good man! Let us be off.
 
-J. [returning] What’s that, mother?
+**JACK**: Oh wait, I have an idea [*rushes into another room*]
 
-M. [flustered] I said, be sure to keep your scarf on!
+*Jack's mom turns to the Baker's Wife*.
 
-J. What scarf? 
+**JACK'S MOM**: Please, isn't there anything you can do to stop them ? He's so young.
 
-M. [stares helplessly for a moment, then her eyes go wide] Ah! This scarf...
+**WIFE**: Don't worry. I promise we won't let him out our sight. He will be fine. Who knows, he might even surprise you!
 
-Rummages around in a chest and pulls out a scarf. Stops to regard it tenderly. 
+**JACK'S MOM**: [*muttering*] That's what I'm afraid of.
 
-M. It... it was your father’s, Jack. He used to wear it to cut wood. I guess... maybe you are old enough to wear it.  
+**JACK**: [*returning*] What's that, mother?
 
-She wraps it around him, kisses his cheek, then runs off to hide her tears. 
+**JACK'S MOM**: [*flustered*] I said, be sure to keep your scarf on!
 
-B. Good man. Let’s be off!
+**JACK**: What scarf?
 
-All exit
+**JACK'S MOM**: [*stares helplessly for a moment, then her eyes go wide*] Ah! This scarf...
 
- #### Scene 8: The Woods
+*Rummages around in a chest and pulls out a scarf. Stops to regard it tenderly*.
 
-Cinderella walks in disguised in her old rags, taking to her bird friends. 
+**JACK'S MOM**: It... it was your father's, Jack. He used to wear it to cut wood. I guess... maybe you are old enough to wear it.
 
-Cinderella: Oh, how fun it is to be out on my own again. [listens to birds] Yes, that was a brilliant idea to go visit my mother. Surely her spirit would know how to save Rapunzel from the giantess. 
+*She wraps it around him, kisses his cheek, then runs off to hide her tears*.
 
-Suddenly there is a loud crunching sound. 
-Cinderella starts, then hides in the bushes. 
+**BAKER**: Good man. [*claps Jack on the back*] Let’s be off!
 
-[The Princes Charmings come out and do their Agony Reprise from the original Act II, about their new loves]
+*All exit.*
 
-When they leave, Cinderella comes out stunned. She looks after her prince, and seems about to to speak when the Bakers, Red and Jack rush in.  
+### Scene 9: The Woods
 
-They stop when they see her. She hurriedly composes herself. 
+*Cinderella walks in disguised in her old rags, taking to her bird friends*.
 
-Baker:  Miss, you shouldn’t be here. There are giants about. 
+**CINDERELLA**: Oh, how fun it is to be out on my own again. [*listens to birds*] Yes, that was a brilliant idea to go visit my mother. Surely her spirit would know how to save Rapunzel from the giantess.
 
-C. Yes, I know [forcing a calm]
+*Suddenly there is a loud crunching sound*.
+*Cinderella starts, then hides in the bushes*.
 
-B. How would you know? I only just told the Princess... O my, you are the Princess.  
+[*The Prince Charmings come out and do their *Agony Reprise* from the original Act II, about their new loves*]
 
-They all kneel. She smiles sadly. 
+*When they leave, Cinderella comes out stunned. She looks after her prince, and seems about to to speak when the Bakers, Red and Jack rush in*.
 
-C. I am not a princess here... [softly] if I ever really was. [normal voice] Please, all rise!
+*They stop when they see her. She hurriedly composes herself*.
 
-They stand. Jack rushes up to her.  
+**BAKER**: Miss, you shouldn’t be here. There are giants about.
 
-Jack: We are going to save Rapunzel!
+**CINDERELLA**: Yes, I know [*forcing a calm*]
 
-C. [confused] But you are just a boy!
+**BAKER**: How would you know? I only just told the Princess... O my, you are the Princess.
 
-J. Not anymore. I’ve already slain one giant. [puffs out his chest]
+*They all kneel. She smiles sadly*.
 
-Wife: [to Baker] Where is that beanstalk?
+**CINDERELLA**: I am not a princess here... [*softly*] if I ever really was. [*normal voice*] Please, all rise!
 
-B. I know it is here somewhere...
+*They stand. Jack rushes up to her*.
 
-Red: There it is!
+**JACK**: We are going to save Rapunzel!
 
-The Baker looks at Jack. He nods. 
-The Baker turns to his Wife. 
+**CINDERELLA**: [*confused*] But you are just a boy!
 
-B. Wish me luck.  
+**JACK**: Not anymore. I’ve already slain one giant. [*puffs out his chest*]
 
-His Wife adjusts his scarf. Then, on impulse, she takes off her shawl and places it on his shoulders.  
+**WIFE**: [*to Baker*] Where is that beanstalk?
 
-B. What... what is that for?
+**BAKER**: I know it is here somewhere...
 
-W: For warmth... and good luck. [then stands on her tiptoes to give him a quick kiss]
+**RED**: There it is!
 
-Red and Jack stand awkwardly while this happens. Jack glances briefly at Red. She glares at him and he hurriedly turns away. He stares at his shoes while she stares at him. Finally she snaps. 
+*The Baker looks at Jack. He nods*.
+*The Baker turns to his Wife*.
 
-Red:  Okay, fine. But this is only for warmth!
+**BAKER**: Wish me luck.
 
-She twirls off her wolf cloak and shoves it at him, then stomps off stage without a backward glance.  
+*His Wife adjusts his scarf. Then, on impulse, she takes off her shawl and places it on his shoulders*.
 
-Jack watches her open-mouthed. Cinderella titters. 
-The Baker punches him in the arm. 
+**BAKER**: What... what is that for?
 
-B. Okay, son, are you ready?
+**WIFE**: For warmth... and good luck. [*then stands on her tiptoes to give him a quick kiss*]
 
-J. Y... Yes, sir!
+*Red and Jack stand awkwardly while this happens. Jack glances briefly at Red. She glares at him and he hurriedly turns away. He stares at his shoes while she stares at him. Finally she snaps*.
 
-The Baker puts his arm around Jack and leads him offstage.  
+**RED**: Okay, fine. But this is only for warmth!
 
-Cinderella watches them go, smiling sadly. 
-She turns to see the Baker’s Wife staring after her husband with a strange expression.  
+*She twirls off her wolf cloak and shoves it at him, then stomps off stage without a backward glance*.
 
-C. Is... everything all right?
+*Jack watches her open-mouthed. Cinderella titters*.
+*The Baker punches him in the arm*.
 
-The Baker’s Wife jumps as if embarrassed. 
+**BAKER**: Okay, son, are you ready?
 
-W. Me? Oh..  nothing... it’s just.  
+**JACK**: Y... Yes, sir!
 
-Cinderella sits on the log and pats the seat next to her.  
-The Baker’s Wife sits down stiffly, a little distance away.  
+*The Baker puts his arm around Jack and leads him offstage*.
 
-W. I... I’m not sure I can explain.  You... probably wouldn’t understand, being married to  a Prince and all. 
+*Cinderella watches them go, smiling sadly*.
+*She turns to see the Baker’s Wife staring after her husband with a strange expression*.
 
-Cinderella starts. 
+**CINDERELLA**: Is... everything all right?
 
-C.  That... means much less than you might think.  [her voice breaking ]
+*The Baker’s Wife jumps as if embarrassed*.
 
-She suddenly collapses into violent sobs. The Baker’s Wife is shocked at first , but then shifts the baby around and gathers Cinderella into her bosom, and comforts her while she weeps. 
+**WIFE**: Me? Oh.. nothing... it’s just.
 
- #### Scene 9: Giantess In The Sky
+*Cinderella sits on the log and pats the seat next to her*.
+*The Baker’s Wife sits down stiffly, a little distance away*.
 
-The Baker and Jack creep quietly back onstage. 
+**WIFE**: I... I’m not sure I can explain. You... probably wouldn’t understand, being married to a Prince and all.
 
-Suddenly they hear a series of shrieks. 
+*Cinderella starts*.
 
-Jack: Was that the Princess? Is she alive?
+**CINDERELLA**: That... means much less than you might think. [*her voice breaking*]
 
-Baker: If so, it’s not for long. We better hurry.  
+*She suddenly collapses into violent sobs. The Baker’s Wife is shocked at first , but then shifts the baby around and gathers Cinderella into her bosom, and comforts her while she weeps*.
 
-They get ready for battle. 
-The shrieks get louder, and louder. 
-Just when they are about to dash off, Rapunzel appears, shrieking... with laughter. 
+### Scene 10: Giantess In The Sky
 
-B. Rapunzel! You’re alive. 
+*The Baker and Jack creep quietly back onstage*.
 
-Rapunzel stops laughing, and stares at the Baker, stunned. 
-Jack steps out from behind him. 
+*Suddenly they hear a series of shrieks*.
 
-J. Princess! We have come to rescue you. 
+**JACK**: Was that the Princess? Is she alive?
 
-Rapunzel goes wide-eyed, then collapses on the ground, laughing. 
+**BAKER**: If so, it’s not for long. We better hurry.
 
-B. She may have gone mad.  Quickly, help me carry her.  
+*They get ready for battle*.
+*The shrieks get louder, and louder*.
+*Just when they are about to dash off, Rapunzel appears, shrieking... with laughter*.
 
-They hurry over, but before they can pick her up she stops laughing and hisses at them. 
+**BAKER**: Rapunzel! You’re alive.
 
-Rapunzel: Don’t touch me!
+*Rapunzel stops laughing, and stares at the Baker, stunned*.
+*Jack steps out from behind him*.
 
-B. Rapunzel, don’t you recognize me?
+**JACK**: Princess! We have come to rescue you.
 
-R. [glaring] Of course I do! You’re the brother who knew who I really was, and never sought me out to tell me. And once you found me, all you wanted to do was control me and keep me safe. 
+*Rapunzel goes wide-eyed, then collapses on the ground, laughing*.
 
-The Baker hangs his head in shame. 
-Rapunzel whirls on Jack. 
+**BAKER**: She may have gone mad. Quickly, help me carry her.
 
-R. And you! You are the ungrateful whelp who stole from the giantess after she took pity on you, and then slew her husband.  You better get out of here.  If she ever sees you again...
+*They hurry over, but before they can pick her up she stops laughing and hisses at them*.
 
-She pauses dramatically, and does a Boom-Squish with her foot.  
+**RAPUNZEL**: Don’t touch me!
 
-Jack flinches, and the Baker pulls him closer protectively.  
+**BAKER**: Rapunzel, don’t you recognize me?
 
-B. Princess...
+**RAPUNZEL**: [*glaring*] Of course I do! You’re the brother who knew who I really was, and never sought me out to tell me. And once you found me, all you wanted to do was control me and keep me safe.
 
-R. Don’t call me that!  Don’t even call me Rapunzel. That was the name the witch gave me.  Better yet, don’t call me at all. Leave and never come back. 
+*The Baker hangs his head in shame*.
+*Rapunzel whirls on Jack*.
 
-Turns to walk away. 
+**RAPUNZEL**: And you! You are the ungrateful whelp who stole from the giantess after she took pity on you, and then slew her husband. You better get out of here. If she ever sees you again...
 
-B. Please.... sister. Come back home with us. 
+*She pauses dramatically, and does a Boom-Squish with her foot*.
 
-Rapunzel turns and stalks toward him.  
-The men shrink back from her fury. 
+*Jack flinches, and the Baker pulls him closer protectively*.
 
-R. Home? I’ve never had a home! Just a series of prisons.  This is my home. The Giantess agrees with me. All humans... all men! ...are selfish, greedy, controlling bastards.  
+**BAKER**: Princess...
 
-Rapunzel laughs. Her face is transformed into a mad sort of joy.  
+**RAPUNZEL**: Don’t call me that! Don’t even call me Rapunzel. That was the name the witch gave me. Better yet, don’t call me at all. Leave and never come back.
 
-R. Here I am free!  No walls. No towers.  No men. We just sit and braid each other’s hair, and eat the wild berries that grow everywhere. 
+*Turns to walk away*.
 
-Walks about, as if in a reverie. 
+**BAKER**: Please... sister. Come back home with us.
 
-R. And we talk! Do you know I have never had anyone to talk to? And she is such a wonderful listener. I can talk to her for hours, about anything and everything.  
+*Rapunzel turns and stalks toward him*.
+*The men shrink back from her fury*.
 
-She turns and approaches the Baker, her eyes glistening. She lays a hand on his arm. For once, her voice is actually gentle.  
+**RAPUNZEL**: Home? I've never had a home! Just a series of prisons. This is my home. The Giantess agrees with me. All humans... all men!... are selfish, greedy, controlling bastards.
 
-R. Please. Don’t you see? For once in my life, I am truly happy. Just leave me in peace. 
+*Rapunzel laughs. Her face is transformed into a mad sort of joy*.
 
-J. But... shouldn’t you be around your own kind?
+**RAPUNZEL**: Here I am free! No walls. No towers. No men. We just sit and braid each other’s hair, and eat the wild berries that grow everywhere.
 
-Just then a voice shouts from offstage:
+*Walks about, as if in a reverie*.
 
-Giantess: Rapunzel, where are you?
+**RAPUNZEL**: And we talk! Do you know I have never had anyone to talk to? And she is such a wonderful listener. I can talk to her for hours, about anything and everything.
 
-Rapunzel draws herself up. 
+*She turns and approaches the Baker, her eyes glistening. She lays a hand on his arm. For once, her voice is actually gentle*.
 
-R. She is my own kind. If you know what’s good for you, you’ll leave before she finds you.  
+**RAPUNZEL**: Please. Don’t you see? For once in my life, I am truly happy. Just leave me in peace.
 
-Rapunzel turns her back on them and struts off majestically.
-The Baker starts to lunge after her, but Jack grabs his arm. 
-The giantess’s footsteps grow louder. 
-The Baker shakes off Jack’s arm, takes one last look at the fleeing Rapunzel, then turns, grabs Jacks arm and heads back the way they came. 
+**JACK**: But... shouldn’t you be around your own kind?
 
-Neither notice the bag Jack had dropped, now lying abandoned on stage. 
+*Just then a voice shouts from offstage.*
 
-Ethereal music starts to play...
+**GIANTESS**: Rapunzel, where are you?
 
+*Rapunzel draws herself up*.
 
- #### Scene 10: The Woods
+**RAPUNZEL**: She is my own kind. If you know what’s good for you, you’ll leave before she finds you.
 
-The Baker’s Wife wanders in from stage left, apparently lost in thought.  
-Cinderella’s Prince strides in. 
-He stops when he sees her. 
-His lips curl into a smile reminiscent of the Wolf. 
+*Rapunzel turns her back on them and struts off majestically*.
+*The Baker starts to lunge after her, but Jack grabs his arm*.
+*The giantess’s footsteps grow louder*.
+*The Baker shakes off Jack’s arm, takes one last look at the fleeing Rapunzel, then turns, grabs Jacks arm and heads back the way they came*.
 
-Prince: Greetings. 
+*Neither notice the bag Jack had dropped, now lying abandoned on stage*.
 
-Wife: [startled] What? Oh! [bowing]
+*Ethereal music starts to play...*
 
-P. You shouldn’t be out and about alone. I have heard from my Steward that a giantess may have kidnapped Princess Rapunzel. 
+### Scene 11: The Woods
 
-[They start reenacting the “Moments” song from the original version, where he seduces her. But this time, she realizes how much the Prince is hurting Cinderella, and the shallowness of their attraction. She spurns him in song, and chooses Meaning over Moments]
+*The Baker's Wife wanders in from stage left, apparently lost in thought*.
+*Cinderella’s Prince strides in*.
+*He stops when he sees her*.
+*His lips curl into a smile reminiscent of the Wolf*.
 
-The Prince looks abashed, trapped in an unaccustomed situation of self-reflection. 
+**PRINCE**: Greetings.
 
-W. [scornfully] Was your father this callous towards your mother?
+**WIFE**: [*startled*] What? Oh! [*bowing*]
 
-P. [absently, still struggling with novel thoughts and feelings] No, he was faithful to her while he lived. After she died and he became ill, well... it was just the way he was. So it seemed the only way for a Prince to be. 
+**PRINCE**: You shouldn’t be out and about alone. I have heard from my Steward that a giantess may have kidnapped Princess Rapunzel.
 
-W. [tenderly] I’m sorry. But maybe... you don’t have to be just a Prince?
+[*They start reenacting the “Moments” song from the original version, where he seduces her. But this time, she realizes how much the Prince is hurting Cinderella, and the shallowness of their attraction. She spurns him in song, and chooses Meaning over Moments*]
 
-P. What do you mean?
- 
-W. Well [chuckling] my husband was just a Baker, but now he’s climbing a beanstalk to confront a Giant. 
+*The Prince looks abashed, trapped in an unaccustomed situation of self-reflection*.
 
-P. [eagerly] Really! Take me to him. I thirst for danger and excitement. 
+**WIFE**: [*scornfully*] Was your father this callous towards your mother?
 
-W. [laughing gaily] Courageous, are you?  
+**PRINCE**: [*absently, still struggling with novel thoughts and feelings*] No, he was faithful to her while she lived. After she died and he became ill, well... it was just the way he was. So it seemed the only way for a Prince to be.
 
-P. [modestly] I don’t mean to brag, but I have never shied away from a dangerous quest. 
+**WIFE**: [*tenderly*] I’m sorry. But maybe... you don’t have to be just a Prince?
 
-W. [slyly] Have you, now? Well then, I have the perfect challenge for you...
+**PRINCE**: What do you mean?
 
-She leads him offstage 
+**WIFE**: Well [*chuckling*] my husband was just a Baker, but now he’s climbing a beanstalk to confront a Giant.
 
-#### Scene 11: Grandmother’s House
+**PRINCE**: [*eagerly*] Really! Take me to him. I thirst for danger and excitement.
 
-Jack and the Baker finish relating their failure to Red and Grandma. 
+**WIFE**: [*laughing gaily*] Courageous, are you?
 
-Baker: I don’t know. Maybe she’s right, and I’m being selfish to want her to leave the giant. 
+**PRINCE**: [*modestly*] I don’t mean to brag, but I have never shied away from a dangerous quest.
 
-Grandma: Poppycock!
+**WIFE**: [*slyly*] Have you, now? Well then, I have the perfect challenge for you...
 
-Jack: Huh?
+*She leads him offstage*.
 
-G. I said Poppycock. You men are being idiots, as usual. 
+### Scene 12: Grannie's House
 
-B. I beg your pardon!
+*Jack and the Baker finish relating their failure to Red and Grannie*.
 
-Red: Oh, of course!
+**BAKER**: I don’t know. Maybe she’s right, and I’m being selfish to want her to leave the giant.
 
-J. Huh?
+**GRANNIE**: Poppycock!
 
-Red punches him in the arm. 
+**JACK**: Huh?
 
-R. Don’t be dense. Rapunzel isn’t just a princess. She is also a mother. And the only thing more important to her than her own happiness...
+**GRANNIE**: I said Poppycock. You men are being idiots, as usual.
 
-G. ... is that of her children. Exactly. 
+**BAKER**: I beg your pardon!
 
-B. Okay, fine. But are you suggesting I take her children up there?
+**RED**:  Oh, of course!
 
-J. That seems... dangerous. 
+**JACK**: Huh?
 
-G. Idiots. Of course not.  I’m just pointing out the real issue isn’t whether you are being selfish, but how to help her remember she is a mother. 
+*Red punches him in the arm*.
 
-B. But... that’s impossible!
+**RED**: Don’t be dense. Rapunzel isn’t just a princess. She is also a mother. And the only thing more important to her than her own happiness...
 
-J.  Maybe... maybe not! I’ve just had a wonderful idea!
+**GRANNIE**: ... is that of her children. Exactly.
 
-R. Tell us!
+**BAKER**: Okay, fine. But are you suggesting I take her children up there?
 
-J. I’ll do better. I’ll show you! 
+**JACK**: That seems... dangerous.
 
-He grabs Red by the hand and runs off, with the Baker scurrying after. 
-Grandma stays behind, watching them, clicking her tongue. 
+**GRANNIE**: Idiots. Of course not. I’m just pointing out the real issue isn’t whether you are being selfish, but how to help her remember she is a mother.
 
+**BAKER**: But... that’s impossible!
 
-#### Scene 12: Cinderella’s Tree
+**JACK**: Maybe... maybe not! I’ve just had a wonderful idea!
 
-Cinderella is backstage facing the tree of her mother, holding the Baker’s baby, talking softly. 
+**RED**: Tell us!
 
-The Prince and the Baker’s Wife enter from stage left. 
+**JACK**: I’ll do better. I’ll show you!
 
-Prince: [haughtily] Are you sure this quest is worthy of me?
+*He grabs Red by the hand and runs off, with the Baker scurrying after*.
+*Grannie stays behind, watching them, clicking her tongue*.
 
-Wife: I assure you this is the most difficult and dangerous quest ever undertaken by man.  In fact, I fear you will quail and run away once I show it to you. 
+### Scene 13: Cinderella's Tree
 
-P. Don’t be ridiculous. I laugh in the face of danger. 
+*Cinderella is backstage facing the tree of her mother, holding the Baker's baby, talking softly*.
 
-W. But it is agonizingly slow and difficult, with victory seeming always out of reach. 
+*The Prince and the Baker’s Wife enter from stage left*.
 
-P. But that is the best kind of quest! Especially if there is a beautiful Princess at the end. 
+**PRINCE**: [*haughtily*] Are you sure this quest is worthy of me?
 
-W. [smiling wickedly] Perfect. In that case, behold your quest [turns him around to see Cinderella, who collapses in a storm of weeping]
+**WIFE**: I assure you this is the most difficult and dangerous quest ever undertaken by man. In fact, I fear you will quail and run away once I show it to you.
 
-P. But... that’s my... she...  why.. [turns to look at the Baker’s Wife helplessly]
+**PRINCE**: Don’t be ridiculous. I laugh in the face of danger.
 
-W. [scornfully] Any boy can win the heart of an innocent maiden with fancy balls and charming words. It takes a real man to woo a woman whose heart has been broken by betrayal and grief.  It takes risk, vulnerability, and courage beyond anything you ever imagined.  It requires months and years of endless introspection and sacrifice, with no guarantee of success.  
+**WIFE**: But it is agonizingly slow and difficult, with victory seeming always out of reach.
 
-P. But that’s... impossible! Unfair!
+**PRINCE**: But that is the best kind of quest! Especially if there is a beautiful Princess at the end.
 
-W. [laughing gaily] Of course it is!
+**WIFE**: [*smiling wickedly*] Perfect. In that case, behold your quest [*turns him around to see Cinderella, who collapses in a storm of weeping*]
 
-P.  You tricked me! This is a... bait and switch.!
+**PRINCE**: But... that’s my... she... why.. [*turns to look at the Baker’s Wife helplessly*]
 
-W. [savagely]. Exactly!  Just like you tricked us. Promising us sweetness and joy,  concealing the fact it was all a deception merely to feed your ego. 
+**WIFE**: [*scornfully*] Any boy can win the heart of an innocent maiden with fancy balls and charming words. But it takes a real man to win back a woman whose heart has been broken by betrayal and grief. It takes risk, vulnerability, and courage beyond anything you ever imagined. It requires months and years of endless introspection and sacrifice, with no guarantee of success.
 
-P. This is a travesty. Your quest is a lie. 
+**PRINCE**: But that’s... impossible! Unfair!
 
-W. [shouting] And so are you!
+**WIFE**: [*laughing gaily*] Of course it is!
 
-The Prince stumbles back, stunned by her vehemence.  
-The Baker’s Wife turns away. 
+**PRINCE**: You tricked me! This is a... bait and switch!
 
-W. [mostly to herself] When I was a little girl, I dreamed of marrying a prince.  Even after my father married me off to the young baker who came to his mill, I continued to cherish fantasies of riding away with a handsome Prince on his white horse. 
+**WIFE**: [*savagely*]. Exactly! Just like you tricked us. Promising us sweetness and joy, concealing the fact it was all a deception merely to feed your ego.
 
-The Prince takes a half-step towards her. 
+**PRINCE**: This is a travesty. Your quest is a lie.
 
-W. [whirling] You destroyed my dreams. And I thank you for it, because now I know what kind of man I really want.  But you also destroyed hers, who never did you any harm. So in exchange, I have destroyed yours. From now on. Any time you seduce maiden. Any time you claim to stalk a giant. You. Will. Have. To. Remember!
+**WIFE**: [*shouting*] And so are you!
 
-Walks up and pokes him in the chest. 
+*The Prince stumbles back, stunned by her vehemence*.
+*The Baker’s Wife turns away*.
 
-W. [whispering] You are only doing it because you are afraid of the real thing. 
+**WIFE**: [*mostly to herself*] When I was a little girl, I dreamed of marrying a prince. Even after my father married me off to the young baker who came to his mill, I continued to cherish fantasies of riding away with a handsome Prince on his white horse.
 
-The Baker’s Wife stalks offstage. 
+*The Prince takes a half-step towards her*.
 
-The Prince stands there, trembling. 
-He closes his eyes. 
+**WIFE**: [*whirling*] You destroyed my dreams. And I thank you for it, because now I know what kind of man I really want. But you also destroyed hers, who never did you any harm. So in exchange, I have destroyed yours. From now on... Any time you seduce a maiden. Any time you claim to stalk a giant. You. Will. Have. To. Remember!
 
-P. I think... I already knew. 
+*She walks up and pokes him in the chest*.
 
-He turns and looks at Cinderella weeping. 
-He stumbles toward her, pulled against his will, as if by gravity.  
+**WIFE**: [*whispering*] You are only doing it because you are afraid of the real thing.
 
-Cinderella’s sobs have subsided. 
-She seems to hear him.  
-She half-rises and turns. 
+*The Baker’s Wife stalks offstage*.
 
-The Prince cries out, and dashes away in the opposite direction. 
+*The Prince stands there, trembling*.
+*He closes his eyes*.
 
-Cinderella stands and looks about thoughtfully, wondering if she actually saw and heard what she thought she did.  
-Then a thought strikes her, and she gathers her skirts and runs off. 
+**PRINCE**: [*shaken*] I think... I already knew.
 
-#### Scene 13: The Witch’s House
+*He turns and looks at Cinderella weeping*.
+*He stumbles toward her, pulled against his will, as if by gravity*.
 
-Gothel the Witch sits outside her house next to the Baker’s. 
-She wistfully strokes the hair she cut off from Rapunzel before casting her into the desert, humming snatches of Rapunzel’s song. 
-She hears Jack shouting, and hurriedly tries to hide the hair behind her. 
+*Cinderella’s sobs have subsided*.
+*She seems to hear him*.
+*She half-rises and turns*.
 
-Jack and Red rush in, then stop abruptly at the sight of the Witch
-She tries to put on an intimidating face, but doesn’t quite succeed.  
-She is about to speak when Jack interrupts.
+*The Prince cries out, and dashes away in the opposite direction*.
 
-Jack:  Ma’am, we have news of your daughter!
+*Cinderella stands and looks about thoughtfully, wondering if she actually saw and heard what she thought she did*.
+*Then a thought strikes her, and she gathers her skirts and runs off*.
 
-The Witch’s facade breaks, and she is suddenly vulnerable. 
+### Scene 14: The Witch's House
 
-Witch: Rapunzel? Where is she? Is she in danger? [half-afraid, half eagerly]
+*Gothel the Witch sits outside her house next to the Baker's*.
+*She wistfully strokes the hair she cut off from Rapunzel before casting her into the desert, humming snatches of Rapunzel’s song*.
+*She hears Jack shouting, and hurriedly tries to hide the hair behind her*.
 
-J: Um, well...
+*Jack and Red rush in, then stop abruptly at the sight of the Witch*.
+*She tries to put on an intimidating face, but doesn’t quite succeed*.
+*She is about to speak when Jack interrupts*.
 
-Red: [interrupting] She ran away from the castle, climbed a beanstalk, made friends with a giantess, and refuses to come down because she’s forgotten about her children. 
+**JACK**: Ma’am, we have news of your daughter!
 
-W. [impressed] My, that was concise. 
+*The Witch's facade breaks, and she is suddenly vulnerable.*
 
-The Baker finally stumbles in, out of breath. 
-The Witch’s eyes narrow. 
-She turns to Jack. 
+**WITCH**: Rapunzel? Where is she? Is she in danger? [*half-afraid, half eagerly*]
 
-W. HE didn’t send you, did he?
+**JACK**: Um, well...
 
-J. [affronted] Nobody sent me. This was my  plan. [lowers voice] I am a man now. 
+**RED**: [*interrupting*] She ran away from the castle, climbed a beanstalk, made friends with a giantess, and refuses to come down because she’s forgotten about her children.
 
-Red rolls her eyes.
-But the Witch is intrigued. 
+**WITCH**: [*impressed*] My, that was concise.
 
-W. Do you... have a plan to restore my daughter to me?
+*The Baker finally stumbles in, out of breath*.
+*The Witch’s eyes narrow*.
+*She turns to Jack*.
 
-J.  Um, no. 
+**WITCH**: [*pointing at the Baker*] HE didn’t send you, did he?
 
-W. [angrily] Then why did you even come here!
+**JACK**: [*affronted*] Nobody sent me. This was my plan. [*lowers voice*] I am a man now.
 
-J. [gently] Because you are her mother. And you love her. And she needs your help. Isn’t that reason enough?
+*Red rolls her eyes*.
+*But the Witch is intrigued*.
 
-W. [holding back tears] She... doesn’t want my help.  She... she hates me.
+**WITCH**: Do you... have a plan to restore my daughter to me?
 
-Baker: No [with solemn finality]
+**JACK**: Um, no.
 
-All eyes stop and turn to him. 
-Nobody see the Baker’s Wife enter from the side, watching him  
+**WITCH**: [*angrily*] Then why did you even come here!
 
-The Baker walks gingerly towards the Witch.  
+**JACK**: [*gently*] Because you are her mother. And you love her. And she needs your help. Isn’t that reason enough?
 
-B. I know what it feels like to be angry at a parent you feel has betrayed you.  And yes, there were times that I hated him.  But that was precisely because I needed him so much, And I didn’t want to need his help, because I was afraid he’d let me down again. 
+**WITCH**: [*holding back tears*] She... doesn’t want my help. She... she hates me.
 
-He looks up, and sees his Wife. 
-She runs to him. 
-He puts an arm around her, and turns back to the wife. 
+**BAKER**: No [*with solemn finality*]
 
-B. And in the end, when I needed him most, he came through and helped me... us... complete the spell, and gain a child.  Even if it killed him [sadly]
+*All eyes stop and turn to him*.
+*Nobody see the Baker’s Wife enter from the side, watching him*.
 
-He looks up again, and sees the Mysterious Man at the edge of the stage. 
+*The Baker walks gingerly towards the Witch*.
 
-B. I still didn’t forgive him. I couldn’t understand why he would run out on me like that. Until...
+**BAKER**: I know what it feels like to be angry at a parent you feel has betrayed you. And yes, there were times that I hated him. But that was precisely because I needed him so much. And I didn’t want to need his help, because I was afraid he’d let me down again.
 
-Looks down. 
-His wife squeezes his shoulder.  
-He looks at her and smiles sadly. 
+*He looks up, and sees his Wife*.
+*She runs to him*.
+*He puts an arm around her, and turns back to the witch*.
 
-B. Until I realized I did the very same thing. 
+**BAKER**: And in the end, when I needed him most, he came through and helped me... us... complete the spell, and gain a child. Even if it killed him [*sadly*]
 
-[Sings a version of You Are Not Alone]
+*He looks up again, and sees the Mysterious Stranger at the edge of the stage*.
 
-B. It’s not your fault. You did the best you could with what you knew.  The reason it all went wrong is because you tried to do it all by yourself. But you aren’t alone any more.  
+**BAKER**: I still didn’t forgive him. I couldn’t understand why he would run out on me like that. Until...
 
-The Witch turns away.  
-But then Rapunzel’s Prince appears, carrying their babies. 
-The Witch stares in shock, then collapses into tears when her grandchildren are placed in her arms. 
+*Looks down at his wife*.
+*She squeezes his shoulder*.
+*He looks at her and smiles sadly*.
 
-Cinderella follows him onstage, and returns the Baker’s baby to his parents. 
+**BAKER**: Until I realized I did the very same thing.
 
-There is a long silence.  
-Then the Witch dries her tears, stands up, hands the babies back to the Prince, and looks straight at the Baker. 
+[*Sings a version of You Are Not Alone*]
 
-W. I am ready. I don’t care if she hates me enough to never speak to me again. Tell me what I must do to reunite my daughter with her babies, so she can have her happily ever after.  
+**BAKER**: [*To the Witch*] It’s not your fault. You did the best you could with what you knew. The reason it all went wrong is because you tried to do it all by yourself. But you aren’t alone any more.
 
-The Baker looks stunned. 
+*The Witch turns away*.
+*But then Rapunzel’s Prince appears, carrying their babies*.
+*The Witch stares in shock, then collapses into tears when her grandchildren are placed in her arms*.
 
-B. Ah. Well,  I, I... was thinking...
+*Cinderella follows him onstage, and returns the Baker’s baby to his parents*.
 
-His Wife squeezes his hand. 
-He turns and looks at her for a long moment. 
+*There is a long silence*.
+*Then the Witch dries her tears, stands up, hands the babies back to the Prince, and looks straight at the Baker*.
 
-B. I mean, we were thinking, now that everyone’s here, we could all put our head’s together and come up with a plan.  
+**WITCH**: I am ready. I don’t care if she hates me enough to never speak to me again. Tell me what I must do to reunite my daughter with her babies, so she can have her happily ever after.
 
-Jack: Let’s do it at my house! We just built a new barn so Milky White could have plenty of friends, and there’s lots of room for everyone.  
+*The Baker looks stunned*.
 
-They hurry offstage.
-The Witch follows slowly. 
-At the edge, she pauses.  
-She turns back, and sees the Mysterious Man enter.  
-He bows low, respectfully. 
-She smiles, nods, and blows him a kiss.  
-He straightens, nods, and salutes with a fist  to his chest. 
+**BAKER**: Ah. Well, I, I... was thinking...
 
-W. You should be proud. You have an amazing son.  
+*His Wife squeezes his hand*.
+*He turns and looks at her for a long moment*.
 
-Man:  [bitterly] No thanks to me 
+**BAKER**: I mean, WE were thinking, now that everyone’s here, we could all put our head’s together and come up with a plan.
 
-W. Don’t say that!
+**JACK**: Let’s do it at my house! We just built a new barn so Milky White could have plenty of friends, and there’s lots of room for everyone.
 
-He jumps
+*They hurry offstage*.
+*The Witch follows slowly*.
+*At the edge, she pauses.*  
+*She turns back, and sees the Mysterious Stranger enter.*  
+*He bows low, respectfully.*  
+*She smiles, nods, and blows him a kiss.*  
+*He straightens, nods, and salutes with a fist to his chest.*
 
-W. I’m sorry.  But... I have to believe. You... you came back.  You... tried to undo... everything that went wrong. It wasn’t enough for him to forgive you.  Yet somehow... he found his own way.  I have to believe...  I wish... [she cries and runs away]
+**WITCH**: You should be proud. You have an amazing son.
 
-The Mysterious Man watches her, until the light goes out.  
+**MYSTERIOUS STRANGER**: [*bitterly*] No thanks to me.
 
-#### Scene 14: Rapunzel In The Sky
+**WITCH**: [*harshly*] Don’t say that!
 
-Rapunzel is walking along, happily singing her song.  
-Suddenly she stops. 
-But her song does not. 
+*He jumps*.
 
-It continues on. 
-Not merely an echo. 
-But actually richer and more elaborate. 
+**WITCH**: I’m sorry. But... I have to believe. You... you came back. You... tried to undo... everything that went wrong. It wasn’t enough for him to forgive you. Yet somehow... he found his own way. I have to believe... I wish... [*she cries and runs away*]
 
-R.  What...  where?
+*The Mysterious Stranger watches her, until the light goes out*.
 
-She wanders about trying to find the source of the music and stumbles across Jack’s bag.  
+## HALFTIME
 
-Suddenly, the music stops. 
-She picks up the bag and stares at it suspiciously. 
-Finally, she screws up her courage and thrusts her arm into it, pulling out...
+### Scene 15: Rapunzel In The Sky
 
-R. A Harp!
+*Rapunzel is walking along, happily singing her song.*  
+*Suddenly she stops.*  
+*But her song does not.*
 
-The Harp responds by playing the enhanced version of Rapunzel’s song. 
+*It continues on.*  
+*Not merely an echo.*  
+*But actually richer and more elaborate.*
 
-R. That is so beautiful!  Did you just improvise that? 
+**RAPUNZEL**: What... where?
 
-Harp: No, that’s the original version. 
+*She wanders about trying to find the source of the music and stumbles across Jack’s bag*.
 
-Rapunzel is so shocked she drops the harp. 
+*Suddenly, the music stops*.
+*She picks up the bag and stares at it suspiciously*.
+*Finally, she screws up her courage and thrusts her arm into it, pulling out*...
 
-R. You can talk?!
+**RAPUNZEL**: A Harp!
 
-H. Well, it does get tiring to sing all the time. 
+*The Harp responds by playing the enhanced version of Rapunzel’s song*.
 
-R. But... you’re a person?  Where did you come from? How did you get here?
+**RAPUNZEL**: That is so beautiful! Did you just improvise that?
 
-H. I should ask you the same question!  I’m sure I’ve been up here longer than you’ve been alive. For that matter, how do you know my song?
+**HARP**: No, that’s the original version.
 
-R. Your song? My mo... I mean, the witch who stole me from my parents taught it to me. 
+*Rapunzel is so shocked she drops the harp*.
 
-H. Did you say... a witch?
+**RAPUNZEL**: You can talk?!
 
-The Harp makes a sharp keening sound, indescribably sad and heartbreaking. 
+**HARP**: Well, it does get tiring to sing all the time.
 
-R. Are you... okay?
+**RAPUNZEL**: But... you’re a person? Where did you come from? How did you get here?
 
-H. I... tell me, does this witch live in a beautiful garden?
+**HARP**: I should ask you the same question! I’m sure I’ve been up here longer than you’ve been alive. For that matter, how do you know my song?
 
-R. How would I know? She locked me in a tower my whole life. I never saw anyone but her until I was eighteen. And when I finally met someone, she got rid of him to ensure I would never have anyone to love me. She was the worst mother ever!
+**RAPUNZEL**: Your song? My mo... I mean, the witch who stole me from my parents taught it to me.
 
-Harp spills out a series of notes, like rain weeping. 
+**HARP**: Did you say... a witch?
 
-H. No. No, she was not.... I was.  
+*The Harp makes a sharp keening sound, indescribably sad and heartbreaking*.
 
-And then Harp begins sobbing. Great, anguished, human cries of grief.  
+**RAPUNZEL**: Are you... okay?
 
-#### Scene 15: The King’s Bedroom
+**HARP**: I... tell me, does this witch live in a beautiful garden?
 
-The King is lying in bed. 
-Feminine giggles sound from offstage. 
+**RAPUNZEL**: How would I know? She locked me in a tower my whole life. I never saw anyone but her until I was eighteen. And when I finally met someone, she got rid of him to ensure I would never have anyone to love me. She is the worst mother ever!
 
-King: Farewell, my dears!
+*Harp spills out a series of notes, like rain weeping*.
 
-He leans back, looking pleased with himself. 
-Suddenly the room darkens, and ominous music plays.  
-He sits up, nervous.  
-The Witch enters. 
+**HARP**: [*quietly*] No. No, she is not... I was.
 
-Witch: So... this is why you broke our engagement? So you could play patty-cake with the palace maids?
+*And then Harp begins sobbing. Great, anguished, human cries of grief*.
 
-K: You!  Gothel!  Here!
+### Scene 16: The King's Bedroom
 
-She stalks towards him with undisguised malice.  
-The King flinches, but from somewhere finds the strength to sit up straight in bed.  He looks almost... regal.  
+*The King is lying in bed*.
+*Feminine giggles sound from offstage*.
 
-K. Yes... I suppose it is finally time I paid my debt.  But before you do your worst [looks sharply at her] I have something must say to you.  
+**KING**: Farewell, my dears!
 
-The Witch pauses, anger warring with curiosity, and the briefest hint of vulnerability.  The King draws a deep breath, then lets it out. 
+*He leans back, looking pleased with himself*.
+*Suddenly the room darkens, and ominous music plays*.
+*He sits up, nervous*.
+*The Witch enters*.
 
-K. [whispering] I’m sorry.  
+**WITCH**: So... this is why you broke our engagement? So you could play patty-cake with the palace maids?
 
-The words strike the Witch like a lightnight bolt.  He doesn’t notice. 
+**KING**: You! Gothel! Here!
 
-K. [stronger, and more agitated] I’m sorry I left you at the altar.  I’m sorry I didn’t have the courage to run away with you.  I’m sorry I was too ashamed to even send a message  explaining how my father had forced me into a marriage I didn’t want. [Looks up] But I’m not sorry that I get to see your face one last time before I die.  It is a far greater kindness than I deserve. 
+*She stalks towards him with undisguised malice*.
+*The King flinches, but from somewhere finds the strength to sit up straight in bed. He looks almost... regal*.
 
-The Witch staggers back as if punched in the gut.  The King finally noticed her suffering, and something comes over him.  
+**KING**: Yes... I suppose it is finally time I paid my debt. But before you do your worst [*looks sharply at her*] I have something must say to you.
 
-K. Gothel! Dear, sweet Gothel are you okay? [He strives to rise,  but some invisible force seems to tie him to the bed]
+*The Witch pauses, anger warring with curiosity, and the briefest hint of vulnerability. The King draws a deep breath, then lets it out*.
 
-W. No! Don’t call me that name anymore.  That woman is dead. She died the day you abandoned me on my sixteenth birthday.  My mother was right. All humans, all men are liars and scoundrels. I should have listened to her and never opened my heart to the human world. 
+**KING**: [*whispering*] I’m sorry.
 
-The King looks stricken. A wild sort of glee steals over his face. 
+*The words strike the Witch like a lightnight bolt. He doesn’t notice*.
 
-K. Fine! Then kill me and be done with. God knows I deserve it for the way I left you to suffer alone all this year.  Slay me now, and end both our suffering. 
+**KING**: [*stronger, and more agitated*] I’m sorry I left you at the altar. I’m sorry I didn’t have the courage to run away with you. I’m sorry I was too ashamed to even send a message explaining how my father had forced me into a marriage I didn’t want. [*Looks up*] But I’m not sorry that I get to see your face one last time before I die. It is a far greater kindness than I deserve.
 
-The Witch snatches a dagger from her belt and stands over the immobile king.  The King sighs and lays back down. He pulls apart his shirt, exposing his chest to the naked blade. 
+*The Witch staggers back as if punched in the gut. The King finally noticed her suffering, and something comes over him*.
 
-K. [looking up into her eyes] Take my heart. It has always been yours.  I should have given it to you long ago.  
+**KING**: Gothel! Dear, sweet Gothel are you okay? [*He strives to rise, but some invisible force seems to tie him to the bed*]
 
-The Witch stares at him, lifts the dagger high, then plunges it down... into the bedding, a hairs-breadth from the King.  
-She collapses on top of him, weeping. The King murmurs her name softly as he strokes her hair comfortingly. 
+**WITCH**: No! Don’t call me that name anymore. That woman is dead. She died the day you abandoned me on my sixteenth birthday. My mother was right. All humans, all men are liars and scoundrels. I should have listened to her and never opened my heart to the human world.
 
-#### Scene 16: Back In The Land Above
+*The King looks stricken. A wild sort of glee steals over his face*.
 
-Rapunzel is cradling the harp.  
+**KING**: Fine! Then kill me and be done with it. God knows I deserve it for the way I left you to suffer alone all these years. Slay me now, and end both our suffering.
 
-R.  Wait, let me make sure I got this straight.  You kept my moth.. the Witch locked up her whole life, like she did me?  
+*The Witch snatches a dagger from her belt and stands over the immobile king. The King sighs and lays back down. He pulls apart his shirt, exposing his chest to the naked blade*.
 
-Harp:  [sniffling] Yes. 
+**KING**: [*looking up into her eyes*] Take my heart. It has always been yours. I should have given it to you long ago.
 
-R. And when she fell in love, you told the boy’s father the King to break it off, then convinced her the boy had been lying to her the whole time.  
+*The Witch stares at him, lifts the dagger high, then plunges it down... into the bedding, a hairs-breadth from the King*.
+*She collapses on top of him, weeping. The King murmurs her name softly as he strokes her hair comfortingly*.
 
-H. [sadly] Yes. 
+### Scene 17: Back In The Land Above
 
-R. [sharp breath] And that Prince... is the current King? My father-in-law?
+*Rapunzel is cradling the harp*.
 
-H. You married the King’s son?
+**RAPUNZEL**: Wait, let me make sure I got this straight. You kept my moth.. the Witch locked up her whole life, like she did me?
 
-R. [bitterly] If you call that marriage.  Maybe you were right to break your daughter’s engagement.  His whole family is full of  charm and deceit.  She’s probably better off alone. 
+**HARP**: [*sniffling*] Yes.
 
-Harp strums a plaintive melody
+**RAPUNZEL**: And when she fell in love, you told the boy’s father the King to break it off, then convinced her the boy had been lying to her the whole time.
 
-R. What does that mean?
+**HARP**: [*sadly*] Yes.
 
-H. It means... I’m sorry.  Not only did I break her engagement, I left her in anger when she broke the pact preventing her from using magic against the kingdom.  I thought I could come back after she learned her lesson, but instead I became trapped in the form of a harp.  She was alone.  Alone, for so long, all by herself.  She must have become desperate. Desperate for a family. Someone to love.  Someone to love her. Someone like...
+**RAPUNZEL**: [*sharp breath*] And that Prince... is the current King? My father-in-law?
 
-R.  Me?  [jumping up and dumping the harp on the ground] She stole me because you left her?
+**HARP**: You married the King’s son?
 
-H. No.  Yes.  Maybe. Probably. I don’t know. I am so, so sorry.  
+**RAPUNZEL**: [*bitterly*] If you call that marriage. Maybe you were right to break your daughter’s engagement. His whole family is full of charm and deceit. She’s probably better off alone.
 
-R. Sorry!  Sorry doesn’t even begin to describe it.  You’re just as evil and controlling as she is.  Maybe worse. 
+*Harp strums a plaintive melody*.
 
-H. I know.  I am sorry. This is all my fault.  Please, let me make it up to you.  
+**RAPUNZEL**: What does that mean?
 
-R. Ha!  Are you powerful enough to turn back time and give me my mother and my childhood back?
+**HARP**: It means... I’m sorry. Not only did I break her engagement, I left her in anger when she broke the pact preventing her from using magic against the kingdom. I thought I could come back after she learned her lesson, but instead I became trapped in the form of a harp. She was alone. Alone, for so long, all by herself. She must have become desperate. Desperate for a family. Someone to love. Someone to love her. Someone like...
 
-H. [quietly] No.  
+**RAPUNZEL**: Me? [*jumping up and dumping the harp on the ground*] She stole me because you left her?
 
-R. So my life is ruined.  And it is all your fault.  You and your daughter’s.  
+**HARP**: No. Yes. Maybe. Probably. I don’t know. I am so, so sorry.
 
-H. Yes [plays a lamenting tune]
+**RAPUNZEL**: Sorry! Sorry doesn’t even begin to describe it. You’re just as evil and controlling as she is. Maybe worse.
 
-R. Then.... I have nothing more to say to you.  Goodbye.  [stomps off]
+**HARP**: I know. I am sorry. This is all my fault. Please, let me make it up to you.
 
-The Harp lying on the floor echoes her footsteps until she is offstage. 
+**RAPUNZEL**: Ha! Are you powerful enough to turn back time and give me my mother and my childhood back?
 
-H. Goodbye... my precious granddaughter.  
+**HARP**: [*quietly*] No.
 
-[Plays a dirge-like version of Rapunzel’s theme]
+**RAPUNZEL**: So my life is ruined. And it is all your fault. You and your daughter’s.
 
-#### Scene 17: Back in The King’s Bedroom
+**HARP**: Yes [*plays a lamenting tune*]
 
-The Witch has cried herself out, and sits up next to the King. 
+**RAPUNZEL**: Then... I have nothing more to say to you. Goodbye. [*stomps off*]
 
-Witch: I... didn’t actually come here to kill you.  
+*The Harp lying on the floor echoes her footsteps until she is offstage*.
 
-The King smiles and squeezes her hand. 
+**HARP**: Goodbye... my precious granddaughter.
 
-King: I don’t know whether to be relieved or disappointed. Either way, I’m glad you came. 
+[*Plays a dirge-like version of Rapunzel’s theme*]
 
-The Witch gives a small smile. 
+### Scene 18: Back in The King's Bedroom
 
-W. Me too. I... [looks down] I need your help. I assumed I’d have to threaten you, Make you fear me with a fear worse than death.  
+*The Witch has cried herself out, and sits up next to the King*.
 
-The King cups her chin in his hand. 
+**WITCH**: I... didn’t actually come here to kill you.
 
-K. No threats necessary. Ask anything you want, up to half my kingdom. If it is in my power, I will grant it.  
+*The King smiles and squeezes her hand*.
 
-W. [deep breath] Actually... that is what I wanted to ask you for.  
+**KING**: I don't know whether to be relieved or disappointed. Either way, I'm glad you came.
 
-The King pales, but manages to regain his composure.  
+*The Witch gives a small smile*.
 
-K. That... isn’t exactly what I expected. [sees her expression darkening] But, a promise is a promise.  I will do what I can. However...  [looking down] might I at least ask what you will do with the land... and the people?
+**WITCH**: Me too. I... [*looks down*] I need your help. I assumed I’d have to threaten you, Make you fear me with a fear worse than death.
 
-The Witch shakes her head.  
+*The King cups her chin in his hand*.
 
-W. It isn’t for me. It is to save my daughter... your daughter-in-law. Rapunzel. 
+**KING**: No threats necessary. Ask anything you want, up to half my kingdom. If it is in my power, I will grant it.
 
-The King has a shocked look.  The Witch actually laughs.  
+**WITCH**: [*deep breath*] Actually... half your kingdom is what I wanted to ask you for.
 
-W. Not that kind of daughter.  I... [blushes] never married. She’s adopted.  I [chokes up] thought I... could keep her to myself. [weeps].
+*The King pales, but manages to regain his composure*.
 
-The King takes her hand. 
+**KING**: That... isn’t exactly what I expected. [*sees her expression darkening*] But, a promise is a promise. I will do what I can. However... [*looking down*] might I at least ask what you will do with the land... and the people?
 
-K. What... do you need from me?
+*The Witch shakes her head*.
 
-The Witch flashes him a grateful look. 
+**WITCH**: It isn’t for me. It is to save my daughter... your daughter-in-law. Rapunzel.
 
-W. She is hiding in the land of giants. She has befriended a giantess.  I was hoping [takes the King’s hand] we could grant them a parcel of land here down below.  Setup a... trading post, with The Land Above.  The existing humans could stay, but as tenants under Giant Law.  
+*The King has a shocked look. The Witch actually laughs*.
 
-The King stiffens. 
-The Witch pulls her hand back.  
-She looks at him. 
+**WITCH**: Not that kind of daughter. I... [*blushes*] never married. She’s adopted. I [*chokes up*] thought I... could keep her to myself. [*weeps*].
 
-W. [in a small voice] Is that... too much to ask?
+*The King takes her hand*.
 
-The King pats her hand and smiles. 
+**KING**: What... do you need from me?
 
-K. No, my dear. If anything, it is a most generous offer. Trade with The Land Above would make me the envy of the Seven Kingdoms. [growing sober] My concern is for what happens next. Humans and Giants... have never lived together in peace. And as much as it pains me to say it, the fault is usually on our side.  But if a Giant kills a human, even in self-defense...
+*The Witch flashes him a grateful look*.
 
-The Witch gets up and stomps around the room. 
+**WITCH**: She is hiding in the land of giants. She has befriended a giantess. I was hoping [*takes the King’s hand*] we could grant them a parcel of land here down below. Setup a... trading post, with The Land Above. The existing humans could stay, but as tenants under Giant Law.
 
-W. Aargh! Why do you humans have to be so difficult?
+*The King stiffens*.
+*The Witch pulls her hand back*.
+*She looks at him*.
 
-The King chuckles. 
+**WITCH**: [*in a small voice*] Is that... too much to ask?
 
-K. It is part of our charm. But... if you’ll forgive my asking [coughs] can’t you just [waves his hand in a magical sort of way]
+*The King pats her hand and smiles*.
 
-The Witch’s smile is bittersweet. 
+**KING**: No, my dear. If anything, it is a most generous offer. Trade with The Land Above would make me the envy of the Seven Kingdoms. [*growing sober*] My concern is for what happens next. Humans and Giants... have never lived together in peace. And as much as it pains me to say it, the fault is usually on our side. But if a Giant kills a human, even in self-defense...
 
-W. That’s... another story. Suffice to say that disobeying my mother carried a heavy price, and paying that price cost me my magic.  
+*The Witch gets up and stomps around the room*.
 
-The King looks crestfallen.  
-But he quickly hides it. 
+**WITCH**: Aargh! Why do you humans have to be so difficult?
 
-K. That... is only to be expected. Still, we must make the best of it. What must I do?
+*The King chuckles*.
 
-W. I need you to issue a Royal Decree dedicating all the land  on that side of the woods as an enclave for the giants. And I’ll need someone of stature to enforce it. 
+**KING**: It is part of our charm. But... if you’ll forgive my asking [*coughs*] can’t you just [*waves his hand in a magical sort of way*]
 
-K. I will send my son and his steward. My son... well, he means well, but it is safer to send the steward as well. 
+*The Witch’s smile is bittersweet*.
 
-W. Very well. [looks him in the eye and curtsy’s] Thank you, your majesty. 
+**WITCH**: That's... another story. Suffice to say that disobeying my mother carried a heavy price, and paying that price cost me my magic.
 
-The King stares at her, until she turns away.  
+*The King looks crestfallen*.
+*But he quickly hides it*.
 
-K. Will I... see you again?
+**KING**: That... is only to be expected. Still, we must make the best of it. What must I do?
 
-The Witch slowly walks away, eyes downcast. 
+**WITCH**: I need you to issue a Royal Decree dedicating all the land on that side of the woods as an enclave for the giants. And I’ll need someone of stature to enforce it.
 
-W. I... can promise nothing. You are not the only one to whom I owe a debt. My life... is no longer my own. 
+**KING**: I will send my son and his steward. My son... well, he means well, but it is safer to send the steward as well.
 
-K. Then, fare thee well, sweet Gothel. [blows her a kiss]
+**WITCH**: Very well. [*looks him in the eye and curtsy’s*] Thank you, your majesty.
 
-Exit
+*The King stares at her, until she turns away*.
 
-#### Scene 18: Back Above
+**KING**: Will I... see you again?
 
-Cinderella enters from stage right, accompanied by birds
+*The Witch slowly walks away, eyes downcast*.
 
-Cinderella: Fly ahead, my friend. Search high and low until you find my sister-in-law Rapunzel.
+**WITCH**: I... can promise nothing. You are not the only one to whom I owe a debt. My life... is no longer my own.
 
-They fly away while Cinderella wanders about. Suddenly she spies the harp, and walks over to it.  
+**KING**: Then, fare thee well, sweet Gothel. [*blows her a kiss*]
 
-C. How odd? Who would leave such a valuable harp just lying around? [picks it up]
+*The Witch exits*.
 
-Harp: [bitterly] Leave me be!
+### Scene 19: Back Above
 
-C. You talk?
+*Cinderella enters from stage right, accompanied by birds*.
 
-H. I talk? You talk to birds, and you’re surprised at a taking harp?
+**CINDERELLA**: Fly ahead, my friend. Search high and low until you find my sister-in-law Rapunzel.
 
-C. Never mind that. Can you tell me where I can find the Princess Rapunzel?
+*They fly away while Cinderella wanders about. Suddenly she spies the harp, and walks over to it*.
 
-H. [sighing] As far away from me as she can get. Why do you want her?
+**CINDERELLA**: How odd? Who would leave such a valuable harp just lying around? [*picks it up*]
 
-C. We are trying to reunite her with her children. 
+**HARP**: [*bitterly*] Leave me be!
 
-H. Her... she has...  my great-grandchildren!
+**CINDERELLA**: You talk?
 
-C. What?  
+**HARP**: *I* talk? You talk to birds, and you’re surprised by a talking harp?
 
-H. Never mind. Do you have a plan?  
+**CINDERELLA**: Never mind that. Can you tell me where I can find the Princess Rapunzel?
 
-C. Yes. Well, actually the Witch is doing most of the work.  
+**HARP**: [*sighing*] As far away from me as she can get. Why do you want her?
 
-H. No! She will just try to trap Rapunzel again. 
+**CINDERELLA**: We are trying to reunite her with her children.
 
-Cinderella shakes her head. 
+**HARP**: Her... she has... my great-grandchildren!
 
-C. No, it isn’t like that. She realizes she was wrong. She will do anything to save Rapunzel, no matter what it costs her.  
+**CINDERELLA**: What?
 
-The Harp plays a series of agitated notes. 
+**HARP**: Never mind. Do you have a plan?
 
-H.  Are... are you sure?  Do you know what she intends?
+**CINDERELLA**: Yes. Well, actually the Witch is doing most of the work.
 
-Cinderella shrugs. 
+**HARP**: No! She will just try to trap Rapunzel again.
 
-C.  Not entirely. She said some sort of pact with the Land Above.  
+*Cinderella shakes her head*.
 
-H. No!
+**CINDERELLA**: No, it isn’t like that. She realizes she was wrong. She will do anything to save Rapunzel, no matter what it costs her.
 
-C. What do you mean, no?
+*The Harp plays a series of agitated notes*.
 
-H. No time to explain. You... you must take me to her.  [long pause] Please?
+**HARP**: Are... are you sure? Do you know what she intends?
 
-Cinderella looks around unsure, then finally makes a decision. 
+*Cinderella shrugs*.
 
-C. Okay, fine.  But I hope you know what you’re doing. The Witch... isn’t very patient with those who disappoint her. 
+**CINDERELLA**: Not entirely. She said some sort of pact with the Land Above.
 
-H. [under her breath] Like mother like daughter. 
+**HARP**: No!
 
-C. What?
+**CINDERELLA**: What do you mean, no?
 
-H. I said, we oughter get going. Time is of the essence!
+**HARP**: No time to explain. You... you must take me to her. [*long pause*] Please?
 
-Cinderella picks her up and hurries offstage 
+*Cinderella looks around unsure, then finally makes a decision*.
 
-#### Scene 19: Grandmothers House
+**CINDERELLA**: Okay, fine. But I hope you know what you’re doing. The Witch... isn’t very patient with those who disappoint her.
 
-Jack and Red and sitting with Grandma and the Bakers.  The Witch enters. 
+**HARP**: [*under her breath*] Like mother like daughter.
 
-Jack: Did he agree?
+**CINDERELLA**: What?
 
-Grandma: Did he beg for mercy?
+**HARP**: I said, we oughter get going. Time is of the essence!
 
-The Witch dabs at her eyes. 
+*Cinderella picks her up and hurries offstage*.
 
-Witch: He was... wonderful.  But [recovering]  yes, he agreed. He will send the Prince -- and more importantly, the steward -- to witness the deed. 
+### Scene 20: Grannie's House
 
-Mrs. Baker: [takes the Baker’s hand,
-looks at the Witch] Are you sure this is safe?
+*Jack and Red and sitting with Grannie and the Bakers. The Witch enters*.
 
-Witch: [forcing a smile] Of course it will be safe [under her breath] for you. 
+**JACK**: Did he agree?
 
-Baker: What do you need us to do?
+**GRANNIE**: [*eagerly*] Did he beg for mercy?
 
-Witch: [looking at Jack] Take them all to the site of the giant’s grave. Ask your mother to gather all your neighbors at midnight. Tell them the King has an important announcement and that they must attend. 
+*The Witch dabs at her eyes*.
 
-Baker’s Wife: Where will you be?
+**WITCH**: He was... wonderful. But [*recovering*] yes, he agreed. He will send the Prince -- and more importantly, the Steward -- to witness the deed.
 
-Witch: I have... some unfinished business to take care of.  [exits]
+**WIFE**: [*takes the Baker’s hand,looks at the Witch*] Are you sure this is safe?
 
- #### Scene 20: Cinderella’s Grove
+**WITCH**: [*forcing a smile*] Of course it will be safe [*under her breath*] for you.
 
-The Witch walks gingerly up to the tree. 
+**BAKER**: What do you need us to do?
 
-Witch: [quietly] Hello, sister. [waits for a long moment, then sighs] I know you hate me, and you have every right to.  I won’t bother to ask your forgiveness, and no apology could make up for the curse that sundered you from your husband and daughter. [steps closer] But... perhaps I can offer you something better.  
+**WITCH**: [*looking at Jack*] Take them all to the site of the giant’s grave. Ask your mother to gather all your neighbors at midnight. Tell them the King has an important announcement and that they must attend.
 
-[the Witch walks over and places her hand on the trunk]
+**WIFE**: Where will *you* be?
 
-Witch: [whispering] Revenge.  
+**WITCH**: I have... some unfinished business to take care of. [*exits*]
 
-[The tree twitches as if interested. What might be a face appears briefly]
+### Scene 21: Cinderella's Grove
 
-Witch: [taking a deep breath] As you know, it is not easy to kill a witch.  But I’ve heard it said that the dryads can grow a thorn that will drain all the life and magic from a witch.  [steps back and looks the tree in the face] If you give me one, I promise I will put it to good use. And I will never trouble you -- or anyone else -- ever again. 
+*The Witch walks gingerly up to the tree*.
 
-[Long silence. Then a bird flies in and drops a thorny branch on the ground. The Witch looks at it for a few moments, hesitates, then pulls out the Baker’s scarf and uses that to pick it up. 
+**WITCH**: [*quietly*] Hello, sister. [*waits for a long moment, then sighs*] I know you hate me, and you have every right to. I won’t bother to ask your forgiveness, and no apology could make up for the curse that sundered you from your husband and daughter. [*steps closer*] But... perhaps I can offer you something better.
 
-She turns to walk away, but stops  after a few steps. She pivots to face the tree]
+[*the Witch walks over and places her hand on the trunk*]
 
-Witch: [bowing low. Stands up. Chokes out: ] I... I’m so, so so sorry. [then  turns and dashes away]
+**WITCH**: [*whispering*] Revenge.
 
+[*The tree twitches as if interested. What might be a face appears briefly*]
 
-#### Scene 21: The Giant’s Grave
+**WITCH**: [*taking a deep breath*] As you know, it is not easy to kill a witch. But I’ve heard it said that the dryads can grow a thorn that will drain all the life and magic from a witch. [*steps back and looks the tree in the face*] If you give me one, I promise I will put it to good use. And I will never trouble you -- or anyone else -- ever again.
 
-It is the last midnight. All the peasants are gathered around Milky White and Jack’s Mother, muttering impatiently.  Cinderella’s Prince and the Steward enter. The Steward hands the Prince a scroll. 
+[*Long silence. Then a bird flies in and drops a thorny branch on the ground. The Witch looks at it for a few moments, hesitates, then pulls out the Baker’s scarf and uses that to pick it up. She turns to walk away, but stops after a few steps. She pivots to face the tree*.]
 
-Prince: [reading; bored yet pompous] “By decree of the King, and to right an ancient wrong, this land is immediately and henceforth forevermore... [pauses in shock] ceded to the Giants from the Land Above?! And... all inhabitants must either leave, or voluntarily submit to Giant Law!!!?!”
+**WITCH**: [*bowing low. Stands up. Chokes out:*] I... I’m so, so so sorry. [*then turns and dashes away*]
 
-The peasants erupt in bedlam.  The Prince turns to the Steward
+### Scene 22: The Giant's Grave
 
-P: This is madness. Did you know about this? [The Steward shrugs] But this doesn’t make any sense? There aren’t any giants here. There aren’t even any beanstalks!
+*It is the last midnight. All the peasants are gathered around Milky White and Jack's Mother, muttering impatiently. Cinderella's Prince and the Steward enter. The Steward hands the Prince a scroll*.
 
-Witch: “Not yet!” 
+**PRINCE**: [*reading; bored yet pompous*] “By decree of the King, and to right an ancient wrong, this land is immediately and henceforth forevermore... [*pauses in shock*] ceded to the Giants from the Land Above?! And... all inhabitants must either leave, or voluntarily submit to Giant Law!!!?!”
 
-All heads turn to see the Witch entering, bearing a thorny branch.  
+*The peasants erupt in bedlam. The Prince turns to the Steward*.
 
-Prince: [blustering] You cannot be serious. 
+**PRINCE**: This is madness. Did you know about this? [*The Steward shrugs*] But this doesn’t make any sense? There aren’t any giants here. There aren’t even any beanstalks!
 
-The Witch looks at him, not just with contempt, but a tinge of sadness. 
+**WITCH**: Not yet!
 
-Witch: Deadly serious. 
+*All heads turn to see the Witch entering, bearing a thorny branch.*
 
-She pulls out the branch and gazes up into the sky. 
+**PRINCE**:  [*blustering*] You cannot be serious.
 
-Witch: I am sorry, mother.  You were right.  Mortals and magic were never meant to mix.  This land must be returned to the wild. What went wrong must be made right. [lifts the thorn into the moonlight] Accept my sacrifice, and restore this giant back to life, so that my daughter may return to her life.  [prepares to plunge it into her heart]
+*The Witch looks at him, not just with contempt, but a tinge of sadness*.
 
-Cinderella: [entering] No!
+**WITCH**: Deadly serious.
 
-Everyone freezes. Rapunzel’s song starts playing on the harp. 
+*She pulls out the branch and gazes up into the sky*.
 
-Jack: My harp! 
+**WITCH**: I am sorry, mother. You were right. Mortals and magic were never meant to mix. This land must be returned to the wild. What went wrong must be made right. [*lifts the thorn into the moonlight*] Accept my sacrifice, and restore this giant back to life, so that my daughter may return to her life. [*prepares to plunge it into her heart*]
 
-Witch: [stunned] That... song. It’s... not quite the one I taught Rapunzel...
+**CINDERELLA**: [*entering*] No!
 
-Cinderella walks slowly up to the Witch, and gravely hands her the harp. The music stops.  
+*Everyone freezes. Rapunzel’s song starts playing on the harp*.
 
-Witch: Who... how... do you know that song?
+**JACK**: My harp!
 
-Harp: [softly] I wrote it... for you. 
+**WITCH**: [*stunned*] That... song. It’s... not quite the one I taught Rapunzel...
 
-Witch: [dropping the harp, stepping back] M... Mo.... Mother?!
+*Cinderella walks slowly up to the Witch, and gravely hands her the harp. The music stops*.
 
-The Harp riffs on Rapunzel’s motif to create a song of sadness, regret, and longing.  
+**WITCH**: Who... how... do you know that song?
 
-When she finishes, there is a moment of silence. 
+**HARP**: [*softly*] I wrote it... for you.
 
-Harp: I will not ask you for forgiveness. But I will ask you this. Don’t do it. Don’t throw your life away.  Don’t... sacrifice yourself to raise this giant from the dead.  
+**WITCH**: [*dropping the harp, stepping back*] M... Mo... Mother?!
 
-Witch; What, so I can become like you? Ascend to a higher plane, a lifeless object who cares only about her own music?  No, Mother.  I was you once. No more.  I finally found something worth living for. Worth dying for.  Something you could never understand. 
+*The Harp riffs on Rapunzel’s motif to create a song of sadness, regret, and longing*.
 
-[She pulls out the beans]
+*When she finishes, there is a moment of silence*.
 
-Witch: These beans, when watered by my blood, will raise the giant back to life.  The giantess can come live with him here, and Rapunzel will join them.  And... [voice breaking] my grandchildren will join her. It [looking sadly at the harp] it is all the magic I have left.  
+**HARP**: I will not ask you for forgiveness. But I will ask you this: Don’t do it. Don’t throw your life away. Don’t... sacrifice yourself to raise this giant from the dead.
 
-Harp. No! [violently. Everyone jumps, shocked.  She continues quietly.]. You have me. I... I can raise the giant. Please... please don’t kill your self.  
+**WITCH**: What, so I can become like you? Ascend to a higher plane, a lifeless object who cares only about her own music? No, Mother. I was you once. No more. I finally found something worth living for. Worth dying for. Something you could never understand.
 
-Witch:  No! I’d rather die than live with again as your captive. [raises the thorn]
+[*She pulls out the beans*]
 
-[The harp laughs bitterly.] 
+**WITCH**: These beans, when watered by my blood, will raise the giant back to life. The giantess can come live with him here, and Rapunzel will join them. And... [*voice breaking*] my grandchildren will join her. [*looking sadly at the harp*] It is all the magic I have left.
 
-Harp: That won’t be a problem. Let me do this... and I promise you will never see me again. 
+**HARP**: No! [*violently. Everyone jumps, shocked. She continues quietly.*]. You have me. I... I can raise the giant. Please... please don’t kill yourself.
 
-Witch: [snarling] And why should I believe you?
+**WITCH**: No! I’d rather die than live with you again as your captive. [*raises the thorn*]
 
-Harp: [proudly] Because you will kill me with your own hands! 
+[*The harp laughs bitterly.*]
 
-[There is a stunned silence as everyone absorbs this. The Witch’s expression is indecipherable]
+**HARP**: That won’t be a problem. Let me do this... and I promise you will never see me again.
 
-Cinderella: No!
+**WITCH**: [*snarling*] And why should I believe you?
 
-The Harp lets out a long wail. 
+**HARP**: [*proudly*] Because you will kill me with your own hands!
 
-Harp: Please. You... of all people... should know I deserve this.  For I was the one who -- out of jealousy -- killed your mother. 
+[*There is a stunned silence as everyone absorbs this. The Witch’s expression is indecipherable*]
 
-Cinderella starts in horror, and begins to violently tremble.  
+**CINDERELLA**: No!
 
-Suddenly Cinderella’s Prince appears with a sword. He has a wild uncertain look on his face as he approaches the Harp. 
+*The Harp lets out a long wail*.
 
-Prince: [savagely] Then forget the Giant! Bring my wife’s mother back from the dead!
+**HARP**: Please. You... of all people... should know I deserve this. For I was the one who -- out of jealousy -- killed your mother.
 
-Everyone gasps. Cinderella looks at her Prince as if she’s never seen him before.  
+*Cinderella starts in horror, and begins to violently tremble*.
 
-The Harp chimes gently.  
+*Suddenly Cinderella’s Prince appears with a sword. He has a wild uncertain look on his face as he approaches the Harp*.
 
-Harp: I’m.... sorry. Her death was too long ago. Even my life isn’t enough to bring her back. 
+**PRINCE**: [*savagely*] Then forget the Giant! Bring my wife’s mother back from the dead!
 
-Prince: [despairingly] Then take mine! 
+*Everyone gasps. Cinderella looks at her Prince as if she’s never seen him before*.
 
-He holds the sword out, point against his own breast.  The crowd gasps. He is weeping. Cinderella is open-mouthed in astonishment. 
+*The Harp chimes gently*.
 
-The Prince falls to his knees before the Harp -- but does not let go of the sword. 
+**HARP**: I'm... sorry. Her death was too long ago. Even my life isn't enough to bring her back.
 
-Prince: Please.  My wife... she deserves someone to love her. To truly value her for who she is, not what she does. The way I never did. Or ever could.  
+**PRINCE**: [*despairingly*] Then take mine!
 
-“No!”
+*He holds the sword out, point against his own breast. The crowd gasps. He is weeping. Cinderella is open-mouthed in astonishment*.
 
-Everyone turns, and is startled to see it was Cinderella who spoke. Perhaps she is too, but she rallies quickly. She walks over and plucks the sword from his suddenly nerveless fingers, and tosses it away.  
+*The Prince falls to his knees before the Harp -- but does not let go of the sword*.
 
-He stares at her with wild eyes. 
-She bends down next to him and takes his hands.  
+**PRINCE**: Please. My wife... she deserves someone to love her. To truly value her for who she is, not what she does for others. The way I never did. Or ever could.
 
-Cinderella: [softly] You hurt me deeply. [he flinches away, but she doesn’t let go] But... it wasn’t all your fault.  I... [pauses] never considered the pressures of being a Prince. I too [swallowing] only worried about whether you loved me, not... what it meant... to love you.  [deep breath]. Perhaps.... [smiling] we can learn together?
+**CINDERELLA**: No!
 
-The Prince looks at her as if he had never seen her before, with eyes shining. He tries to speak, but cannot. He lowers his eyes and grips her hands tightly, pulling her closer.
+*Everyone turns, and is startled to see it was Cinderella who spoke. Perhaps she is too, but she rallies quickly. She walks over and plucks the sword from his suddenly nerveless fingers, and tosses it away.*
 
-She leans forward and kissing him on the forehead. He breaks down and collapses into her arms, sobbing. She murmurs to him soothingly.  
+*He stares at her with wild eyes.*
+*She bends down next to him and takes his hands.*
 
-Harp: Quickly! The time is short. This is the last midnight. You must... unstring me. 
+**CINDERELLA**: [*softly*] You hurt me deeply. [*he flinches away, but she doesn't let go*] But... it wasn't all your fault. I... [*pauses*] never considered the pressures of being a Prince. I too [*swallowing*] only worried about whether you loved me, not... what it meant... to love you. [*deep breath*]. Perhaps... [*smiling*] we can learn together?
 
-Witch: Mother... I... I...  
+*The Prince looks at her as if he had never seen her before, with eyes shining. He tries to speak, but cannot. He lowers his eyes and grips her hands tightly, pulling her closer*.
 
-The Harp plays a heartbreakingly beautiful arpeggio. 
+*She leans forward and kissing him on the forehead. He breaks down and collapses into her arms, sobbing. She murmurs to him soothingly*.
 
-Harp: Hush. You don’t need to say anything. I have said it all to myself many times. I purchased this life at a terrible price, and it is the kindest thing you can do let me undo it. 
+**HARP**: Quickly! The time is short. This is the last midnight. You must... unstring me.
 
-The Witch, seized with a sudden fury, runs at her with the Prince’s dropped sword. 
+**WITCH**: Mother... I... I...
 
-Harp: [softly] Goodbye, my love 
+*The Harp plays a heartbreakingly beautiful arpeggio*.
 
-At the last second, the Witch drops the sword and falls to the ground weeping. 
+**HARP**: Hush. You don’t need to say anything. I have said it all to myself many times. I purchased this life at a terrible price, and it is the kindest thing you can do is let me undo it.
 
-Witch:  I... I can’t. I so want to hate you.  But then I realize... I became you.  To love... and to let go...  it never gets easier, does it?
+*The Witch, seized with a sudden fury, runs at her with the Prince’s dropped sword*.
 
-Harp: [tenderly] No... it does not. 
+**HARP**: [*softly*] Goodbye, my love
 
-Witch: [picking up the sword again] Much easier, I think... just to die.  [raises the sword and starts jabbing it into her own breast again]
+*At the last second, the Witch drops the sword and falls to the ground weeping*.
 
-Rapunzel: No!
+**WITCH**: I... I can’t. I so want to hate you. But then I realize... I became you. To love... and to let go... it never gets easier, does it?
 
-Everyone starts in shock. The Witch shrieks as the sword pierces her and she falls. Rapunzel runs in and kneels at her side.  Hurriedly she takes a lock of hair from her pocket and stuffs it in the Witch’s wound.  
+**HARP**: [*tenderly*] No... it does not.
 
-Witch: You... came back?
+**WITCH**: [*picking up the sword again*] Much easier, I think... just to die. [*raises the sword and starts jabbing it into her own breast again*]
 
-Rapunzel sniffles. 
+**RAPUNZEL**: No!
 
-R. [shyly] I heard the whole thing. I thought motherhood was all about control and self-protection, and wanted no part of it. But then I saw you... and grandmother... and I realized...
+*Everyone starts in shock. The Witch shrieks as the sword pierces her and she falls. Rapunzel runs in and kneels at her side. Hurriedly she takes a lock of hair from her pocket and stuffs it in the Witch’s wound*.
 
-Just then Rapunzel’s Prince enters from the other side carrying their twins.  
+**WITCH**: You... came back?
 
-With a cry Rapunzel jumps up and gathers her babies to her. The Prince stands back, shyly, unsure of his welcome.  She smile, adjusts the babies, and mouths “Thank you.” He kneels before her. 
+*Rapunzel sniffles*.
 
-R Prince: I know I was a better lover than I was a husband.  But these last few days [glances at the Baker] I think I’ve finally learned what it means to be a father. I would like to... try again. If [looking down] you will have me. 
+**RAPUNZEL**: [*shyly*] I heard the whole thing. I thought motherhood was all about control and self-protection, and wanted no part of it. But then I saw you... and grandmother... and I realized...
 
-Rapunzel looks at him for a long moment. Then leans over and kisses him on the top of his head. He looks up, startled and grinning foolishly.  She holds out a hand and helps him up.  And keeps holding on as she hands him one of the babies. 
+*Just then Rapunzel's Prince enters from the other side carrying their twins*.
 
-The Baker’s Wife enters and nods approvingly at Rapunzel, and respectfully to the Witch. The Baker walks up to stand beside her.  
+*With a cry Rapunzel jumps up and gathers her babies to her. Her Prince stands back, shyly, unsure of his welcome. She smiles, adjusts the babies, and mouths "Thank you." He kneels before her*.
 
-Baker: So... what happens to the Giant?
+**RAPUNZEL'S PRINCE**: I know I was a better lover than a husband. But these last few days [*glances at the Baker*] I think I've finally learned what it means to be a father. I would like to... try again. If [*looking down*] you will have me.
 
-Rapunzel: [sighing] I think we should let him rest in peace. 
+*Rapunzel looks at him for a long moment. Then leans over and kisses him on the top of his head. He looks up, startled and grinning foolishly. She holds out a hand and helps him up. And keeps holding on as she hands him one of the babies*.
 
-Baker’s Wife: What about the giantess?
+*The Baker’s Wife enters and nods approvingly at Rapunzel, and respectfully to the Witch. The Baker walks up to stand beside her*.
 
-Rapunzel: [frowns] I think she’s ready to let him go. [eyes narrowing] But she’s still my best friend!  I’m not leaving her.   I am NOT going back to the castle to be locked up again. 
+**BAKER**: So... what happens to the Giant?
 
-R Prince: Then neither am I!
+**RAPUNZEL**: [*sighing*] I think we should let him rest in peace.
 
-Prince:  Neither are we! [Cinderella starts. He smiles] We can build our house -- our family -- around your mother’s tree, so you can see her whenever you want.
+**WIFE**: What about the giantess?
 
-Cinderella stares at him. 
+**RAPUNZEL**: [*frowns*] I think she's ready to let him go. [*eyes narrowing*] But she's still my best friend! I'm not leaving her. I am NOT going back to the castle to be locked up again.
 
-C. Are you... sure?  
+**RAPUNZEL'S PRINCE**: Then neither am I!
 
-P. [firmly] More sure than I’ve ever been of anything in my life. 
+**CINDERELLA'S PRINCE**: Neither are we! [*Cinderella starts. He smiles*] We can build our house -- our family -- around your mother's tree, so you can see her whenever you want.
 
-Steward: [spluttering] But... you can’t both leave. Who would rule the kingdom?
+*Cinderella stares at him*.
 
-The two Princes look at each other. C Prince winks. R Prince grins and walks over to the Steward, and hands him a crown. 
+**CINDERELLA**: Are you... sure?
 
-R Prince: I think we all know who’s really been running the kingdom all these years.  I think it is high time you finally get the honor to go with the responsibility.  
+**PRINCE**: [*firmly*] More sure than I’ve ever been of anything in my life.
 
-Steward: [stunned] But... the King... 
+**STEWARD**: [*spluttering*] But... you can't both leave. Who would rule the kingdom?
 
-Witch: [smiling saucily] I’m sure he will be fine with it. [eyes glinting] one way or another.  
+*The two Princes look at each other. Cinderella's Prince winks. Rapunzel's Prince grins and walks over to the Steward, and hands him a crown*.
 
-Jack: Wondeful! Does that mean everyone will live happily ever after?
+**RAPUNZEL'S PRINCE**: I think we all know who's really been running the kingdom all these years. I think it is high time you finally get the honor to go with the responsibility.
 
-Baker: No!
+**STEWARD**: [*stunned*] But... the King...
 
-Everyone stares at him in shock.  
+**WITCH**: [*smiling saucily*] I’m sure he will be fine with it. [*eyes glinting*] one way or another.
 
-Baker: [embarrassed] I mean... let’s be reasonable. This area is now outside the Kingdom, right in the middle of the woods.  All you have are two Princes with no kingdom, two witches without powers, and no ruler to organize everything. How will you work together enough to survive?
+**JACK**: Wonderful! Does that mean everyone will live happily ever after?
 
-Shockingly, nobody seems upset. Just... thoughtful.  Then one by one, they turn to look at the Baker. 
+**BAKER**: No!
 
-Baker: Why... why are you staring at me like that?
+*Everyone stares at him in shock.*
 
-Red: [slowly] So, you say we need a way to deal with wolves and other threats. 
+**BAKER**: [*embarrassed*] I mean... let’s be reasonable. This area is now outside the Kingdom, right in the middle of the woods. All you have are two Princes with no kingdom, two witches without powers, and no ruler to organize everything. How will you work together enough to survive?
 
-Baker: Exactly!
+*Shockingly, nobody seems upset. Just... thoughtful. Then one by one, they turn to look at the Baker*.
 
-Mrs. Baker: ... and negotiate deals with witches and giants. 
+**BAKER**: Why... why are you staring at me like that?
 
-Baker: Of course!
+**RED**: [*slowly*] So, you say we need a way to deal with wolves and other threats.
 
-Cinderella: And stand up to royalty, to ensure our needs and heard and respected. 
+**BAKER**: Exactly!
 
-Baker: Now you get it.  
+**WIFE**: ... and negotiate deals with witches and giants.
 
-Everyone starts looking at each other.  Mrs. Baker starts smiling. 
+**BAKER**: Of course!
 
-Baker: [started] Wait.  Why are you so happy all of a sudden?
+**CINDERELLA**: And stand up to royalty, to ensure our needs and heard and respected.
 
-Wife: So... so you are saying we need a system... or a person... that can bring us together, to deal with all these challenges... 
+**BAKER**: Now you get it.
 
-Baker: [nervously, unsure where this is going] Uh, yes.  
+*Everyone starts looking at each other. Mrs. Baker starts smiling*.
 
-Grandma: Someone brave. 
+**BAKER**: [*started*] Wait. Why are you so happy all of a sudden?
 
-Rapunzel: Kind
+**WIFE**: So... so you are saying we need a system... or a person... that can bring us together, to deal with all these challenges...
 
-Jack: Generous
+**BAKER**: [*nervously, unsure where this is going*] Uh, yes.
 
-C Prince: Trustworthy
+**GRANNIE**: Someone brave.
 
-One by one, they all start smiling at Baker. 
+**RAPUNZEL**: Kind.
 
-Baker:  why... why are you looking at me like that. 
+**JACK**: Generous.
 
-Witch: I hereby nominate the Baker as Mayor of Giantland!
+**CINDERELLA'S PRINCE**: Trustworthy.
 
-Everyone cheers, except Baker
+*One by one, they all start smiling at Baker*.
 
-Baker:  [crying] What? You are all crazy. I am.... [downcast] a failure. I’m a terrible husband, a worse father, a coward and a liar.  
+**BAKER**: why... why are you looking at me like that.
 
-Harp. We know.  And we know... we are no better than you.  
+**WITCH**: I hereby nominate the Baker as Mayor of Giantland!
 
-Witch: But you... [deep breath]  have the courage to admit it.  
+*Everyone cheers, except Baker*.
 
-Wife: And transcend it. 
+**BAKER**: [*crying*] What? You are all crazy. I am... [*downcast*] a failure. I'm a terrible husband, a worse father, a coward and a liar.
 
-Jack: And challenge the rest of us to do better. 
+**HARP**: We know. And we know... we are no better than you.
 
- Baker: But don’t you see? I couldn’t have done any of that without all of you. 
+**WITCH**: But you... [*deep breath*] have the courage to admit it.
 
-The Baker’s Wife walks over to give hi a big kiss, then hugs him close. 
+**WIFE**: And transcend it.
 
-Wife: And you don’t have to!
+**JACK**: And inspire the rest of us to do better.
 
-Baker: What?
+ **BAKER**: But don’t you see? I couldn’t have done any of that without all of you.
 
-Steward:A Council!
+*The Baker’s Wife walks over to give him a big kiss, then hugs him close*.
 
-R Prince: Of course! Like in days of old, where each tribe had someone to represent their interests before the King. 
+**WIFE**: And you don't have to!
 
-Baker: But I’m no King!
+**BAKER**: What?
 
-Red: No, silly you’re a Mayor. So this would be the Mayor’s Council. Let’s see. Rapunzel can represent the Giantess, one the Prince’s can represent the Kingdom, the Witch, well, Witches; and Jack’s mother the villagers!
+**STEWARD**: A Council!
 
-C Prince: Women on a Council?  [steely glares from Cinderella et al] What a.. wonderful idea [weekly]
+**RAPUNZEL'S PRINCE**: Of course! Like in days of old, where each tribe had someone to represent their interests before the King.
 
-Baker: But... I’ ve always been  a Baker. That’s who I am. I don’t know how to be anything else. I don’t even know my real name. After my parents died... or whatever... they just called me Baker after my father. I don’t think I can be anything else. 
+**BAKER**: But I’m no King!
 
-[Long pause]
+**RED**: No, silly you're a Mayor. So this would be the Mayor's Council. Let's see. Rapunzel can represent the Giantess, one the Princes can represent the Kingdom, the Witch, well, Witches; and Jack's mother the villagers!
 
-Mysterious Stranger: Yes. Yes you can.  
+**CINDERELLA'S PRINCE**: Women on a Council? [*steely glares from Cinderella et al*] What a.. wonderful idea [*weakly*]
 
-[Everyone turns to him as Baker’s father enters. Except Rapunzel, who turns away. He pauses, and walks up to stand behind her.]
+**BAKER**: But... I’ ve always been a Baker. That’s who I am. I don’t know how to be anything else. I don’t even know my real name. After my parents died... or whatever... they just called me Baker after my father. I don’t think I can be anything else.
 
-M. [quietly] What I did to lose you... was unthinkable. And unforgivable. 
+[*Long pause*]
 
-R. [whirling] I don’t care about that. How come you never came to see me? How come you only appeared to HIM! [angrily pointing to Baker] 
-Was it because [broken] you... you never considered me your daughter? [starts weeping]
+**MYSTERIOUS STRANGER**: Yes. Yes, you can.
 
-M [gathers her in his arms. She stiffens, then collapses as he strokes her hair] Oh, my precious child. It was never about you. I was too ashamed of myself, and seeing you only reminded me of the horrible, foolish things I had done.  [looks over at Baker] I only sought him out to manipulate him into trying to fix my mistakes [laughing bitterly] I was merely too weak to do the same to you. 
+[*Everyone turns to him as Baker’s father enters. Except Rapunzel, who turns away. He pauses, and walks up to stand behind her.*]
 
-[There is a long silence. Then he straightens]
+**MYSTERIOUS STRANGER**: [*quietly*] What I did to lose you... was unthinkable. And unforgivable.
 
-M. No more!  My time grows short. There is one task left undone that still binds me to earth.  Come!  [he takes her hand and leads her to Baker, joining their hands, then steps back]
+**RAPUNZEL**: [*whirling*] I don’t care about that. How come you never came to see me? How come you only appeared to HIM! [*angrily pointing to Baker*]
+Was it because [*broken*] you... you never considered me your daughter? [*starts weeping*]
 
-M. [looks at R] You never knew your name.  [looks at B] You don’t remember yours.  [sadly] How can you move forward if you never knew who you were.  [standing up straight]
+**MYSTERIOUS STRANGER**: [*gathers her in his arms. She stiffens, then collapses as he strokes her hair*] Oh, my precious child. It was never about you. I was too ashamed of myself, and seeing you only reminded me of the horrible, foolish things I had done. [*looks over at Baker*] I only sought him out to manipulate him into trying to fix my mistakes [*laughing bitterly*] I was merely too weak to do the same to you.
 
-M. [Looking at Baker] Your true name is Marshall -- after your mother’s grandfather, a mighty soldier -- because you were destined to be a leader of men. 
+[*There is a long silence. Then he straightens*]
 
-[Baker steps back in awe. Standing tall, even regal. The villagers notice the transformation. Some even gasp]
+**MYSTERIOUS STRANGER**: No more! My time grows short. There is one task left undone that still binds me to earth. Come! [*he takes her hand and leads her to Baker, joining their hands, then steps back*]
 
-M. [turning to R] And you... [voice breaking] we never dared speak it aloud... but just between the two of us.... in whispers... [weakening]... we called you Grace!
+**MYSTERIOUS STRANGER**: [*looks at Rapunel*] You never knew your name. [*looks at Baker*] You don’t remember yours. [*sadly*] How can you move forward if you never knew who you were. [*standing up straight*]
 
-[There is a flash of blinding light... and when they look again... he is gone]
+**MYSTERIOUS STRANGER**: [*Looking at Baker*] Your true name is Marshall -- after your mother’s grandfather, a mighty soldier -- because you were destined to be a leader of men.
 
-R.  Father! [searching wildly]
+[*Baker steps back in awe. Standing tall, even regal. The villagers notice the transformation. Some even gasp.*]
 
-[Baker runs over to her and takes her hand]
+**MYSTERIOUS STRANGER**: [*turning to Rapunzel*] And you... [*voice breaking*] we never dared speak it aloud... but just between the two of us... in whispers... [*weakening*]... we called you Grace!
 
-B. It’s okay... Grace. He finished his work. He is at peace.  
+[*There is a flash of blinding light... and when they look again... he is gone*]
 
-Rapunzel... relaxes. The anger and pain that had stiffened her seems to flow out of her body.  
+**RAPUNZEL**: Father! [*searching wildly*]
 
-Harp starts to sing R’s song, but modulated, turning it into a lament.  The Witch joins her in song, and walks over to pick up the harp.  Which gasps in joy, but continues the song. 
+[*Baker runs over to her and takes her hand*]
 
-Rapunzel looks at Baker, who smiles and nods. She takes a deep breath and starts singing with them.. and slowly walks over and stands by the witches.  Not touching them, but singing her heart out in shared grief and loss.  
+**BAKER**: It’s okay... Grace. He finished his work. He is at peace.
 
-The villagers gather around Marshall, watching the witches in wonder. His wife leans over and whispers in his ear, under the music:
+*Rapunzel... relaxes. The anger and pain that had stiffened her seems to flow out of her body*.
 
-W. I love you, Marshall. 
+*Harp starts to sing Rapunzel’s song, but modulated, turning it into a lament. The Witch joins her in song, and walks over to pick up the harp. Which gasps in joy, but continues the song*.
 
-He blushes furiously.  The villagers laugh as the witch music fades. His wife motions him forward.  He climbs onto a tree stump and faces them.  
+*Rapunzel looks at Baker, who smiles and nods. She takes a deep breath and starts singing with them... and slowly walks over and stands by the witches. Not touching them, but singing her heart out in shared grief and loss*.
 
-He looks over the many faces. Friends, enemies, family.  He tries to speak... but cannot. 
+*The villagers gather around Marshall, watching the witches in wonder*.
 
-Jack: [sings softly, then stronger] Into the Woods, you had to go, to show us all the way to grow
+**WIFE**: [*leans over and whispers in his ear, under the music*] I love you, Marshall.
 
-Red: Into the woods, though out of breath, to save us all from life and death
+*He blushes furiously. The villagers laugh as the witch music fades. His wife motions him forward. He climbs onto a tree stump and faces them*.
 
-Wife: The way was dark. We feared the cost. 
+*He looks over the many faces. Friends, enemies, family. He tries to speak... but cannot*.
 
-R. But now we’ve regained what was lost
+**JACK**: [*sings softly, then stronger*] Into the Woods, you had to go, to show us all the way to grow
 
-R Prince: Who needs a crown?
+**RED**: Into the woods, though out of breath, to save us all from life and death.
 
-C. Or gorgeous gown?
+**WIFE**: The way was dark. We feared the cost.
 
-All: As long as love rules in a town. 
+**RAPUNZEL**: But now we’ve regained what was lost.
 
-Baker:  Your Marshall I’ll be. 
+**RAPUNZEL's PRINCE**: Who needs a crown?
 
-C Prince: [to C] I’ll honor her tree. 
+**CINDERELLA**: Or gorgeous gown?
 
-Witch: [to Harp] And stop avoiding family 
+**ALL**: As long as love rules in our town.
 
+**BAKER**: Your Marshall I'll be.
 
-All: For...
+**CINDERELLA'S PRINCE**:  [*to Cinderella*] I'll honor her tree.
 
-Into the Woods we now will live
-To own the land the King did give 
-Over the Woods and down below 
-To live the names we now can know 
+**WITCH**: [*to Harp*] And stop avoiding family.
 
-Into the Woods
-Over the Woods
+**ALL**: For...
+*Into the Woods we now will live*  
+*To own the land the King did give*  
+*Over the Woods and down below*  
+*To live the names we now can know*
 
-Into the Woods and Over the Woods...
+*Into the Woods*  
+*Over the Woods*
 
-And Happy Ever After!
+*Into the Woods and Over the Woods...*
 
-Cinderella: I know!
+*And Happy Ever After!*
 
-
-
+**CINDERELLA**: I know!
