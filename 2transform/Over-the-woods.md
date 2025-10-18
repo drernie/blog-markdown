@@ -6,9 +6,9 @@
 
 ### Scene 1: Back In The Woods
 
-*The Baker enters from downstage left. Head down, muttering to himself, apparently deep in thought.*
+*The Baker enters from downstage left. Head down, muttering to himself, apparently deep in thought*.
 
-*Mysterious Stranger enters from upstage right, and watches the Baker from behind a tree.*
+*Mysterious Stranger enters from upstage right, and watches the Baker from behind a tree*.
 
 **MYSTERIOUS STRANGER**: Huh!
 
@@ -160,7 +160,7 @@
 
 ### Scene 4: Still In The Woods
 
-**BAKER**: ...and I only found out about it when the Witch asked us to make the potion that restored her youth, and enabled us to have a child.
+**BAKER**: ... and I only found out about it when the Witch asked us to make the potion that restored her youth, and enabled us to have a child.
 
 **RAPUNZEL**: [*still in shock*] I... have a brother. The Witch... wasn't my mother.
 
@@ -170,7 +170,7 @@
 
 *The Baker stares at her tirade in shock*.
 *Rapunzel starts back, afraid he is going to run off*.
-*Instead, he steps forward.... and gives her a hug*.
+*Instead, he steps forward... and gives her a hug*.
 
 **BAKER**: I... am so sorry. For everything. I didn’t realize you had it so much worse than me.
 
@@ -188,9 +188,9 @@
 
 **RAPUNZEL**: Beanstalk? How could that help us?
 
-**BAKER**: You’ve never... nobody told... forget about it. Hurry. Here, let me help you up....
+**BAKER**: You've never... nobody told... forget about it. Hurry. Here, let me help you up...
 
-[*Exit, Stage Left*]
+*They exit stage left*.
 
 ### Scene 5: Giants In The Sky
 
@@ -260,7 +260,7 @@
 
 **WIFE**: Baker!
 
-**RED**: ...Baker who saved us from the wolf?
+**RED**: ... Baker who saved us from the wolf?
 
 **GRANNIE**: Yes, of course. So nice to let us have the skin. [*cackling*]
 
@@ -314,9 +314,9 @@
 
 **BAKER**: Because my sister is married to the younger Prince Charming!
 
-**WIFE**: Yes! Let’s go see the Princes... I mean, rescue your sister!
+**WIFE**: Yes! Let's go see the Princes... I mean, rescue your sister!
 
-### Scene 6: The Castle
+### Scene 7: The Castle
 
 *Cinderella is sitting doing embroidery.*
 
@@ -410,17 +410,17 @@
 
 *She runs excitedly off stage*.
 
-### Scene 7; Jack’s House
+### Scene 8: Jack's House
 
 *Jack is sitting inside happily milking Milky White*.
 
-**JACK**: Isn’t it amazing how well he gives milk after being raised from the dead?
+**JACK**: Isn't it amazing how well he gives milk after being raised from the dead?
 
-**JACK's MOM**: Yes, dear, but why O why do you have to milk *her* inside the house? Why milk her at all when we can just buy milk?
+**JACK'S MOM**: Yes, dear, but why O why do you have to milk *her* inside the house? Why milk her at all when we can just buy milk?
 
-**JACK**: But he enjoys it so much, doesn’t he?
+**JACK**: But he enjoys it so much, doesn't he?
 
-**JACK's MOM**: [*sighing*] O Jack, whatever will become of you when I’m gone?
+**JACK'S MOM**: [*sighing*] O Jack, whatever will become of you when I'm gone?
 
 *Commotion outside. The Peasants arrive. Jack stands up to greet them warmly*.
 
@@ -446,25 +446,25 @@
 
 **JACK**: Oh wait, I have an idea [*rushes into another room*]
 
-*Jack’s mom turns to the Baker’s Wife*.
+*Jack's mom turns to the Baker's Wife*.
 
-**JACK's MOM**: Please, isn’t there anything you can do to stop them ? He’s so young.
+**JACK'S MOM**: Please, isn't there anything you can do to stop them ? He's so young.
 
-**WIFE**: Don’t worry. I promise we won’t let him out our sight. He will be fine. Who knows, he might even surprise you!
+**WIFE**: Don't worry. I promise we won't let him out our sight. He will be fine. Who knows, he might even surprise you!
 
-**JACK's MOM**: [*muttering*] That’s what I’m afraid of.
+**JACK'S MOM**: [*muttering*] That's what I'm afraid of.
 
-**JACK**: [*returning*] What’s that, mother?
+**JACK**: [*returning*] What's that, mother?
 
-**JACK's MOM**: [*flustered*] I said, be sure to keep your scarf on!
+**JACK'S MOM**: [*flustered*] I said, be sure to keep your scarf on!
 
 **JACK**: What scarf?
 
-**JACK's MOM**: [*stares helplessly for a moment, then her eyes go wide*] Ah! This scarf...
+**JACK'S MOM**: [*stares helplessly for a moment, then her eyes go wide*] Ah! This scarf...
 
 *Rummages around in a chest and pulls out a scarf. Stops to regard it tenderly*.
 
-**JACK's MOM**: It... it was your father’s, Jack. He used to wear it to cut wood. I guess... maybe you are old enough to wear it.
+**JACK'S MOM**: It... it was your father's, Jack. He used to wear it to cut wood. I guess... maybe you are old enough to wear it.
 
 *She wraps it around him, kisses his cheek, then runs off to hide her tears*.
 
@@ -472,7 +472,7 @@
 
 *All exit.*
 
-### Scene 8: The Woods
+### Scene 9: The Woods
 
 *Cinderella walks in disguised in her old rags, taking to her bird friends*.
 
@@ -557,7 +557,7 @@
 
 *She suddenly collapses into violent sobs. The Baker’s Wife is shocked at first , but then shifts the baby around and gathers Cinderella into her bosom, and comforts her while she weeps*.
 
-### Scene 9: Giantess In The Sky
+### Scene 10: Giantess In The Sky
 
 *The Baker and Jack creep quietly back onstage*.
 
@@ -605,12 +605,12 @@
 
 *Turns to walk away*.
 
-**BAKER**: Please.... sister. Come back home with us.
+**BAKER**: Please... sister. Come back home with us.
 
 *Rapunzel turns and stalks toward him*.
 *The men shrink back from her fury*.
 
-**RAPUNZEL**: Home? I’ve never had a home! Just a series of prisons. This is my home. The Giantess agrees with me. All humans... all men! ...are selfish, greedy, controlling bastards.
+**RAPUNZEL**: Home? I've never had a home! Just a series of prisons. This is my home. The Giantess agrees with me. All humans... all men! ... are selfish, greedy, controlling bastards.
 
 *Rapunzel laughs. Her face is transformed into a mad sort of joy*.
 
@@ -643,9 +643,9 @@
 
 *Ethereal music starts to play...*
 
-### Scene 10: The Woods
+### Scene 11: The Woods
 
-*The Baker’s Wife wanders in from stage left, apparently lost in thought*.
+*The Baker's Wife wanders in from stage left, apparently lost in thought*.
 *Cinderella’s Prince strides in*.
 *He stops when he sees her*.
 *His lips curl into a smile reminiscent of the Wolf*.
@@ -680,9 +680,9 @@
 
 *She leads him offstage*.
 
-### Scene 11: Grandmother’s House
+### Scene 12: Grannie's House
 
-*Jack and the Baker finish relating their failure to Red and Grandma*.
+*Jack and the Baker finish relating their failure to Red and Grannie*.
 
 **BAKER**: I don’t know. Maybe she’s right, and I’m being selfish to want her to leave the giant.
 
@@ -719,11 +719,11 @@
 **JACK**: I’ll do better. I’ll show you!
 
 *He grabs Red by the hand and runs off, with the Baker scurrying after*.
-*Grandma stays behind, watching them, clicking her tongue*.
+*Grannie stays behind, watching them, clicking her tongue*.
 
-### Scene 12: Cinderella’s Tree
+### Scene 13: Cinderella's Tree
 
-*Cinderella is backstage facing the tree of her mother, holding the Baker’s baby, talking softly*.
+*Cinderella is backstage facing the tree of her mother, holding the Baker's baby, talking softly*.
 
 *The Prince and the Baker’s Wife enter from stage left*.
 
@@ -787,9 +787,9 @@
 *Cinderella stands and looks about thoughtfully, wondering if she actually saw and heard what she thought she did*.
 *Then a thought strikes her, and she gathers her skirts and runs off*.
 
-### Scene 13: The Witch’s House
+### Scene 14: The Witch's House
 
-*Gothel the Witch sits outside her house next to the Baker’s*.
+*Gothel the Witch sits outside her house next to the Baker's*.
 *She wistfully strokes the hair she cut off from Rapunzel before casting her into the desert, humming snatches of Rapunzel’s song*.
 *She hears Jack shouting, and hurriedly tries to hide the hair behind her*.
 
@@ -903,7 +903,7 @@
 
 ## HALFTIME
 
-### Scene 14: Rapunzel In The Sky
+### Scene 15: Rapunzel In The Sky
 
 *Rapunzel is walking along, happily singing her song.*  
 *Suddenly she stops.*  
@@ -953,11 +953,11 @@
 
 *Harp spills out a series of notes, like rain weeping*.
 
-**HARP**: [*quietly*] No. No, she is not.... I was.
+**HARP**: [*quietly*] No. No, she is not... I was.
 
 *And then Harp begins sobbing. Great, anguished, human cries of grief*.
 
-### Scene 15: The King’s Bedroom
+### Scene 16: The King's Bedroom
 
 *The King is lying in bed*.
 *Feminine giggles sound from offstage*.
@@ -1003,7 +1003,7 @@
 *The Witch stares at him, lifts the dagger high, then plunges it down... into the bedding, a hairs-breadth from the King*.
 *She collapses on top of him, weeping. The King murmurs her name softly as he strokes her hair comfortingly*.
 
-### Scene 16: Back In The Land Above
+### Scene 17: Back In The Land Above
 
 *Rapunzel is cradling the harp*.
 
@@ -1043,7 +1043,7 @@
 
 **HARP**: Yes [*plays a lamenting tune*]
 
-**RAPUNZEL**: Then.... I have nothing more to say to you. Goodbye. [*stomps off*]
+**RAPUNZEL**: Then... I have nothing more to say to you. Goodbye. [*stomps off*]
 
 *The Harp lying on the floor echoes her footsteps until she is offstage*.
 
@@ -1051,7 +1051,7 @@
 
 [*Plays a dirge-like version of Rapunzel’s theme*]
 
-### Scene 17: Back in The King’s Bedroom
+### Scene 18: Back in The King's Bedroom
 
 *The Witch has cried herself out, and sits up next to the King*.
 
@@ -1136,7 +1136,7 @@
 
 *The Witch exits*.
 
-### Scene 18: Back Above
+### Scene 19: Back Above
 
 *Cinderella enters from stage right, accompanied by birds*.
 
@@ -1198,9 +1198,9 @@
 
 *Cinderella picks her up and hurries offstage*.
 
-### Scene 19: Grandmothers House
+### Scene 20: Grannie's House
 
-*Jack and Red and sitting with Grandma and the Bakers. The Witch enters*.
+*Jack and Red and sitting with Grannie and the Bakers. The Witch enters*.
 
 **JACK**: Did he agree?
 
@@ -1222,7 +1222,7 @@
 
 **WITCH**: I have... some unfinished business to take care of. [*exits*]
 
-### Scene 20: Cinderella’s Grove
+### Scene 21: Cinderella's Grove
 
 *The Witch walks gingerly up to the tree*.
 
@@ -1240,9 +1240,9 @@
 
 **WITCH**: [*bowing low. Stands up. Chokes out:*] I... I’m so, so so sorry. [*then turns and dashes away*]
 
-### Scene 21: The Giant’s Grave
+### Scene 22: The Giant's Grave
 
-*It is the last midnight. All the peasants are gathered around Milky White and Jack’s Mother, muttering impatiently. Cinderella’s Prince and the Steward enter. The Steward hands the Prince a scroll*.
+*It is the last midnight. All the peasants are gathered around Milky White and Jack's Mother, muttering impatiently. Cinderella's Prince and the Steward enter. The Steward hands the Prince a scroll*.
 
 **PRINCE**: [*reading; bored yet pompous*] “By decree of the King, and to right an ancient wrong, this land is immediately and henceforth forevermore... [*pauses in shock*] ceded to the Giants from the Land Above?! And... all inhabitants must either leave, or voluntarily submit to Giant Law!!!?!”
 
@@ -1278,7 +1278,7 @@
 
 **HARP**: [*softly*] I wrote it... for you.
 
-**WITCH**: [*dropping the harp, stepping back*] M.. Mo.... Mother?!
+**WITCH**: [*dropping the harp, stepping back*] M... Mo... Mother?!
 
 *The Harp riffs on Rapunzel’s motif to create a song of sadness, regret, and longing*.
 
@@ -1322,7 +1322,7 @@
 
 *The Harp chimes gently*.
 
-**HARP**: I’m.... sorry. Her death was too long ago. Even my life isn’t enough to bring her back.
+**HARP**: I'm... sorry. Her death was too long ago. Even my life isn't enough to bring her back.
 
 **PRINCE**: [*despairingly*] Then take mine!
 
@@ -1339,7 +1339,7 @@
 *He stares at her with wild eyes.*
 *She bends down next to him and takes his hands.*
 
-**CINDERELLA**: [*softly*] You hurt me deeply. [*he flinches away, but she doesn’t let go*] But... it wasn’t all your fault. I... [*pauses*] never considered the pressures of being a Prince. I too [*swallowing*] only worried about whether you loved me, not... what it meant... to love you. [*deep breath*]. Perhaps.... [*smiling*] we can learn together?
+**CINDERELLA**: [*softly*] You hurt me deeply. [*he flinches away, but she doesn't let go*] But... it wasn't all your fault. I... [*pauses*] never considered the pressures of being a Prince. I too [*swallowing*] only worried about whether you loved me, not... what it meant... to love you. [*deep breath*]. Perhaps... [*smiling*] we can learn together?
 
 *The Prince looks at her as if he had never seen her before, with eyes shining. He tries to speak, but cannot. He lowers his eyes and grips her hands tightly, pulling her closer*.
 
@@ -1375,11 +1375,11 @@
 
 **RAPUNZEL**: [*shyly*] I heard the whole thing. I thought motherhood was all about control and self-protection, and wanted no part of it. But then I saw you... and grandmother... and I realized...
 
-*Just then Rapunzel’s Prince enters from the other side carrying their twins*.
+*Just then Rapunzel's Prince enters from the other side carrying their twins*.
 
 *With a cry Rapunzel jumps up and gathers her babies to her. Her Prince stands back, shyly, unsure of his welcome. She smiles, adjusts the babies, and mouths "Thank you." He kneels before her*.
 
-**RAPUNZEL's PRINCE**: I know I was a better lover than a husband. But these last few days [*glances at the Baker*] I think I've finally learned what it means to be a father. I would like to... try again. If [*looking down*] you will have me.
+**RAPUNZEL'S PRINCE**: I know I was a better lover than a husband. But these last few days [*glances at the Baker*] I think I've finally learned what it means to be a father. I would like to... try again. If [*looking down*] you will have me.
 
 *Rapunzel looks at him for a long moment. Then leans over and kisses him on the top of his head. He looks up, startled and grinning foolishly. She holds out a hand and helps him up. And keeps holding on as she hands him one of the babies*.
 
@@ -1391,11 +1391,11 @@
 
 **WIFE**: What about the giantess?
 
-**RAPUNZEL**: [*frowns*] I think she’s ready to let him go. [*eyes narrowing*] But she’s still my best friend! I’m not leaving her. I am NOT going back to the castle to be locked up again.
+**RAPUNZEL**: [*frowns*] I think she's ready to let him go. [*eyes narrowing*] But she's still my best friend! I'm not leaving her. I am NOT going back to the castle to be locked up again.
 
-**RAPUNZEL's PRINCE**: Then neither am I!
+**RAPUNZEL'S PRINCE**: Then neither am I!
 
-**CINDERELLA's PRINCE**: Neither are we! [*Cinderella starts. He smiles*] We can build our house -- our family -- around your mother’s tree, so you can see her whenever you want.
+**CINDERELLA'S PRINCE**: Neither are we! [*Cinderella starts. He smiles*] We can build our house -- our family -- around your mother's tree, so you can see her whenever you want.
 
 *Cinderella stares at him*.
 
@@ -1403,11 +1403,11 @@
 
 **PRINCE**: [*firmly*] More sure than I’ve ever been of anything in my life.
 
-**STEWARD**: [*spluttering*] But... you can’t both leave. Who would rule the kingdom?
+**STEWARD**: [*spluttering*] But... you can't both leave. Who would rule the kingdom?
 
 *The two Princes look at each other. Cinderella's Prince winks. Rapunzel's Prince grins and walks over to the Steward, and hands him a crown*.
 
-**RAPUNZEL's PRINCE**: I think we all know who’s really been running the kingdom all these years. I think it is high time you finally get the honor to go with the responsibility.
+**RAPUNZEL'S PRINCE**: I think we all know who's really been running the kingdom all these years. I think it is high time you finally get the honor to go with the responsibility.
 
 **STEWARD**: [*stunned*] But... the King...
 
@@ -1429,7 +1429,7 @@
 
 **BAKER**: Exactly!
 
-**WIFE**: ...and negotiate deals with witches and giants.
+**WIFE**: ... and negotiate deals with witches and giants.
 
 **BAKER**: Of course!
 
@@ -1451,7 +1451,7 @@
 
 **JACK**: Generous.
 
-**CINDERELLA's PRINCE**: Trustworthy.
+**CINDERELLA'S PRINCE**: Trustworthy.
 
 *One by one, they all start smiling at Baker*.
 
@@ -1461,7 +1461,7 @@
 
 *Everyone cheers, except Baker*.
 
-**BAKER**: [*crying*] What? You are all crazy. I am.... [*downcast*] a failure. I’m a terrible husband, a worse father, a coward and a liar.
+**BAKER**: [*crying*] What? You are all crazy. I am... [*downcast*] a failure. I'm a terrible husband, a worse father, a coward and a liar.
 
 **HARP**: We know. And we know... we are no better than you.
 
@@ -1481,13 +1481,13 @@
 
 **STEWARD**: A Council!
 
-**RAPUNZEL's PRINCE**: Of course! Like in days of old, where each tribe had someone to represent their interests before the King.
+**RAPUNZEL'S PRINCE**: Of course! Like in days of old, where each tribe had someone to represent their interests before the King.
 
 **BAKER**: But I’m no King!
 
-**RED**: No, silly you’re a Mayor. So this would be the Mayor’s Council. Let’s see. Rapunzel can represent the Giantess, one the Princes can represent the Kingdom, the Witch, well, Witches; and Jack’s mother the villagers!
+**RED**: No, silly you're a Mayor. So this would be the Mayor's Council. Let's see. Rapunzel can represent the Giantess, one the Princes can represent the Kingdom, the Witch, well, Witches; and Jack's mother the villagers!
 
-**CINDERELLA's PRINCE**: Women on a Council? [*steely glares from Cinderella et al*] What a.. wonderful idea [*weakly*]
+**CINDERELLA'S PRINCE**: Women on a Council? [*steely glares from Cinderella et al*] What a.. wonderful idea [*weakly*]
 
 **BAKER**: But... I’ ve always been a Baker. That’s who I am. I don’t know how to be anything else. I don’t even know my real name. After my parents died... or whatever... they just called me Baker after my father. I don’t think I can be anything else.
 
@@ -1514,7 +1514,7 @@ Was it because [*broken*] you... you never considered me your daughter? [*starts
 
 [*Baker steps back in awe. Standing tall, even regal. The villagers notice the transformation. Some even gasp.*]
 
-**MYSTERIOUS STRANGER**: [*turning to Rapunzel*] And you... [*voice breaking*] we never dared speak it aloud... but just between the two of us.... in whispers... [*weakening*]... we called you Grace!
+**MYSTERIOUS STRANGER**: [*turning to Rapunzel*] And you... [*voice breaking*] we never dared speak it aloud... but just between the two of us... in whispers... [*weakening*]... we called you Grace!
 
 [*There is a flash of blinding light... and when they look again... he is gone*]
 
@@ -1552,9 +1552,9 @@ Was it because [*broken*] you... you never considered me your daughter? [*starts
 
 **ALL**: As long as love rules in our town.
 
-**BAKER**: Your Marshall I’ll be.
+**BAKER**: Your Marshall I'll be.
 
-**CINDERELLA's PRINCE**:  [*to Cinderella*] I’ll honor her tree.
+**CINDERELLA'S PRINCE**:  [*to Cinderella*] I'll honor her tree.
 
 **WITCH**: [*to Harp*] And stop avoiding family.
 
