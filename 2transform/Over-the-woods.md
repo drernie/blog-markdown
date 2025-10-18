@@ -789,36 +789,36 @@ Rapunzel: [*still in shock*] I... have a brother. The Witch... wasn’t my mothe
 
 ### Scene 13: The Witch’s House
 
-Gothel the Witch sits outside her house next to the Baker’s.
-She wistfully strokes the hair she cut off from Rapunzel before casting her into the desert, humming snatches of Rapunzel’s song.
-She hears Jack shouting, and hurriedly tries to hide the hair behind her.
+*Gothel the Witch sits outside her house next to the Baker’s*.
+*She wistfully strokes the hair she cut off from Rapunzel before casting her into the desert, humming snatches of Rapunzel’s song*.
+*She hears Jack shouting, and hurriedly tries to hide the hair behind her*.
 
-Jack and Red rush in, then stop abruptly at the sight of the Witch
-She tries to put on an intimidating face, but doesn’t quite succeed.
-She is about to speak when Jack interrupts.
+*Jack and Red rush in, then stop abruptly at the sight of the Witch*.
+*She tries to put on an intimidating face, but doesn’t quite succeed*.
+*She is about to speak when Jack interrupts*.
 
-Jack: Ma’am, we have news of your daughter!
+**JACK**: Ma’am, we have news of your daughter!
 
 The Witch’s facade breaks, and she is suddenly vulnerable.
 
 **WITCH**: Rapunzel? Where is she? Is she in danger? [*half-afraid, half eagerly*]
 
-J: Um, well...
+**JACK**: Um, well...
 
-Red: [*interrupting*] She ran away from the castle, climbed a beanstalk, made friends with a giantess, and refuses to come down because she’s forgotten about her children.
+**RED**: [*interrupting*] She ran away from the castle, climbed a beanstalk, made friends with a giantess, and refuses to come down because she’s forgotten about her children.
 
 **WITCH**: [*impressed*] My, that was concise.
 
-The Baker finally stumbles in, out of breath.
-The Witch’s eyes narrow.
-She turns to Jack.
+*The Baker finally stumbles in, out of breath*.
+*The Witch’s eyes narrow*.
+*She turns to Jack*.
 
-**WITCH**: HE didn’t send you, did he?
+**WITCH**: [*pointing at the Baker*] HE didn’t send you, did he?
 
 **JACK**: [*affronted*] Nobody sent me. This was my plan. [*lowers voice*] I am a man now.
 
-Red rolls her eyes.
-But the Witch is intrigued.
+*Red rolls her eyes*.
+*But the Witch is intrigued*.
 
 **WITCH**: Do you... have a plan to restore my daughter to me?
 
@@ -832,74 +832,74 @@ But the Witch is intrigued.
 
 **BAKER**: No [*with solemn finality*]
 
-All eyes stop and turn to him.
-Nobody see the Baker’s Wife enter from the side, watching him
+*All eyes stop and turn to him*.
+*Nobody see the Baker’s Wife enter from the side, watching him*.
 
-The Baker walks gingerly towards the Witch.
+*The Baker walks gingerly towards the Witch*.
 
-**BAKER**: I know what it feels like to be angry at a parent you feel has betrayed you. And yes, there were times that I hated him. But that was precisely because I needed him so much, And I didn’t want to need his help, because I was afraid he’d let me down again.
+**BAKER**: I know what it feels like to be angry at a parent you feel has betrayed you. And yes, there were times that I hated him. But that was precisely because I needed him so much. And I didn’t want to need his help, because I was afraid he’d let me down again.
 
-He looks up, and sees his Wife.
-She runs to him.
-He puts an arm around her, and turns back to the wife.
+*He looks up, and sees his Wife*.
+*She runs to him*.
+*He puts an arm around her, and turns back to the witch*.
 
 **BAKER**: And in the end, when I needed him most, he came through and helped me... us... complete the spell, and gain a child. Even if it killed him [*sadly*]
 
-He looks up again, and sees the Mysterious Man at the edge of the stage.
+*He looks up again, and sees the Mysterious Stranger at the edge of the stage*.
 
 **BAKER**: I still didn’t forgive him. I couldn’t understand why he would run out on me like that. Until...
 
-Looks down.
-His wife squeezes his shoulder.
-He looks at her and smiles sadly.
+*Looks down at his wife*.
+*She squeezes his shoulder*.
+*He looks at her and smiles sadly*.
 
 **BAKER**: Until I realized I did the very same thing.
 
 [*Sings a version of You Are Not Alone*]
 
-**BAKER**: It’s not your fault. You did the best you could with what you knew. The reason it all went wrong is because you tried to do it all by yourself. But you aren’t alone any more.
+**BAKER**: [*To the Witch*] It’s not your fault. You did the best you could with what you knew. The reason it all went wrong is because you tried to do it all by yourself. But you aren’t alone any more.
 
-The Witch turns away.
-But then Rapunzel’s Prince appears, carrying their babies.
-The Witch stares in shock, then collapses into tears when her grandchildren are placed in her arms.
+*The Witch turns away*.
+*But then Rapunzel’s Prince appears, carrying their babies*.
+*The Witch stares in shock, then collapses into tears when her grandchildren are placed in her arms*.
 
-Cinderella follows him onstage, and returns the Baker’s baby to his parents.
+*Cinderella follows him onstage, and returns the Baker’s baby to his parents*.
 
-There is a long silence.
-Then the Witch dries her tears, stands up, hands the babies back to the Prince, and looks straight at the Baker.
+*There is a long silence*.
+*Then the Witch dries her tears, stands up, hands the babies back to the Prince, and looks straight at the Baker*.
 
 **WITCH**: I am ready. I don’t care if she hates me enough to never speak to me again. Tell me what I must do to reunite my daughter with her babies, so she can have her happily ever after.
 
-The Baker looks stunned.
+*The Baker looks stunned*.
 
 **BAKER**: Ah. Well, I, I... was thinking...
 
-His Wife squeezes his hand.
-He turns and looks at her for a long moment.
+*His Wife squeezes his hand*.
+*He turns and looks at her for a long moment*.
 
-**BAKER**: I mean, we were thinking, now that everyone’s here, we could all put our head’s together and come up with a plan.
+**BAKER**: I mean, WE were thinking, now that everyone’s here, we could all put our head’s together and come up with a plan.
 
-Jack: Let’s do it at my house! We just built a new barn so Milky White could have plenty of friends, and there’s lots of room for everyone.
+**JACK**: Let’s do it at my house! We just built a new barn so Milky White could have plenty of friends, and there’s lots of room for everyone.
 
-They hurry offstage.
-The Witch follows slowly.
+*They hurry offstage*.
+*The Witch follows slowly*.
 At the edge, she pauses.
-She turns back, and sees the Mysterious Man enter.
+She turns back, and sees the Mysterious Stranger enter.
 He bows low, respectfully.
 She smiles, nods, and blows him a kiss.
 He straightens, nods, and salutes with a fist to his chest.
 
 **WITCH**: You should be proud. You have an amazing son.
 
-Man: [*bitterly*] No thanks to me
+**MYSTERIOUS STRANGER**: [*bitterly*] No thanks to me
 
-**WITCH**: Don’t say that!
+**WITCH**: [*harshly*] Don’t say that!
 
-He jumps
+*He jumps*.
 
 **WITCH**: I’m sorry. But... I have to believe. You... you came back. You... tried to undo... everything that went wrong. It wasn’t enough for him to forgive you. Yet somehow... he found his own way. I have to believe... I wish... [*she cries and runs away*]
 
-The Mysterious Man watches her, until the light goes out.
+*The Mysterious Stranger watches her, until the light goes out*.
 
 ### Scene 14: Rapunzel In The Sky
 
@@ -1279,7 +1279,7 @@ Witch: Who... how... do you know that song?
 
 Harp: [*softly*] I wrote it... for you.
 
-Witch: [*dropping the harp, stepping back*] **MYSTERIOUS STRANGER**:.. Mo.... Mother?!
+Witch: [*dropping the harp, stepping back*] M.. Mo.... Mother?!
 
 The Harp riffs on Rapunzel’s motif to create a song of sadness, regret, and longing.
 
