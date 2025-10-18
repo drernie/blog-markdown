@@ -410,7 +410,7 @@ Rapunzel: [*still in shock*] I... have a brother. The Witch... wasn’t my mothe
 
 *She runs excitedly off stage*.
 
-#### Scene 7; Jack’s House
+### Scene 7; Jack’s House
 
 *Jack is sitting inside happily milking Milky White*.
 
@@ -472,7 +472,7 @@ Rapunzel: [*still in shock*] I... have a brother. The Witch... wasn’t my mothe
 
 *All exit.*
 
-#### Scene 8: The Woods
+### Scene 8: The Woods
 
 *Cinderella walks in disguised in her old rags, taking to her bird friends*.
 
@@ -557,7 +557,7 @@ Rapunzel: [*still in shock*] I... have a brother. The Witch... wasn’t my mothe
 
 *She suddenly collapses into violent sobs. The Baker’s Wife is shocked at first , but then shifts the baby around and gathers Cinderella into her bosom, and comforts her while she weeps*.
 
-#### Scene 9: Giantess In The Sky
+### Scene 9: Giantess In The Sky
 
 *The Baker and Jack creep quietly back onstage*.
 
@@ -643,50 +643,50 @@ Rapunzel: [*still in shock*] I... have a brother. The Witch... wasn’t my mothe
 
 *Ethereal music starts to play...*
 
-#### Scene 10: The Woods
+### Scene 10: The Woods
 
-The Baker’s Wife wanders in from stage left, apparently lost in thought.
-Cinderella’s Prince strides in.
-He stops when he sees her.
-His lips curl into a smile reminiscent of the Wolf.
+*The Baker’s Wife wanders in from stage left, apparently lost in thought*.
+*Cinderella’s Prince strides in*.
+*He stops when he sees her*.
+*His lips curl into a smile reminiscent of the Wolf*.
 
-Prince: Greetings.
+**PRINCE**: Greetings.
 
-Wife: [*startled*] What? Oh! [*bowing*]
+**WIFE**: [*startled*] What? Oh! [*bowing*]
 
-P. You shouldn’t be out and about alone. I have heard from my Steward that a giantess may have kidnapped Princess Rapunzel.
+**PRINCE**: You shouldn’t be out and about alone. I have heard from my Steward that a giantess may have kidnapped Princess Rapunzel.
 
 [*They start reenacting the “Moments” song from the original version, where he seduces her. But this time, she realizes how much the Prince is hurting Cinderella, and the shallowness of their attraction. She spurns him in song, and chooses Meaning over Moments*]
 
-The Prince looks abashed, trapped in an unaccustomed situation of self-reflection.
+*The Prince looks abashed, trapped in an unaccustomed situation of self-reflection*.
 
 **WIFE**: [*scornfully*] Was your father this callous towards your mother?
 
-P. [*absently, still struggling with novel thoughts and feelings*] No, he was faithful to her while he lived. After she died and he became ill, well... it was just the way he was. So it seemed the only way for a Prince to be.
+**PRINCE**: [*absently, still struggling with novel thoughts and feelings*] No, he was faithful to her while she lived. After she died and he became ill, well... it was just the way he was. So it seemed the only way for a Prince to be.
 
 **WIFE**: [*tenderly*] I’m sorry. But maybe... you don’t have to be just a Prince?
 
-P. What do you mean?
+**PRINCE**: What do you mean?
 
 **WIFE**: Well [*chuckling*] my husband was just a Baker, but now he’s climbing a beanstalk to confront a Giant.
 
-P. [*eagerly*] Really! Take me to him. I thirst for danger and excitement.
+**PRINCE**: [*eagerly*] Really! Take me to him. I thirst for danger and excitement.
 
 **WIFE**: [*laughing gaily*] Courageous, are you?
 
-P. [*modestly*] I don’t mean to brag, but I have never shied away from a dangerous quest.
+**PRINCE**: [*modestly*] I don’t mean to brag, but I have never shied away from a dangerous quest.
 
 **WIFE**: [*slyly*] Have you, now? Well then, I have the perfect challenge for you...
 
-She leads him offstage
+*She leads him offstage*.
 
-#### Scene 11: Grandmother’s House
+### Scene 11: Grandmother’s House
 
-Jack and the Baker finish relating their failure to Red and Grandma.
+*Jack and the Baker finish relating their failure to Red and Grandma*.
 
 **BAKER**: I don’t know. Maybe she’s right, and I’m being selfish to want her to leave the giant.
 
-Grandma: Poppycock!
+**GRANNIE**: Poppycock!
 
 Jack: Huh?
 
@@ -721,7 +721,7 @@ Red punches him in the arm.
 He grabs Red by the hand and runs off, with the Baker scurrying after.
 Grandma stays behind, watching them, clicking her tongue.
 
-#### Scene 12: Cinderella’s Tree
+### Scene 12: Cinderella’s Tree
 
 Cinderella is backstage facing the tree of her mother, holding the Baker’s baby, talking softly.
 
@@ -731,27 +731,27 @@ Prince: [*haughtily*] Are you sure this quest is worthy of me?
 
 Wife: I assure you this is the most difficult and dangerous quest ever undertaken by man. In fact, I fear you will quail and run away once I show it to you.
 
-P. Don’t be ridiculous. I laugh in the face of danger.
+**PRINCE**: Don’t be ridiculous. I laugh in the face of danger.
 
 **WIFE**: But it is agonizingly slow and difficult, with victory seeming always out of reach.
 
-P. But that is the best kind of quest! Especially if there is a beautiful Princess at the end.
+**PRINCE**: But that is the best kind of quest! Especially if there is a beautiful Princess at the end.
 
 **WIFE**: [*smiling wickedly*] Perfect. In that case, behold your quest [*turns him around to see Cinderella, who collapses in a storm of weeping*]
 
-P. But... that’s my... she... why.. [*turns to look at the Baker’s Wife helplessly*]
+**PRINCE**: But... that’s my... she... why.. [*turns to look at the Baker’s Wife helplessly*]
 
 **WIFE**: [*scornfully*] Any boy can win the heart of an innocent maiden with fancy balls and charming words. It takes a real man to woo a woman whose heart has been broken by betrayal and grief. It takes risk, vulnerability, and courage beyond anything you ever imagined. It requires months and years of endless introspection and sacrifice, with no guarantee of success.
 
-P. But that’s... impossible! Unfair!
+**PRINCE**: But that’s... impossible! Unfair!
 
 **WIFE**: [*laughing gaily*] Of course it is!
 
-P. You tricked me! This is a... bait and switch.!
+**PRINCE**: You tricked me! This is a... bait and switch.!
 
 **WIFE**: [*savagely*]. Exactly! Just like you tricked us. Promising us sweetness and joy, concealing the fact it was all a deception merely to feed your ego.
 
-P. This is a travesty. Your quest is a lie.
+**PRINCE**: This is a travesty. Your quest is a lie.
 
 **WIFE**: [*shouting*] And so are you!
 
@@ -773,7 +773,7 @@ The Baker’s Wife stalks offstage.
 The Prince stands there, trembling.
 He closes his eyes.
 
-P. I think... I already knew.
+**PRINCE**: I think... I already knew.
 
 He turns and looks at Cinderella weeping.
 He stumbles toward her, pulled against his will, as if by gravity.
@@ -787,7 +787,7 @@ The Prince cries out, and dashes away in the opposite direction.
 Cinderella stands and looks about thoughtfully, wondering if she actually saw and heard what she thought she did.
 Then a thought strikes her, and she gathers her skirts and runs off.
 
-#### Scene 13: The Witch’s House
+### Scene 13: The Witch’s House
 
 Gothel the Witch sits outside her house next to the Baker’s.
 She wistfully strokes the hair she cut off from Rapunzel before casting her into the desert, humming snatches of Rapunzel’s song.
@@ -901,7 +901,7 @@ He jumps
 
 The Mysterious Man watches her, until the light goes out.
 
-#### Scene 14: Rapunzel In The Sky
+### Scene 14: Rapunzel In The Sky
 
 Rapunzel is walking along, happily singing her song.
 Suddenly she stops.
@@ -955,7 +955,7 @@ H. [*quietly*] No. No, she was not.... I was.
 
 And then Harp begins sobbing. Great, anguished, human cries of grief.
 
-#### Scene 15: The King’s Bedroom
+### Scene 15: The King’s Bedroom
 
 The King is lying in bed.
 Feminine giggles sound from offstage.
@@ -1001,7 +1001,7 @@ K. [*looking up into her eyes*] Take my heart. It has always been yours. I shoul
 The Witch stares at him, lifts the dagger high, then plunges it down... into the bedding, a hairs-breadth from the King.
 She collapses on top of him, weeping. The King murmurs her name softly as he strokes her hair comfortingly.
 
-#### Scene 16: Back In The Land Above
+### Scene 16: Back In The Land Above
 
 Rapunzel is cradling the harp.
 
@@ -1049,7 +1049,7 @@ H. Goodbye... my precious granddaughter.
 
 [*Plays a dirge-like version of Rapunzel’s theme*]
 
-#### Scene 17: Back in The King’s Bedroom
+### Scene 17: Back in The King’s Bedroom
 
 The Witch has cried herself out, and sits up next to the King.
 
@@ -1134,7 +1134,7 @@ K. Then, fare thee well, sweet Gothel. [*blows her a kiss*]
 
 Exit
 
-#### Scene 18: Back Above
+### Scene 18: Back Above
 
 Cinderella enters from stage right, accompanied by birds
 
@@ -1196,7 +1196,7 @@ H. I said, we oughter get going. Time is of the essence!
 
 Cinderella picks her up and hurries offstage
 
-#### Scene 19: Grandmothers House
+### Scene 19: Grandmothers House
 
 Jack and Red and sitting with Grandma and the Bakers. The Witch enters.
 
@@ -1221,7 +1221,7 @@ Baker’s Wife: Where will you be?
 
 Witch: I have... some unfinished business to take care of. [*exits*]
 
-#### Scene 20: Cinderella’s Grove
+### Scene 20: Cinderella’s Grove
 
 The Witch walks gingerly up to the tree.
 
@@ -1241,7 +1241,7 @@ She turns to walk away, but stops after a few steps. She pivots to face the tree
 
 Witch: [*bowing low. Stands up. Chokes out:*] I... I’m so, so so sorry. [*then turns and dashes away*]
 
-#### Scene 21: The Giant’s Grave
+### Scene 21: The Giant’s Grave
 
 It is the last midnight. All the peasants are gathered around Milky White and Jack’s Mother, muttering impatiently. Cinderella’s Prince and the Steward enter. The Steward hands the Prince a scroll.
 
@@ -1402,7 +1402,7 @@ Cinderella stares at him.
 
 **CINDERELLA**: Are you... sure?
 
-P. [*firmly*] More sure than I’ve ever been of anything in my life.
+**PRINCE**: [*firmly*] More sure than I’ve ever been of anything in my life.
 
 Steward: [*spluttering*] But... you can’t both leave. Who would rule the kingdom?
 
