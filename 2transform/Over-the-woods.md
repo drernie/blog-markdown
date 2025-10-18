@@ -1250,7 +1250,7 @@ The Witch’s facade breaks, and she is suddenly vulnerable.
 
 **PRINCE**: This is madness. Did you know about this? [*The Steward shrugs*] But this doesn’t make any sense? There aren’t any giants here. There aren’t even any beanstalks!
 
-**WITCH**: “Not yet!”
+**WITCH**: Not yet!
 
 All heads turn to see the Witch entering, bearing a thorny branch.
 
@@ -1264,73 +1264,73 @@ All heads turn to see the Witch entering, bearing a thorny branch.
 
 **WITCH**: I am sorry, mother. You were right. Mortals and magic were never meant to mix. This land must be returned to the wild. What went wrong must be made right. [*lifts the thorn into the moonlight*] Accept my sacrifice, and restore this giant back to life, so that my daughter may return to her life. [*prepares to plunge it into her heart*]
 
-Cinderella: [*entering*] No!
+**CINDERELLA**: [*entering*] No!
 
-Everyone freezes. Rapunzel’s song starts playing on the harp.
+*Everyone freezes. Rapunzel’s song starts playing on the harp*.
 
-Jack: My harp!
+**JACK**: My harp!
 
 **WITCH**: [*stunned*] That... song. It’s... not quite the one I taught Rapunzel...
 
-Cinderella walks slowly up to the Witch, and gravely hands her the harp. The music stops.
+*Cinderella walks slowly up to the Witch, and gravely hands her the harp. The music stops*.
 
 **WITCH**: Who... how... do you know that song?
 
-Harp: [*softly*] I wrote it... for you.
+**HARP**: [*softly*] I wrote it... for you.
 
 **WITCH**: [*dropping the harp, stepping back*] M.. Mo.... Mother?!
 
-The Harp riffs on Rapunzel’s motif to create a song of sadness, regret, and longing.
+*The Harp riffs on Rapunzel’s motif to create a song of sadness, regret, and longing*.
 
-When she finishes, there is a moment of silence.
+*When she finishes, there is a moment of silence*.
 
-Harp: I will not ask you for forgiveness. But I will ask you this. Don’t do it. Don’t throw your life away. Don’t... sacrifice yourself to raise this giant from the dead.
+**HARP**: I will not ask you for forgiveness. But I will ask you this: Don’t do it. Don’t throw your life away. Don’t... sacrifice yourself to raise this giant from the dead.
 
-Witch; What, so I can become like you? Ascend to a higher plane, a lifeless object who cares only about her own music? No, Mother. I was you once. No more. I finally found something worth living for. Worth dying for. Something you could never understand.
+**WITCH**: What, so I can become like you? Ascend to a higher plane, a lifeless object who cares only about her own music? No, Mother. I was you once. No more. I finally found something worth living for. Worth dying for. Something you could never understand.
 
 [*She pulls out the beans*]
 
 **WITCH**: These beans, when watered by my blood, will raise the giant back to life. The giantess can come live with him here, and Rapunzel will join them. And... [*voice breaking*] my grandchildren will join her. It [*looking sadly at the harp*] it is all the magic I have left.
 
-Harp. No! [*violently. Everyone jumps, shocked. She continues quietly.*]. You have me. I... I can raise the giant. Please... please don’t kill your self.
+**HARP**: No! [*violently. Everyone jumps, shocked. She continues quietly.*]. You have me. I... I can raise the giant. Please... please don’t kill your self.
 
 **WITCH**: No! I’d rather die than live with again as your captive. [*raises the thorn*]
 
 [*The harp laughs bitterly.*]
 
-Harp: That won’t be a problem. Let me do this... and I promise you will never see me again.
+**HARP**: That won’t be a problem. Let me do this... and I promise you will never see me again.
 
 **WITCH**: [*snarling*] And why should I believe you?
 
-Harp: [*proudly*] Because you will kill me with your own hands!
+**HARP**: [*proudly*] Because you will kill me with your own hands!
 
 [*There is a stunned silence as everyone absorbs this. The Witch’s expression is indecipherable*]
 
-Cinderella: No!
+**CINDERELLA**: No!
 
-The Harp lets out a long wail.
+*The Harp lets out a long wail*.
 
-Harp: Please. You... of all people... should know I deserve this. For I was the one who -- out of jealousy -- killed your mother.
+**HARP**: Please. You... of all people... should know I deserve this. For I was the one who -- out of jealousy -- killed your mother.
 
-Cinderella starts in horror, and begins to violently tremble.
+*Cinderella starts in horror, and begins to violently tremble*.
 
-Suddenly Cinderella’s Prince appears with a sword. He has a wild uncertain look on his face as he approaches the Harp.
+*Suddenly Cinderella’s Prince appears with a sword. He has a wild uncertain look on his face as he approaches the Harp*.
 
-Prince: [*savagely*] Then forget the Giant! Bring my wife’s mother back from the dead!
+**PRINCE**: [*savagely*] Then forget the Giant! Bring my wife’s mother back from the dead!
 
-Everyone gasps. Cinderella looks at her Prince as if she’s never seen him before.
+*Everyone gasps. Cinderella looks at her Prince as if she’s never seen him before*.
 
-The Harp chimes gently.
+*The Harp chimes gently*.
 
-Harp: I’m.... sorry. Her death was too long ago. Even my life isn’t enough to bring her back.
+**HARP**: I’m.... sorry. Her death was too long ago. Even my life isn’t enough to bring her back.
 
-Prince: [*despairingly*] Then take mine!
+**PRINCE**: [*despairingly*] Then take mine!
 
-He holds the sword out, point against his own breast. The crowd gasps. He is weeping. Cinderella is open-mouthed in astonishment.
+*He holds the sword out, point against his own breast. The crowd gasps. He is weeping. Cinderella is open-mouthed in astonishment*.
 
-The Prince falls to his knees before the Harp -- but does not let go of the sword.
+*The Prince falls to his knees before the Harp -- but does not let go of the sword*.
 
-Prince: Please. My wife... she deserves someone to love her. To truly value her for who she is, not what she does. The way I never did. Or ever could.
+**PRINCE**: Please. My wife... she deserves someone to love her. To truly value her for who she is, not what she does for others. The way I never did. Or ever could.
 
 “No!”
 
@@ -1339,81 +1339,81 @@ Everyone turns, and is startled to see it was Cinderella who spoke. Perhaps she 
 He stares at her with wild eyes.
 She bends down next to him and takes his hands.
 
-Cinderella: [*softly*] You hurt me deeply. [*he flinches away, but she doesn’t let go*] But... it wasn’t all your fault. I... [*pauses*] never considered the pressures of being a Prince. I too [*swallowing*] only worried about whether you loved me, not... what it meant... to love you. [*deep breath*]. Perhaps.... [*smiling*] we can learn together?
+**CINDERELLA**: [*softly*] You hurt me deeply. [*he flinches away, but she doesn’t let go*] But... it wasn’t all your fault. I... [*pauses*] never considered the pressures of being a Prince. I too [*swallowing*] only worried about whether you loved me, not... what it meant... to love you. [*deep breath*]. Perhaps.... [*smiling*] we can learn together?
 
-The Prince looks at her as if he had never seen her before, with eyes shining. He tries to speak, but cannot. He lowers his eyes and grips her hands tightly, pulling her closer.
+*The Prince looks at her as if he had never seen her before, with eyes shining. He tries to speak, but cannot. He lowers his eyes and grips her hands tightly, pulling her closer*.
 
-She leans forward and kissing him on the forehead. He breaks down and collapses into her arms, sobbing. She murmurs to him soothingly.
+*She leans forward and kissing him on the forehead. He breaks down and collapses into her arms, sobbing. She murmurs to him soothingly*.
 
-Harp: Quickly! The time is short. This is the last midnight. You must... unstring me.
+**HARP**: Quickly! The time is short. This is the last midnight. You must... unstring me.
 
 **WITCH**: Mother... I... I...
 
-The Harp plays a heartbreakingly beautiful arpeggio.
+*The Harp plays a heartbreakingly beautiful arpeggio*.
 
-Harp: Hush. You don’t need to say anything. I have said it all to myself many times. I purchased this life at a terrible price, and it is the kindest thing you can do let me undo it.
+**HARP**: Hush. You don’t need to say anything. I have said it all to myself many times. I purchased this life at a terrible price, and it is the kindest thing you can do is let me undo it.
 
-The Witch, seized with a sudden fury, runs at her with the Prince’s dropped sword.
+*The Witch, seized with a sudden fury, runs at her with the Prince’s dropped sword*.
 
-Harp: [*softly*] Goodbye, my love
+**HARP**: [*softly*] Goodbye, my love
 
-At the last second, the Witch drops the sword and falls to the ground weeping.
+*At the last second, the Witch drops the sword and falls to the ground weeping*.
 
 **WITCH**: I... I can’t. I so want to hate you. But then I realize... I became you. To love... and to let go... it never gets easier, does it?
 
-Harp: [*tenderly*] No... it does not.
+**HARP**: [*tenderly*] No... it does not.
 
 **WITCH**: [*picking up the sword again*] Much easier, I think... just to die. [*raises the sword and starts jabbing it into her own breast again*]
 
-Rapunzel: No!
+**RAPUNZEL**: No!
 
-Everyone starts in shock. The Witch shrieks as the sword pierces her and she falls. Rapunzel runs in and kneels at her side. Hurriedly she takes a lock of hair from her pocket and stuffs it in the Witch’s wound.
+*Everyone starts in shock. The Witch shrieks as the sword pierces her and she falls. Rapunzel runs in and kneels at her side. Hurriedly she takes a lock of hair from her pocket and stuffs it in the Witch’s wound*.
 
 **WITCH**: You... came back?
 
-Rapunzel sniffles.
+*Rapunzel sniffles*.
 
 **RAPUNZEL**: [*shyly*] I heard the whole thing. I thought motherhood was all about control and self-protection, and wanted no part of it. But then I saw you... and grandmother... and I realized...
 
-Just then Rapunzel’s Prince enters from the other side carrying their twins.
+*Just then Rapunzel’s Prince enters from the other side carrying their twins*.
 
-With a cry Rapunzel jumps up and gathers her babies to her. The Prince stands back, shyly, unsure of his welcome. She smile, adjusts the babies, and mouths “Thank you.” He kneels before her.
+*With a cry Rapunzel jumps up and gathers her babies to her. Her Prince stands back, shyly, unsure of his welcome. She smile, adjusts the babies, and mouths “Thank you.” He kneels before her*.
 
-R Prince: I know I was a better lover than I was a husband. But these last few days [*glances at the Baker*] I think I’ve finally learned what it means to be a father. I would like to... try again. If [*looking down*] you will have me.
+**RAPUNZEL's PRINCE**:I know I was a better lover than a husband. But these last few days [*glances at the Baker*] I think I’ve finally learned what it means to be a father. I would like to... try again. If [*looking down*] you will have me.
 
-Rapunzel looks at him for a long moment. Then leans over and kisses him on the top of his head. He looks up, startled and grinning foolishly. She holds out a hand and helps him up. And keeps holding on as she hands him one of the babies.
+*Rapunzel looks at him for a long moment. Then leans over and kisses him on the top of his head. He looks up, startled and grinning foolishly. She holds out a hand and helps him up. And keeps holding on as she hands him one of the babies*.
 
-The Baker’s Wife enters and nods approvingly at Rapunzel, and respectfully to the Witch. The Baker walks up to stand beside her.
+*The Baker’s Wife enters and nods approvingly at Rapunzel, and respectfully to the Witch. The Baker walks up to stand beside her*.
 
 **BAKER**: So... what happens to the Giant?
 
-Rapunzel: [*sighing*] I think we should let him rest in peace.
+**RAPUNZEL**: [*sighing*] I think we should let him rest in peace.
 
-Baker’s Wife: What about the giantess?
+**WIFE**: What about the giantess?
 
-Rapunzel: [*frowns*] I think she’s ready to let him go. [*eyes narrowing*] But she’s still my best friend! I’m not leaving her. I am NOT going back to the castle to be locked up again.
+**RAPUNZEL**: [*frowns*] I think she’s ready to let him go. [*eyes narrowing*] But she’s still my best friend! I’m not leaving her. I am NOT going back to the castle to be locked up again.
 
-R Prince: Then neither am I!
+**RAPUNZEL's PRINCE**: Then neither am I!
 
-Prince: Neither are we! [*Cinderella starts. He smiles*] We can build our house -- our family -- around your mother’s tree, so you can see her whenever you want.
+**CINDERELLA's PRINCE**: Neither are we! [*Cinderella starts. He smiles*] We can build our house -- our family -- around your mother’s tree, so you can see her whenever you want.
 
-Cinderella stares at him.
+*Cinderella stares at him*.
 
 **CINDERELLA**: Are you... sure?
 
 **PRINCE**: [*firmly*] More sure than I’ve ever been of anything in my life.
 
-Steward: [*spluttering*] But... you can’t both leave. Who would rule the kingdom?
+**STEWARD**: [*spluttering*] But... you can’t both leave. Who would rule the kingdom?
 
-The two Princes look at each other. C Prince winks. R Prince grins and walks over to the Steward, and hands him a crown.
+*The two Princes look at each other. Cinderella's Prince winks. Rapunzel's Prince grins and walks over to the Steward, and hands him a crown*.
 
-R Prince: I think we all know who’s really been running the kingdom all these years. I think it is high time you finally get the honor to go with the responsibility.
+**RAPUNZEL's PRINCE**: I think we all know who’s really been running the kingdom all these years. I think it is high time you finally get the honor to go with the responsibility.
 
-Steward: [*stunned*] But... the King...
+**STEWARD**: [*stunned*] But... the King...
 
 **WITCH**: [*smiling saucily*] I’m sure he will be fine with it. [*eyes glinting*] one way or another.
 
-Jack: Wondeful! Does that mean everyone will live happily ever after?
+**JACK**: Wondeful! Does that mean everyone will live happily ever after?
 
 **BAKER**: No!
 
@@ -1421,79 +1421,79 @@ Everyone stares at him in shock.
 
 **BAKER**: [*embarrassed*] I mean... let’s be reasonable. This area is now outside the Kingdom, right in the middle of the woods. All you have are two Princes with no kingdom, two witches without powers, and no ruler to organize everything. How will you work together enough to survive?
 
-Shockingly, nobody seems upset. Just... thoughtful. Then one by one, they turn to look at the Baker.
+*Shockingly, nobody seems upset. Just... thoughtful. Then one by one, they turn to look at the Baker*.
 
 **BAKER**: Why... why are you staring at me like that?
 
-Red: [*slowly*] So, you say we need a way to deal with wolves and other threats.
+**RED**: [*slowly*] So, you say we need a way to deal with wolves and other threats.
 
 **BAKER**: Exactly!
 
-Mrs. **BAKER**: ... and negotiate deals with witches and giants.
+**WIFE**: ...and negotiate deals with witches and giants.
 
 **BAKER**: Of course!
 
-Cinderella: And stand up to royalty, to ensure our needs and heard and respected.
+**CINDERELLA**: And stand up to royalty, to ensure our needs and heard and respected.
 
 **BAKER**: Now you get it.
 
-Everyone starts looking at each other. Mrs. Baker starts smiling.
+*Everyone starts looking at each other. Mrs. Baker starts smiling*.
 
 **BAKER**: [*started*] Wait. Why are you so happy all of a sudden?
 
-Wife: So... so you are saying we need a system... or a person... that can bring us together, to deal with all these challenges...
+**WIFE**: So... so you are saying we need a system... or a person... that can bring us together, to deal with all these challenges...
 
 **BAKER**: [*nervously, unsure where this is going*] Uh, yes.
 
-Grandma: Someone brave.
+**GRANNIE**: Someone brave.
 
-Rapunzel: Kind
+**RAPUNZEL**: Kind.
 
-Jack: Generous
+**JACK**: Generous.
 
-C Prince: Trustworthy
+**CINDERELLA's PRINCE**: Trustworthy.
 
-One by one, they all start smiling at Baker.
+*One by one, they all start smiling at Baker*.
 
 **BAKER**: why... why are you looking at me like that.
 
 **WITCH**: I hereby nominate the Baker as Mayor of Giantland!
 
-Everyone cheers, except Baker
+*Everyone cheers, except Baker*.
 
 **BAKER**: [*crying*] What? You are all crazy. I am.... [*downcast*] a failure. I’m a terrible husband, a worse father, a coward and a liar.
 
-Harp. We know. And we know... we are no better than you.
+**HARP**: We know. And we know... we are no better than you.
 
 **WITCH**: But you... [*deep breath*] have the courage to admit it.
 
-Wife: And transcend it.
+**WIFE**: And transcend it.
 
-Jack: And challenge the rest of us to do better.
+**JACK**: And inspire the rest of us to do better.
 
  **BAKER**: But don’t you see? I couldn’t have done any of that without all of you.
 
-The Baker’s Wife walks over to give hi a big kiss, then hugs him close.
+*The Baker’s Wife walks over to give him a big kiss, then hugs him close*.
 
 Wife: And you don’t have to!
 
 **BAKER**: What?
 
-Steward:A Council!
+**STEWARD**: A Council!
 
-R Prince: Of course! Like in days of old, where each tribe had someone to represent their interests before the King.
+**RAPUNZEL's PRINCE**: Of course! Like in days of old, where each tribe had someone to represent their interests before the King.
 
 **BAKER**: But I’m no King!
 
-Red: No, silly you’re a Mayor. So this would be the Mayor’s Council. Let’s see. Rapunzel can represent the Giantess, one the Prince’s can represent the Kingdom, the Witch, well, Witches; and Jack’s mother the villagers!
+**RED**: No, silly you’re a Mayor. So this would be the Mayor’s Council. Let’s see. Rapunzel can represent the Giantess, one the Princes can represent the Kingdom, the Witch, well, Witches; and Jack’s mother the villagers!
 
-C Prince: Women on a Council? [*steely glares from Cinderella et al*] What a.. wonderful idea [*weekly*]
+**CINDERELLA's PRINCE**: Women on a Council? [*steely glares from Cinderella et al*] What a.. wonderful idea [*weakly*]
 
 **BAKER**: But... I’ ve always been a Baker. That’s who I am. I don’t know how to be anything else. I don’t even know my real name. After my parents died... or whatever... they just called me Baker after my father. I don’t think I can be anything else.
 
 [*Long pause*]
 
-**MYSTERIOUS STRANGER**: Yes. Yes you can.
+**MYSTERIOUS STRANGER**: Yes. Yes, you can.
 
 [*Everyone turns to him as Baker’s father enters. Except Rapunzel, who turns away. He pauses, and walks up to stand behind her.*]
 
@@ -1508,13 +1508,13 @@ Was it because [*broken*] you... you never considered me your daughter? [*starts
 
 **MYSTERIOUS STRANGER**: No more! My time grows short. There is one task left undone that still binds me to earth. Come! [*he takes her hand and leads her to Baker, joining their hands, then steps back*]
 
-**MYSTERIOUS STRANGER**: [*looks at R*] You never knew your name. [*looks at B*] You don’t remember yours. [*sadly*] How can you move forward if you never knew who you were. [*standing up straight*]
+**MYSTERIOUS STRANGER**: [*looks at Rapunel*] You never knew your name. [*looks at Baker*] You don’t remember yours. [*sadly*] How can you move forward if you never knew who you were. [*standing up straight*]
 
 **MYSTERIOUS STRANGER**: [*Looking at Baker*] Your true name is Marshall -- after your mother’s grandfather, a mighty soldier -- because you were destined to be a leader of men.
 
-[*Baker steps back in awe. Standing tall, even regal. The villagers notice the transformation. Some even gasp*]
+[*Baker steps back in awe. Standing tall, even regal. The villagers notice the transformation. Some even gasp.*]
 
-**MYSTERIOUS STRANGER**: [*turning to R*] And you... [*voice breaking*] we never dared speak it aloud... but just between the two of us.... in whispers... [*weakening*]... we called you Grace!
+**MYSTERIOUS STRANGER**: [*turning to Rapunzel*] And you... [*voice breaking*] we never dared speak it aloud... but just between the two of us.... in whispers... [*weakening*]... we called you Grace!
 
 [*There is a flash of blinding light... and when they look again... he is gone*]
 
@@ -1540,11 +1540,11 @@ Was it because [*broken*] you... you never considered me your daughter? [*starts
 
 **JACK**: [*sings softly, then stronger*] Into the Woods, you had to go, to show us all the way to grow
 
-**RED**: Into the woods, though out of breath, to save us all from life and death
+**RED**: Into the woods, though out of breath, to save us all from life and death.
 
 **WIFE**: The way was dark. We feared the cost.
 
-**RAPUNZEL**: But now we’ve regained what was lost
+**RAPUNZEL**: But now we’ve regained what was lost.
 
 **RAPUNZEL's PRINCE**: Who needs a crown?
 
