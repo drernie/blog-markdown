@@ -6,19 +6,19 @@
 
 #### Whom he sacrificed to the LORD to fulfill a vow
 
-### Verse 1
+[*Verse 1*]
 
 I've been bound inside to [die an unwed bride](https://biblehub.com/judges/11-37.htm)
 Searching far and wide for how to save my life
 I cannot [save my life](https://biblehub.com/matthew/16-25.htm)
 
-### Pre-Chorus
+[*Pre-Chorus*]
 
 So I will [dare to lose my soul](https://biblehub.com/mark/8-35.htm)
 If that is [the only hope](https://biblehub.com/matthew/26-39.htm) to
 Lead them [straight to you](https://biblehub.com/john/1-23.htm), and
 
-### Chorus
+[*Chorus*]
 
 I'm lost in a feeling
 That I ain't long for this world
@@ -28,19 +28,19 @@ But it leads them straight to You
 So I'm heading home
 Like a Jephthah's girl
 
-### Verse 2
+[*Verse 2*]
 
 I don't [fight the altar](https://biblehub.com/romans/12-1.htm)
 I don't [fear the flame](https://biblehub.com/1_peter/1-7.htm)
 I just want a life that [overcomes the grave](https://biblehub.com/philippians/3-11.htm)
 
-### Pre-Chorus 2
+[*Pre-Chorus 2*]
 
 Yeah, I'll dare to lose my soul
 If that is the only way to
 Lead them straight to you, and
 
-### Chorus 2
+[*Chorus 2*]
 
 I'm lost in a feeling
 That I ain't long for this world
@@ -50,7 +50,7 @@ But it leads them straight to You
 So I'm heading home
 Like a Jephthah's girl
 
-### Bridge
+[*Bridge*]
 
 I will dare to lose my soul
 If that is the only way to
@@ -61,7 +61,7 @@ When I see You [face to face](https://biblehub.com/1_corinthians/13-12.htm)
 Now I'm [lifted home](https://en.wikipedia.org/wiki/Nearer,_My_God,_to_Thee)
 Like a Jephthah's girl
 
-### Chorus 3
+[*Chorus 3*]
 
 I'm lost in a feeling
 That I ain't long for this world
