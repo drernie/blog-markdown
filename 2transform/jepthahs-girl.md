@@ -1,25 +1,22 @@
-# The Jephthah's Girl
+# Jepthah's Daughter
 
-## (Hat tip to Josiah Queen's [The Prodigal](https://genius.com/Josiah-queen-the-prodigal-lyrics))
+_Hat tip to [Josiah Queen](https://genius.com/Josiah-queen-the-prodigal-lyrics)_
 
-### Based on the story of [Jepthah's Daughter](https://www.biblegateway.com/passage/?search=Judges%2011)
+> Everyone wants to be [the Prodigal Son](https://www.biblegateway.com/passage/?search=Luke%2015%3A11-32&version=NIV)
+> Nobody wants to be [Jepthah's Daughter](https://www.biblegateway.com/passage/?search=Judges%2011)
+> (whom he sacrificed to the LORD to fulfill a vow)
 
-#### Whom he sacrificed to the LORD to fulfill a vow
-
-[*Verse 1*]
-
-I've been bound inside to [die an unwed bride](https://biblehub.com/judges/11-37.htm)
-Searching far and wide for how to save my life
+[_Verse 1_]
+I've been bound inside \ to [die an unwed bride](https://biblehub.com/judges/11-37.htm)
+Searching far and wide \ for how to save my life
 I cannot [save my life](https://biblehub.com/matthew/16-25.htm)
 
-[*Pre-Chorus*]
-
+[_Pre-Chorus_]
 So I will [dare to lose my soul](https://biblehub.com/mark/8-35.htm)
 If that is [the only hope](https://biblehub.com/matthew/26-39.htm) to
-Lead them [straight to you](https://biblehub.com/john/1-23.htm), and
+Lead them [straight to You](https://biblehub.com/john/1-23.htm), and
 
-[*Chorus*]
-
+[_Chorus_]
 I'm lost in a feeling
 That I ain't long for this world
 Going to [Golgotha](https://biblehub.com/john/19-17.htm)
@@ -28,20 +25,17 @@ But it leads them straight to You
 So I'm heading home
 Like a Jephthah's girl
 
-[*Verse 2*]
-
+[_Verse 2_]
 I don't [fight the altar](https://biblehub.com/romans/12-1.htm)
 I don't [fear the flame](https://biblehub.com/1_peter/1-7.htm)
-I just want a life that [overcomes the grave](https://biblehub.com/philippians/3-11.htm)
+I just want a life that rises up [from the grave](https://biblehub.com/philippians/3-11.htm)
 
-[*Pre-Chorus 2*]
-
+[_Pre-Chorus 2_]
 Yeah, I'll dare to lose my soul
 If that is the only way to
 Lead them straight to you, and
 
-[*Chorus 2*]
-
+[_Chorus 2_]
 I'm lost in a feeling
 That I ain't long for this world
 Going to Golgotha
@@ -50,18 +44,19 @@ But it leads them straight to You
 So I'm heading home
 Like a Jephthah's girl
 
-[*Bridge*]
+[_Bridge_]
 
 I will dare to lose my soul
 If that is the only way to
 Lead them straight to you, and
+
 You've [prepared for me a place](https://biblehub.com/john/14-2.htm)
 When I see You [face to face](https://biblehub.com/1_corinthians/13-12.htm)
 "[Well done](https://biblehub.com/matthew/25-21.htm), faithful child"
 Now I'm [lifted home](https://en.wikipedia.org/wiki/Nearer,_My_God,_to_Thee)
 Like a Jephthah's girl
 
-[*Chorus 3*]
+[_Chorus 3_]
 
 I'm lost in a feeling
 That I ain't long for this world
