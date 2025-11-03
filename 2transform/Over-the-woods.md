@@ -1572,3 +1572,38 @@ Was it because [*broken*] you... you never considered me your daughter? [*starts
 *And Happy Ever After!*
 
 **CINDERELLA**: I know!
+
+---
+
+## APPENDIX: Character List
+
+### Principal Characters
+
+Must be distinct actors for group scenes
+
+1. The Baker (Marshall)
+2. The Baker's Wife
+3. Rapunzel (Grace)
+4. Mother Gothel (The Witch)
+5. Cinderella
+6. The Mysterious Stranger
+7. The Harp
+
+### Major Characters
+
+Appear in multiple scenes throughout the story
+
+1. Little Red Riding Hood
+2. Jack
+3. Cinderella's Prince
+4. Rapunzel's Prince
+5. The Steward
+6. Grannie
+7. Jack's Mother
+
+### Minor Characters
+
+Present in only one or two scenes
+
+1. The Giantess
+2. The King
