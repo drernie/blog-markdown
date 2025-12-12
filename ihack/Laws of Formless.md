@@ -12,7 +12,6 @@ a prior domain in which no geometry is given.
 Here I present a successor:
 The Laws of Formless,
 a calculus that precedes the making of form."
-* * *
 
 ## 2. The Motivation
 
@@ -22,7 +21,6 @@ But boundary is already form.
 Form is already the result of a choice.
 What lies before choice?
 What is the mathematics of what is not yet divided?"
-* * *
 
 ## 3. The Primitive: the Tom
 
@@ -32,7 +30,6 @@ A Tom may be written as itself,
 or as a sequence of Toms.
 This permits the form to re-enter itself not as anomaly,
 but as nature."
-* * *
 
 ## 4. Three Contexts
 
@@ -58,7 +55,6 @@ There are three."
 "The whole. The domain prior to distinction."
 
 "The empty evaluation `()` is false; the empty unity `<>` is true."
-* * *
 
 ## 5. The Fold
 
@@ -70,7 +66,6 @@ l( (a b …) ) = [a, b, …]
 ```
 
 It is the reorientation of interpretation--the crossing between time and space."
-* * *
 
 ## 6. Predication
 
@@ -79,7 +74,6 @@ It is the reorientation of interpretation--the crossing between time and space."
 `<a>`
 
 This is true if applied to the Tom a, false otherwise. Thus the simplest logic arises from the simplest expression."
-* * *
 
 ## 7. Nil
 
@@ -88,7 +82,6 @@ This is true if applied to the Tom a, false otherwise. Thus the simplest logic a
 `()`
 
 which evaluates to nothing, and is the only self-dual element under the fold. Nil corresponds to the unmarked state; it is distinction unmade."
-* * *
 
 ## 8. The Philosophy
 
@@ -99,7 +92,6 @@ Time and space arise as two views
 of the same content.
 Form and sequence
 are one phenomenon seen differently."
-* * *
 
 ## 9. Closing
 
@@ -111,20 +103,21 @@ It strips form to its ground
 and allows the ground to generate form.
 In this, perhaps,
 we come closer to the mathematics of existence itself."
+
 * * *
 
-# Appendix A. Axioms of The Laws of Formless
+## Appendix A. Axioms of The Laws of Formless
 
 Below are the minimal axioms Spencer-Brown would append to formally ground the successor calculus. Each axiom uses only Toms, contexts, nil, unity, predicates, and the fold.
 * * *
 
-## A.1 Ontological Axioms
+### A.1 Ontological Axioms
 
-### A.1.1 Existence of Toms
+#### A.1.1 Existence of Toms
 
 A Tom is an entity that may be written as a single token or as a finite sequence of Toms. Nothing else is primitive.
 
-### A.1.2 Contextual Formation
+#### A.1.2 Contextual Formation
 
 Every Tom may appear in one of three contexts:
 
@@ -134,24 +127,24 @@ Every Tom may appear in one of three contexts:
 
 No other contexts exist.
 
-### A.1.3 Nil
+#### A.1.3 Nil
 
 The empty evaluation is nil: `()`
 
 Nil contains no Toms. Nil is the only irreducible Tom.
 * * *
 
-## A.2 Truth Axioms
+### A.2 Truth Axioms
 
-### A.2.1 True
+#### A.2.1 True
 
 An empty unity is true: `<> = true`
 
-### A.2.2 False
+#### A.2.2 False
 
 An empty evaluation is false: `() = false`
 
-### A.2.3 Predicate Evaluation
+#### A.2.3 Predicate Evaluation
 
 For any Tom a:
 
@@ -163,24 +156,24 @@ For any Tom a:
 where not-a denotes any Tom other than a, including nil.
 * * *
 
-## A.3 Structural Axioms
+### A.3 Structural Axioms
 
-### A.3.1 Sequence Formation
+#### A.3.1 Sequence Formation
 
 If x and y are Toms, then [x, y] is a Tom in reading context.
 
-### A.3.2 Form Formation
+#### A.3.2 Form Formation
 
 If x and y are Toms, then (x y) is a Tom in evaluating context.
 
-### A.3.3 Unity Formation
+#### A.3.3 Unity Formation
 
 If x is a Tom, then `<x>` is the unity containing x.
 * * *
 
-## A.4 Fold Axioms
+### A.4 Fold Axioms
 
-### A.4.1 Fold Between Contexts
+#### A.4.1 Fold Between Contexts
 
 The fold operator l maps between reading and evaluating contexts:
 
@@ -189,7 +182,7 @@ l( [x₁, x₂, …, xₙ] ) = (x₁ x₂ … xₙ)
 l( (x₁ x₂ … xₙ) ) = [x₁, x₂, …, xₙ]
 ```
 
-### A.4.2 Fold of Nil
+#### A.4.2 Fold of Nil
 
 ```formless
 l( () ) = []
@@ -198,22 +191,22 @@ l( [] ) = ()
 
 Nil and the empty reading context are dual non-structural forms.
 
-### A.4.3 Fixed Point
+#### A.4.3 Fixed Point
 
 Nil is the only fixed point of repeated folding: `l(l(())) = ()`
 
 No non-empty form is fold-stable.
 * * *
 
-## A.5 Unity Axioms
+### A.5 Unity Axioms
 
-### A.5.1 Unity Absorbs Form
+#### A.5.1 Unity Absorbs Form
 
 For any Tom x: `<x> = <>`
 
 Unity collapses distinction.
 
-### A.5.2 Unity vs Nil
+#### A.5.2 Unity vs Nil
 
 Unity and nil are dual:
 
@@ -225,9 +218,9 @@ l(()) = <>
 Unity becomes emptiness; emptiness becomes unity.
 * * *
 
-## A.6 Re-entry Axiom
+### A.6 Re-entry Axiom
 
-### A.6.1 Recursive Toms
+#### A.6.1 Recursive Toms
 
 A Tom may contain itself:
 
@@ -244,9 +237,9 @@ Tom = (Tom)
 This is permitted and well-formed.
 * * *
 
-## A.7 Distinction Axiom
+### A.7 Distinction Axiom
 
-### A.7.1 Context Makes the Difference
+#### A.7.1 Context Makes the Difference
 
 Two expressions containing identical Toms differ only by their context:
 
